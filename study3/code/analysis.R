@@ -2,6 +2,7 @@
 # Run from study3/:  Rscript code/analysis.R out
 # Reads data/, writes the results to the folder given as the first argument (default "results").
 suppressPackageStartupMessages(library(cosminfit))
+Sys.setlocale("LC_COLLATE", "C")  # deterministic row ordering across locales (e.g. CI runners)
 args <- commandArgs(trailingOnly = TRUE)
 out_dir <- if (length(args)) args[1] else "results"
 dir.create(out_dir, showWarnings = FALSE)
