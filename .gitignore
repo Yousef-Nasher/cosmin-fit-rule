@@ -1,0 +1,18 @@
+# working folders created by the scripts
+out/
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rcheck/
+cosminfit_*.tar.gz
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+# operating system
+.DS_Store
+Thumbs.db

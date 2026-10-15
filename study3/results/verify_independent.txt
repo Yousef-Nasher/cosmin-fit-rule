@@ -1,0 +1,16 @@
+Q1 wording: {'disjunctive': 26, 'conjunctive': 2, 'mixed': 3, 'availability': 0, 'not stated': 66}
+CFA results: 687 reviews: 86
+Q2 indices per result: {0: 11, 1: 143, 2: 266, 3: 179, 4: 88} median 2.0
+Q4 cosmin        {'sufficient': 422, 'insufficient': 254, 'indeterminate': 11}
+Q4 no_rmsea      {'sufficient': 349, 'insufficient': 285, 'indeterminate': 53}
+Q4 srmr_df       {'sufficient': 361, 'insufficient': 258, 'indeterminate': 68}
+Q4 two_of_three  {'sufficient': 169, 'insufficient': 352, 'indeterminate': 166}
+Q4 no_rmsea      sufficient -> insufficient 52, -> not sufficient 73 of 422
+Q4 srmr_df       sufficient -> insufficient 4, -> not sufficient 61 of 422
+Q4 two_of_three  sufficient -> insufficient 175, -> not sufficient 253 of 422
+Printed + with no passing index: 40 | printed - with a passing index: 30
+Q3 141/217 = 65.0% from 44 reviews
+Instruments: 417 | + as written: 253
+no_rmsea      instruments + -> not + 46; IC -> ? 16; A -> B 3; B -> C 1; recommendations changed 4/101
+srmr_df       instruments + -> not + 32; IC -> ? 6; A -> B 1; B -> C 0; recommendations changed 1/101
+two_of_three  instruments + -> not + 167; IC -> ? 53; A -> B 6; B -> C 7; recommendations changed 13/101

@@ -1,0 +1,105 @@
+chunks 1520 | rows 228000 | cells 152 | reps per cell: min 500 max 500
+
+=== Fit quality by arm and N (percent of attempted fits) ===
+            arm    n     ok admiss degenerate nonconv
+        ml_cont  100  99.99  99.87          0    0.01
+ ml_ord_as_cont  100  99.94  99.72          0    0.06
+      wlsmv_ord  100  99.98  99.77          0    0.02
+        ml_cont  200  99.99  99.99          0    0.01
+ ml_ord_as_cont  200  99.99  99.99          0    0.01
+      wlsmv_ord  200 100.00 100.00          0    0.00
+        ml_cont  500 100.00 100.00          0    0.00
+ ml_ord_as_cont  500 100.00 100.00          0    0.00
+      wlsmv_ord  500 100.00 100.00          0    0.00
+        ml_cont 1000 100.00 100.00          0    0.00
+ ml_ord_as_cont 1000 100.00 100.00          0    0.00
+      wlsmv_ord 1000 100.00 100.00          0    0.00
+
+==================== PRIMARY: WLSMV scaled indices ====================
+
+--- arm: ml_cont ---
+    N | COSMIN  false-fail/false-pass | 2-of-3  ff/fp              | all-3   ff/fp              | SRMR-df-scaled ff/fp
+  100 |   1.9(0.2) /  48.9(0.5)    |   9.1(0.5) /  30.2(0.4)    |  22.2(0.7) /  18.5(0.4)    |   8.1(0.4) /  32.7(0.5)
+  200 |   0.0(0.0) /  61.5(0.5)    |   1.5(0.2) /  36.2(0.5)    |   7.8(0.4) /  18.0(0.4)    |   1.5(0.2) /  36.2(0.5)
+  500 |   0.0(0.0) /  68.8(0.5)    |   0.1(0.0) /  37.6(0.5)    |   0.6(0.1) /  16.6(0.4)    |   0.1(0.0) /  39.2(0.5)
+ 1000 |   0.0(0.0) /  71.8(0.4)    |   0.0(0.0) /  37.3(0.5)    |   0.0(0.0) /  15.3(0.4)    |   0.0(0.0) /  39.6(0.5)
+  mechanism among ALL clean fits (percent):
+   N= 100  RMSEA-rescues  1.21 | SRMR>RMSEA  46.0 | among false passes: SRMR sole  33.1, CFI/TLI sole   1.6 | dropping RMSEA changes 229 of 18976 ratings
+   N= 200  RMSEA-rescues  0.00 | SRMR>RMSEA  37.0 | among false passes: SRMR sole  41.2, CFI/TLI sole   0.0 | dropping RMSEA changes 0 of 18998 ratings
+   N= 500  RMSEA-rescues  0.00 | SRMR>RMSEA  28.4 | among false passes: SRMR sole  45.4, CFI/TLI sole   0.0 | dropping RMSEA changes 0 of 19000 ratings
+   N=1000  RMSEA-rescues  0.00 | SRMR>RMSEA  22.1 | among false passes: SRMR sole  48.1, CFI/TLI sole   0.0 | dropping RMSEA changes 0 of 19000 ratings
+
+--- arm: ml_ord_as_cont ---
+    N | COSMIN  false-fail/false-pass | 2-of-3  ff/fp              | all-3   ff/fp              | SRMR-df-scaled ff/fp
+  100 |   2.5(0.2) /  54.6(0.5)    |  11.4(0.5) /  34.8(0.5)    |  23.8(0.7) /  22.3(0.4)    |   9.9(0.5) /  37.2(0.5)
+  200 |   0.0(0.0) /  70.3(0.4)    |   1.2(0.2) /  40.8(0.5)    |   9.2(0.5) /  21.7(0.4)    |   1.2(0.2) /  40.9(0.5)
+  500 |   0.0(0.0) /  79.5(0.4)    |   0.1(0.0) /  42.6(0.5)    |   1.1(0.2) /  21.1(0.4)    |   0.1(0.0) /  43.6(0.5)
+ 1000 |   0.0(0.0) /  81.3(0.4)    |   0.0(0.0) /  41.7(0.5)    |   0.0(0.0) /  20.6(0.4)    |   0.0(0.0) /  43.6(0.5)
+  mechanism among ALL clean fits (percent):
+   N= 100  RMSEA-rescues  1.65 | SRMR>RMSEA  52.1 | among false passes: SRMR sole  32.0, CFI/TLI sole   0.6 | dropping RMSEA changes 312 of 18946 ratings
+   N= 200  RMSEA-rescues  0.00 | SRMR>RMSEA  42.7 | among false passes: SRMR sole  41.9, CFI/TLI sole   0.0 | dropping RMSEA changes 0 of 18998 ratings
+   N= 500  RMSEA-rescues  0.00 | SRMR>RMSEA  31.2 | among false passes: SRMR sole  46.4, CFI/TLI sole   0.0 | dropping RMSEA changes 0 of 19000 ratings
+   N=1000  RMSEA-rescues  0.00 | SRMR>RMSEA  24.1 | among false passes: SRMR sole  48.8, CFI/TLI sole   0.0 | dropping RMSEA changes 0 of 19000 ratings
+
+--- arm: wlsmv_ord ---
+    N | COSMIN  false-fail/false-pass | 2-of-3  ff/fp              | all-3   ff/fp              | SRMR-df-scaled ff/fp
+  100 |   5.2(0.3) /  50.5(0.5)    |  12.8(0.5) /  35.6(0.5)    |  22.6(0.7) /  21.9(0.4)    |   7.6(0.4) /  48.0(0.5)
+  200 |   0.0(0.0) /  63.0(0.5)    |   1.0(0.2) /  48.5(0.5)    |   6.9(0.4) /  26.1(0.4)    |   1.0(0.2) /  50.1(0.5)
+  500 |   0.0(0.0) /  67.5(0.5)    |   0.0(0.0) /  49.8(0.5)    |   0.5(0.1) /  27.9(0.4)    |   0.0(0.0) /  50.0(0.5)
+ 1000 |   0.0(0.0) /  69.1(0.5)    |   0.0(0.0) /  50.3(0.5)    |   0.0(0.0) /  29.2(0.4)    |   0.0(0.0) /  50.4(0.5)
+  mechanism among ALL clean fits (percent):
+   N= 100  RMSEA-rescues  4.59 | SRMR>RMSEA  57.0 | among false passes: SRMR sole   5.0, CFI/TLI sole  14.2 | dropping RMSEA changes 870 of 18956 ratings
+   N= 200  RMSEA-rescues  0.00 | SRMR>RMSEA  46.3 | among false passes: SRMR sole  20.5, CFI/TLI sole   2.6 | dropping RMSEA changes 0 of 19000 ratings
+   N= 500  RMSEA-rescues  0.00 | SRMR>RMSEA  31.5 | among false passes: SRMR sole  26.0, CFI/TLI sole   0.3 | dropping RMSEA changes 0 of 19000 ratings
+   N=1000  RMSEA-rescues  0.00 | SRMR>RMSEA  25.0 | among false passes: SRMR sole  27.2, CFI/TLI sole   0.0 | dropping RMSEA changes 0 of 19000 ratings
+
+==================== SENSITIVITY: WLSMV robust indices ====================
+
+--- arm: wlsmv_ord ---
+    N | COSMIN  false-fail/false-pass | 2-of-3  ff/fp              | all-3   ff/fp              | SRMR-df-scaled ff/fp
+  100 |   7.9(0.4) /  41.0(0.5)    |  21.6(0.7) /  24.9(0.4)    |  34.3(0.8) /  16.1(0.4)    |  18.7(0.6) /  28.5(0.4)
+  200 |   0.0(0.0) /  61.4(0.5)    |   2.7(0.3) /  33.0(0.5)    |  13.6(0.5) /  17.0(0.4)    |   2.7(0.3) /  33.1(0.5)
+  500 |   0.0(0.0) /  67.3(0.5)    |   0.1(0.1) /  35.4(0.5)    |   1.9(0.2) /  15.7(0.4)    |   0.1(0.1) /  37.4(0.5)
+ 1000 |   0.0(0.0) /  69.1(0.5)    |   0.0(0.0) /  35.5(0.5)    |   0.1(0.0) /  14.3(0.3)    |   0.0(0.0) /  38.9(0.5)
+  mechanism among ALL clean fits (percent):
+   N= 100  RMSEA-rescues  2.26 | SRMR>RMSEA  43.9 | among false passes: SRMR sole  30.6, CFI/TLI sole   1.9 | dropping RMSEA changes 429 of 18956 ratings
+   N= 200  RMSEA-rescues  0.00 | SRMR>RMSEA  36.7 | among false passes: SRMR sole  46.2, CFI/TLI sole   0.0 | dropping RMSEA changes 0 of 19000 ratings
+   N= 500  RMSEA-rescues  0.00 | SRMR>RMSEA  27.2 | among false passes: SRMR sole  47.5, CFI/TLI sole   0.0 | dropping RMSEA changes 0 of 19000 ratings
+   N=1000  RMSEA-rescues  0.00 | SRMR>RMSEA  21.4 | among false passes: SRMR sole  48.6, CFI/TLI sole   0.0 | dropping RMSEA changes 0 of 19000 ratings
+
+=== Which RMSEA? WLSMV scaled vs robust disagree on RMSEA<.06 (percent of fits) ===
+  N= 100  correct models:  13.7   consequential:  10.6
+  N= 200  correct models:   4.0   consequential:   8.5
+  N= 500  correct models:   0.6   consequential:   6.6
+  N=1000  correct models:   0.1   consequential:   6.7
+  (robust RMSEA missing for 1 of 75956 WLSMV fits)
+
+=== Rule results split by scale length (COSMIN false-pass / SRMR-df-scaled false-pass), N pooled ===
+  ml_cont         p= 5  n= 7992  COSMIN  49.8  SRMRdf  11.5  2of3  11.5
+  ml_cont         p=10  n=19984  COSMIN  61.8  SRMRdf  36.2  2of3  35.2
+  ml_cont         p=12  n=13998  COSMIN  71.5  SRMRdf  52.3  2of3  49.1
+  ml_ord_as_cont  p= 5  n= 7986  COSMIN  61.0  SRMRdf  15.5  2of3  15.5
+  ml_ord_as_cont  p=10  n=19968  COSMIN  67.7  SRMRdf  41.5  2of3  39.9
+  ml_ord_as_cont  p=12  n=13996  COSMIN  82.8  SRMRdf  55.8  2of3  54.1
+  wlsmv_ord       p= 5  n= 7997  COSMIN  54.4  SRMRdf  41.0  2of3  37.5
+  wlsmv_ord       p=10  n=19970  COSMIN  61.7  SRMRdf  45.8  2of3  43.1
+  wlsmv_ord       p=12  n=13992  COSMIN  68.4  SRMRdf  60.0  2of3  55.1
+
+=== Dose-response: COSMIN pass rate by population omega overstatement (resid conditions, all N) ===
+  ml_cont         <.02: 98.8/  9.8 .02-.04: 93.9/ 15.1 .04-.06: 50.1/  1.0 .06-.08: 44.9/  3.5 .08-.12: 15.2/  0.0 >.12: 12.1/  0.2   (COSMIN/all-3)
+  ml_ord_as_cont  <.02: 98.9/ 34.1 .02-.04: 95.3/ 21.5 .04-.06: 69.6/  2.0 .06-.08: 52.2/  5.5 .08-.12: 29.6/  0.0 >.12: 31.3/  0.5   (COSMIN/all-3)
+  wlsmv_ord       <.02: 98.5/ 44.5 .02-.04: 90.0/ 33.2 .04-.06: 46.1/  3.2 .06-.08: 44.3/  5.9 .08-.12: 12.1/  0.1 >.12: 13.1/  0.2   (COSMIN/all-3)
+
+=== Severity sensitivity: COSMIN false-pass with ML-based severity flag ===
+  ml_cont         N= 100   50.9
+  ml_cont         N= 200   64.4
+  ml_cont         N= 500   71.4
+  ml_cont         N=1000   74.3
+  ml_ord_as_cont  N= 100   56.9
+  ml_ord_as_cont  N= 200   72.7
+  ml_ord_as_cont  N= 500   81.3
+  ml_ord_as_cont  N=1000   82.9
+  wlsmv_ord       N= 100   53.1
+  wlsmv_ord       N= 200   65.5
+  wlsmv_ord       N= 500   70.3
+  wlsmv_ord       N=1000   71.8

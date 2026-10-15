@@ -1,0 +1,25 @@
+"stage","detail","n"
+"records identified","PubMed search",1216
+"records identified","COSMIN database export",388
+"duplicates removed","both sources",213
+"records screened on title and abstract","both sources",1391
+"excluded: published before 2018","title and abstract",167
+"excluded: not a systematic review","title and abstract",26
+"excluded: measurement properties not evaluated","title and abstract",20
+"excluded: retracted","title and abstract",1
+"records passed to the sampling frame","title and abstract",1177
+"removed: publication year before 2018 found from DOI or URL","frame",57
+"records in the sampling frame","frame",1120
+"records reached in draw order","frame",793
+"records not reached (stratum quota filled)","frame",327
+"full text not obtained","reached",270
+"full text assessed","reached",523
+"excluded: no numeric CFA fit index in main text or supplementary files","full text",144
+"excluded: no confirmatory factor analysis or structural validity results","full text",111
+"excluded: no numeric CFA fit index in main text; supplementary files could not be obtained","full text",93
+"excluded: COSMIN criteria not applied to rate measurement properties","full text",35
+"excluded: no numeric CFA fit index in main text; no supplementary files exist","full text",25
+"excluded: structural validity assessed by exploratory analysis only","full text",17
+"excluded: published before 2018 (outside the frame)","full text",1
+"reviews included","full text",97
+"study-level CFA results","included reviews",704

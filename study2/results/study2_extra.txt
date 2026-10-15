@@ -1,0 +1,110 @@
+=== Effect of the RMSEA clause (ratings changed by dropping it), WLSMV scaled primary ===
+  ml_cont         N=100  changed  229 of 18976 | correct model rescued   39 | consequential passed  175 | non-consequential misfit passed   15
+  ml_ord_as_cont  N=100  changed  312 of 18946 | correct model rescued   58 | consequential passed  213 | non-consequential misfit passed   41
+  wlsmv_ord       N=100  changed  870 of 18956 | correct model rescued  180 | consequential passed  551 | non-consequential misfit passed  139
+
+  N=100, WLSMV: rescue rate of CORRECT models by loading and scale (percent)
+        load
+          0.5 0.7
+  p10_m1  2.2   0
+  p10_m2 11.6   0
+  p12_m2 22.2   0
+  p5_m1   0.0   0
+
+  same, robust indices (sensitivity)
+        load
+          0.5 0.7
+  p10_m1  1.0   0
+  p10_m2  5.4   0
+  p12_m2 14.6   0
+  p5_m1   0.0   0
+
+=== COSMIN pass rate per condition (percent), rows = condition, cols = N ===
+
+--- wlsmv_ord ---
+                              100   200   500  1000 conseq rmsea_pop srmr_pop omega_over
+p05_m1_l0.50_none_k0_d0.00   97.6 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p05_m1_l0.50_resid_k1_d0.30  80.1  92.4 100.0 100.0   TRUE     0.079    0.046      0.077
+p05_m1_l0.50_resid_k2_d0.30  21.2  17.4  10.8   3.0   TRUE     0.155    0.089      0.136
+p05_m1_l0.70_none_k0_d0.00  100.0 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p05_m1_l0.70_resid_k1_d0.30  90.4  94.2  99.4 100.0   TRUE     0.087    0.051      0.051
+p05_m1_l0.70_resid_k2_d0.30  37.2  20.2   4.4   0.4   TRUE     0.155    0.089      0.095
+p10_m1_l0.50_dim_k0_d0.70    67.0  98.2 100.0 100.0   TRUE     0.042    0.034     -0.014
+p10_m1_l0.50_none_k0_d0.00   93.0 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p10_m1_l0.50_resid_k1_d0.30  65.0  99.0 100.0 100.0  FALSE     0.044    0.035      0.020
+p10_m1_l0.50_resid_k2_d0.30  34.0  84.4 100.0 100.0  FALSE     0.064    0.051      0.040
+p10_m1_l0.50_resid_k3_d0.40   0.2   0.6   1.0   0.0   TRUE     0.106    0.085      0.077
+p10_m1_l0.70_dim_k0_d0.70    39.2  63.0  89.0  98.2   TRUE     0.083    0.066     -0.017
+p10_m1_l0.70_none_k0_d0.00  100.0 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p10_m1_l0.70_resid_k1_d0.30  93.2  99.6 100.0 100.0  FALSE     0.044    0.035      0.012
+p10_m1_l0.70_resid_k2_d0.30  58.8  83.6  99.4 100.0  FALSE     0.064    0.051      0.024
+p10_m1_l0.70_resid_k3_d0.40   1.8   0.0   0.0   0.0  FALSE     0.107    0.085      0.047
+p10_m2_l0.50_cross_k2_d0.40  59.0  97.4 100.0 100.0   TRUE     0.048    0.037     -0.002
+p10_m2_l0.50_none_k0_d0.00   84.2 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p10_m2_l0.50_resid_k1_d0.30  70.5  99.4 100.0 100.0   TRUE     0.033    0.026      0.032
+p10_m2_l0.50_resid_k2_d0.30  32.8  83.0  99.8 100.0   TRUE     0.060    0.047      0.061
+p10_m2_l0.50_resid_k3_d0.40   0.6   1.0   1.0   0.4   TRUE     0.106    0.084      0.107
+p10_m2_l0.70_cross_k2_d0.40  74.0  82.6  95.4  99.6   TRUE     0.076    0.060     -0.002
+p10_m2_l0.70_none_k0_d0.00   97.6 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p10_m2_l0.70_resid_k1_d0.30  95.2 100.0 100.0 100.0   TRUE     0.036    0.028      0.021
+p10_m2_l0.70_resid_k2_d0.30  65.6  82.8  99.8 100.0  FALSE     0.060    0.047      0.040
+p10_m2_l0.70_resid_k3_d0.40  14.9   4.0   0.0   0.0   TRUE     0.107    0.084      0.071
+p12_m2_l0.50_cross_k2_d0.40  58.6  95.2 100.0 100.0   TRUE     0.048    0.040     -0.002
+p12_m2_l0.50_dim_k0_d0.70    84.0 100.0 100.0 100.0   TRUE     0.020    0.016     -0.009
+p12_m2_l0.50_none_k0_d0.00   88.0 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p12_m2_l0.50_resid_k1_d0.30  75.6  99.8 100.0 100.0   TRUE     0.031    0.025      0.022
+p12_m2_l0.50_resid_k2_d0.30  48.8  93.6 100.0 100.0  FALSE     0.049    0.040      0.043
+p12_m2_l0.50_resid_k3_d0.40   1.0   4.8  24.4  50.2   TRUE     0.085    0.070      0.083
+p12_m2_l0.70_cross_k2_d0.40  64.6  69.6  92.8  99.2   TRUE     0.075    0.062     -0.002
+p12_m2_l0.70_dim_k0_d0.70    86.8  99.6 100.0 100.0   TRUE     0.038    0.032     -0.011
+p12_m2_l0.70_none_k0_d0.00   98.4 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p12_m2_l0.70_resid_k1_d0.30  95.2 100.0 100.0 100.0  FALSE     0.032    0.026      0.014
+p12_m2_l0.70_resid_k2_d0.30  72.2  95.2 100.0 100.0  FALSE     0.049    0.041      0.027
+p12_m2_l0.70_resid_k3_d0.40   8.2   0.8   0.0   0.0   TRUE     0.085    0.070      0.053
+
+--- ml_cont ---
+                              100   200   500  1000 conseq rmsea_pop srmr_pop omega_over
+p05_m1_l0.50_none_k0_d0.00   99.6 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p05_m1_l0.50_resid_k1_d0.30  83.2  91.8 100.0 100.0   TRUE     0.079    0.046      0.077
+p05_m1_l0.50_resid_k2_d0.30  19.9  15.2   9.4   4.0   TRUE     0.155    0.089      0.136
+p05_m1_l0.70_none_k0_d0.00  100.0 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p05_m1_l0.70_resid_k1_d0.30  74.6  83.4  95.0  99.6   TRUE     0.087    0.051      0.051
+p05_m1_l0.70_resid_k2_d0.30  12.4   6.0   2.8   0.6   TRUE     0.155    0.089      0.095
+p10_m1_l0.50_dim_k0_d0.70    83.0 100.0 100.0 100.0   TRUE     0.042    0.034     -0.014
+p10_m1_l0.50_none_k0_d0.00   99.8 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p10_m1_l0.50_resid_k1_d0.30  91.4 100.0 100.0 100.0  FALSE     0.044    0.035      0.020
+p10_m1_l0.50_resid_k2_d0.30  61.8  97.8 100.0 100.0  FALSE     0.064    0.051      0.040
+p10_m1_l0.50_resid_k3_d0.40   1.4   3.6   6.0   2.6   TRUE     0.106    0.085      0.077
+p10_m1_l0.70_dim_k0_d0.70    49.6  75.6  93.4  99.6   TRUE     0.083    0.066     -0.017
+p10_m1_l0.70_none_k0_d0.00  100.0 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p10_m1_l0.70_resid_k1_d0.30  99.8 100.0 100.0 100.0  FALSE     0.044    0.035      0.012
+p10_m1_l0.70_resid_k2_d0.30  94.8  99.8 100.0 100.0  FALSE     0.064    0.051      0.024
+p10_m1_l0.70_resid_k3_d0.40   7.4   8.6   7.4   2.2  FALSE     0.107    0.085      0.047
+p10_m2_l0.50_cross_k2_d0.40  73.5  98.8 100.0 100.0   TRUE     0.048    0.037     -0.002
+p10_m2_l0.50_none_k0_d0.00   93.8 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p10_m2_l0.50_resid_k1_d0.30  80.3 100.0 100.0 100.0   TRUE     0.033    0.026      0.032
+p10_m2_l0.50_resid_k2_d0.30  41.0  89.4 100.0 100.0   TRUE     0.060    0.047      0.061
+p10_m2_l0.50_resid_k3_d0.40   0.8   0.8   0.6   0.0   TRUE     0.106    0.084      0.107
+p10_m2_l0.70_cross_k2_d0.40  47.2  61.2  82.4  93.4   TRUE     0.076    0.060     -0.002
+p10_m2_l0.70_none_k0_d0.00   99.8 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p10_m2_l0.70_resid_k1_d0.30  85.6  99.6 100.0 100.0   TRUE     0.036    0.028      0.021
+p10_m2_l0.70_resid_k2_d0.30  54.4  88.8  99.2 100.0  FALSE     0.060    0.047      0.040
+p10_m2_l0.70_resid_k3_d0.40   0.2   0.0   0.0   0.0   TRUE     0.107    0.084      0.071
+p12_m2_l0.50_cross_k2_d0.40  73.6  97.4 100.0 100.0   TRUE     0.048    0.040     -0.002
+p12_m2_l0.50_dim_k0_d0.70    91.0 100.0 100.0 100.0   TRUE     0.020    0.016     -0.009
+p12_m2_l0.50_none_k0_d0.00   92.4 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p12_m2_l0.50_resid_k1_d0.30  77.4  99.8 100.0 100.0   TRUE     0.031    0.025      0.022
+p12_m2_l0.50_resid_k2_d0.30  48.4  96.8 100.0 100.0  FALSE     0.049    0.040      0.043
+p12_m2_l0.50_resid_k3_d0.40   2.2  15.0  54.8  85.8   TRUE     0.085    0.070      0.083
+p12_m2_l0.70_cross_k2_d0.40  33.6  45.2  73.4  85.0   TRUE     0.075    0.062     -0.002
+p12_m2_l0.70_dim_k0_d0.70    90.2 100.0 100.0 100.0   TRUE     0.038    0.032     -0.011
+p12_m2_l0.70_none_k0_d0.00   99.6 100.0 100.0 100.0  FALSE     0.000    0.000      0.000
+p12_m2_l0.70_resid_k1_d0.30  90.6 100.0 100.0 100.0  FALSE     0.032    0.026      0.014
+p12_m2_l0.70_resid_k2_d0.30  75.0  98.6 100.0 100.0  FALSE     0.049    0.041      0.027
+p12_m2_l0.70_resid_k3_d0.40   5.2   8.6  26.2  38.0   TRUE     0.085    0.070      0.053
+
+=== Sensitivity: false-fail / false-pass including inadmissible converged fits (WLSMV scaled) ===
+  N= 100  false-fail 5.2  false-pass 50.5   (inadmissible fits: 41)
+  N= 200  false-fail 0.0  false-pass 63.0   (inadmissible fits: 0)
+  N= 500  false-fail 0.0  false-pass 67.5   (inadmissible fits: 0)
+  N=1000  false-fail 0.0  false-pass 69.1   (inadmissible fits: 0)

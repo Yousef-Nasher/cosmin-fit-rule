@@ -1,0 +1,31 @@
+# Wilson interval, checked against the formula computed here.
+w <- wilson_ci(5, 100)
+z <- qnorm(0.975)
+centre <- (5 + z^2 / 2) / (100 + z^2)
+half <- z / (100 + z^2) * sqrt(5 * 95 / 100 + z^2 / 4)
+check(abs(w$est - 0.05) < 1e-12, "wilson est")
+check(abs(w$lower - (centre - half)) < 1e-12, "wilson lower formula")
+check(abs(w$upper - (centre + half)) < 1e-12, "wilson upper formula")
+check(abs(w$lower - 0.0215) < 1e-4 && abs(w$upper - 0.1118) < 1e-4, "wilson hand values")
+w0 <- wilson_ci(c(0, 50), 50)
+check(nrow(w0) == 2 && abs(w0$lower[1]) < 1e-12 && abs(w0$upper[2] - 1) < 1e-12, "wilson boundaries")
+check(wilson_ci(5, 100, conf = 0.99)$lower < w$lower, "wider at 99%")
+check_error(wilson_ci(6, 5), "x > n")
+check_error(wilson_ci(1, 5, conf = 1.2), "bad conf")
+
+# Cluster bootstrap.
+set.seed(42)
+x <- rbinom(60, 1, 0.4) == 1
+x[c(3, 17)] <- NA
+cl <- rep(1:20, each = 3)
+b1 <- cluster_boot_prop(x, cl, B = 500, seed = 7)
+b2 <- cluster_boot_prop(x, cl, B = 500, seed = 7)
+check(identical(b1, b2), "bootstrap reproducible with seed")
+check(abs(b1$est - mean(x, na.rm = TRUE)) < 1e-12, "est equals mean(x)")
+check(b1$lower <= b1$est && b1$est <= b1$upper, "est inside interval")
+check(b1$n == 58 && b1$n_clusters == 20 && b1$B == 500, "n, n_clusters, B")
+check(identical(names(b1), c("est", "lower", "upper", "B", "n", "n_clusters")), "list names")
+set.seed(99); r1 <- runif(1)
+set.seed(99); invisible(cluster_boot_prop(x, cl, B = 50, seed = 1)); r2 <- runif(1)
+check(identical(r1, r2), "global RNG state restored")
+check_error(cluster_boot_prop(x, cl[-1]), "length mismatch")

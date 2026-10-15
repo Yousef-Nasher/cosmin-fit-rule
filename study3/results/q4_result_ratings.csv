@@ -1,0 +1,5 @@
+"rule","sufficient","insufficient","indeterminate"
+"cosmin",422,254,11
+"no_rmsea",349,285,53
+"srmr_df",361,258,68
+"two_of_three",169,352,166

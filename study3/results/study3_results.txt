@@ -1,0 +1,112 @@
+STUDY 3 RESULTS
+
+Sample
+  Frame: 1120 records; drawn: 100; replacement queue: 1020
+  included                   97
+  excluded                  426
+  full text not obtained    270
+  not reached               327
+    excluded: no numeric CFA fit index in main text or supplementary files                       144
+    excluded: no confirmatory factor analysis or structural validity results                     111
+    excluded: no numeric CFA fit index in main text; supplementary files could not be obtained    93
+    excluded: COSMIN criteria not applied to rate measurement properties                          35
+    excluded: no numeric CFA fit index in main text; no supplementary files exist                 25
+    excluded: structural validity assessed by exploratory analysis only                           17
+    excluded: published before 2018 (outside the frame)                                            1
+  Included reviews: 97 (drawn 14, replacement 83); COSMIN version 1: 90, version 2: 7
+  CFA rows: 729 (study level 704, pooled 17, summary 8); instruments with a review-level record: 331
+  Included by year stratum: 2018 4, 2019 6, 2020 6, 2021 12, 2022 13, 2023 13, 2024 13, 2025 16, 2026 14
+
+Q1. How reviews state the criterion (unit: review, n = 97; Wilson 95% CI)
+  disjunctive    26  26.8% (95% CI 19.0% to 36.4%)
+  conjunctive     2  2.1% (95% CI 0.6% to 7.2%)
+  mixed           3  3.1% (95% CI 1.1% to 8.7%)
+  availability    0  0.0% (95% CI 0.0% to 3.8%)
+  not stated     66  68.0% (95% CI 58.2% to 76.5%)
+  Stated unambiguously (disjunctive or conjunctive): 28/97 = 28.9% (95% CI 20.8% to 38.6%)
+  COSMIN version 1: disjunctive 24, conjunctive 2, mixed 3, availability 0, not stated 61
+  COSMIN version 2: disjunctive 2, conjunctive 0, mixed 0, availability 0, not stated 5
+
+CFA results analysed: 687 study-level rows from 86 reviews (17 rows with a printed range set aside)
+
+Q2. Number of the four COSMIN indices (CFI, TLI, RMSEA, SRMR) reported per CFA result (n = 687)
+  0 indices:   11  (  1.6%)
+  1 indices:  143  ( 20.8%)
+  2 indices:  266  ( 38.7%)
+  3 indices:  179  ( 26.1%)
+  4 indices:   88  ( 12.8%)
+  Median 2 (IQR 2 to 3); mean 2.28
+  Reported: CFI 604, TLI 227, RMSEA 561, SRMR 172
+  Two or more indices: 533/687 = 77.6% (95% CI 67.9% to 85.8%), 86 reviews
+  All three of CFI, RMSEA and SRMR: 145; items reported: 24; df reported: 32
+  Median of the per-review medians: 2
+
+Printed result ratings against the rule as written (results with their own + or - rating, n = 435)
+  printed +: indeterminate 1, insufficient 40, sufficient 253
+  printed -: indeterminate 1, insufficient 110, sufficient 30
+  Rated + although no reported index meets its threshold: 40 results in 20 reviews
+  Rated - although a reported index meets its threshold: 30 results in 11 reviews
+  Printed rating agrees with the rule as written: 363/433 = 83.8% (95% CI 77.3% to 90.1%), 55 reviews
+  Reviews with at least one such disagreement: 27 of 55 reviews with evaluable rated results
+
+Q3. Results rated sufficient with two or more indices reported: 217 (from 44 reviews)
+  At least one reported index fails its own threshold: 141/217 = 65.0% (95% CI 53.8% to 74.4%), 44 reviews
+  Failing index among these results: CFI 77, TLI 53, RMSEA 102, SRMR 6
+  Rescued by RMSEA alone (RMSEA < .06 the only passing clause): 24
+  Rescued by SRMR alone: 20
+  Among all results rated sufficient (one or more indices, n = 293): no reported index passes: 40/293 = 13.7% (95% CI 8.5% to 20.0%), 53 reviews
+
+Q4a. Re-rating every CFA result under each rule (n = 687 results)
+  cosmin        sufficient 422  insufficient 254  indeterminate  11
+  no_rmsea      sufficient 349  insufficient 285  indeterminate  53
+  srmr_df       sufficient 361  insufficient 258  indeterminate  68
+  two_of_three  sufficient 169  insufficient 352  indeterminate 166
+  Results sufficient under the rule as written: 422
+  no_rmsea      sufficient -> insufficient: 52/422 = 12.3% (95% CI 8.2% to 16.2%), 77 reviews
+                sufficient -> not sufficient (insufficient or indeterminate): 73/422 = 17.3% (95% CI 13.2% to 21.3%), 77 reviews
+  srmr_df       sufficient -> insufficient: 4/422 = 0.9% (95% CI 0.0% to 2.8%), 77 reviews
+                sufficient -> not sufficient (insufficient or indeterminate): 61/422 = 14.5% (95% CI 9.9% to 19.1%), 77 reviews
+  two_of_three  sufficient -> insufficient: 175/422 = 41.5% (95% CI 33.6% to 48.5%), 77 reviews
+                sufficient -> not sufficient (insufficient or indeterminate): 253/422 = 60.0% (95% CI 53.4% to 66.8%), 77 reviews
+  no_rmsea downgrades where SRMR was not reported: 49 of 52
+  no_rmsea      not sufficient any more, by COSMIN version: v1 63/354; v2 10/68
+  srmr_df       not sufficient any more, by COSMIN version: v1 50/354; v2 11/68
+  two_of_three  not sufficient any more, by COSMIN version: v1 220/354; v2 33/68
+
+Q4b. Instruments (review x instrument): 417, of which 296 have a review-level record
+  Structural validity + under the rule as written: 253
+  no_rmsea      + -> not +:  46 of 253 (to -: 28, to +/-: 5, to ?: 13); v1 40, v2 6
+  srmr_df       + -> not +:  32 of 253 (to -: 1, to +/-: 2, to ?: 29); v1 27, v2 5
+  two_of_three  + -> not +: 167 of 253 (to -: 103, to +/-: 16, to ?: 48); v1 147, v2 20
+
+Q4c. Internal consistency carried forward (instruments with printed IC + or -: 115)
+  no_rmsea      IC -> ?: 16 (v1 15, v2 1)
+  srmr_df       IC -> ?: 6 (v1 6, v2 0)
+  two_of_three  IC -> ?: 53 (v1 51, v2 2)
+
+Q4d. Recommendations, COSMIN version 1 reviews with A/B/C categories: 22 reviews, 102 instruments
+  Category printed for 101 of these instruments: A 21, B 46, C 34
+  no_rmsea      A -> B: 3; B -> C: 1; changed 4/101 = 4.0% (95% CI 1.6% to 9.7%)
+  srmr_df       A -> B: 1; B -> C: 0; changed 1/101 = 1.0% (95% CI 0.2% to 5.4%)
+  two_of_three  A -> B: 6; B -> C: 7; changed 13/101 = 12.9% (95% CI 7.7% to 20.8%)
+  COSMIN version 2 reviews (6 reviews, 45 instruments): structural validity + -> not + under no_rmsea 6, srmr_df 5, two_of_three 20
+
+Predictions
+  P1 fewer than half of reviews state the criterion unambiguously: holds (28.9%)
+  P2 median number of indices per result is 2 or fewer: holds (median 2)
+  P3 at least 20% of sufficient results have a failing index: holds (65.0%)
+  P4 fewer than 10% of recommendations change under any repaired rule: does not hold (largest 12.9%)
+
+Sensitivity analyses
+  S1 numerically implausible values treated as not reported (15 values in 13 rows)
+  Q3 S1: 141/217 = 65.0% (95% CI 53.8% to 74.4%), 44 reviews
+  Q4 S1: sufficient results 422; not sufficient any more: no_rmsea 73, srmr_df 61, two_of_three 253
+  S2 study-level rows with printed ranges included (17 rows added)
+  Q3 S2: 142/220 = 64.5% (95% CI 53.7% to 74.2%), 44 reviews
+  Q4 S2: sufficient results 428; not sufficient any more: no_rmsea 74, srmr_df 62, two_of_three 256
+  S3 IFI, NFI, RNI or RFI > .95 accepted as a comparable measure (11 rows affected)
+  Q3 S3: 143/218 = 65.6% (95% CI 54.1% to 75.2%), 44 reviews
+  Q4 S3: sufficient results 424; not sufficient any more: no_rmsea 73, srmr_df 61, two_of_three 253
+  Q3 S4 ratings printed at instrument level included: 170/253 = 67.2% (95% CI 54.4% to 78.0%), 47 reviews
+  S5 unreported indices treated as unknown: indeterminate results cosmin 260, no_rmsea 331, srmr_df 326, two_of_three 292
+  S6 instrument + only when all evaluable results are sufficient: + as written 243; + -> not +: no_rmsea 42, srmr_df 31, two_of_three 160

@@ -1,0 +1,730 @@
+review_id,row_id,instrument,instrument_group,model,study,n,items,estimator,ordinal,level,cfi_printed,cfi,tli_printed,tli,rmsea_printed,rmsea,srmr_printed,srmr,ifi,nfi,rni,rfi,df,other_indices,rating_printed,rating,rating_scope,value_flags,source
+F0008,F0008-001,PANSS-6,PANSS-6,2-factor,Li 2021,,,NS,NS,study,0.99,0.99,,,0.04,0.04,,,,,,,,,+,+,result,,main 3.4.1
+F0008,F0008-002,PANSS-6,PANSS-6,2-factor,,,,NS,NS,pooled,0.994,0.994,,,,,,,,,,,,n=216; plus IRT/Rasch 15/17,+,+,result,,main Table 3
+F0030,F0030-001,SF-36,SF-36,,,,,NS,NS,pooled,,,,,,,,,,,,,,synthesized result stated only as 'CFI > 0.95',+,+,result,,main Table 6
+F0030,F0030-002,EQ-5D,EQ-5D,,,,,NS,NS,pooled,,,,,0.06,0.06,,,,,,,,GFI 0.976,+,+,result,,main Table 6
+F0030,F0030-003,WHOQOL-BREF,WHOQOL-BREF,4-domain,,,,NS,NS,pooled,0.86–0.87,,,,0.07,0.07,,,,,,,,,−,-,result,cfi:range,main Table 6
+F0030,F0030-004,PROMIS-29,PROMIS-29,,,,,NS,NS,pooled,0.95–0.994,,,,0.04–0.1,,,,,,,,,,+,+,result,cfi:range;rmsea:range,main Table 6
+F0035,F0035-001,GOHAI (Brazilian),GOHAI,3-factor,[33],,,NS,NS,study,0.942,0.942,,,,,,,,,,,,,,,,,main Results text; per-study values in Appendix Table 5 (not obtained)
+F0042,F0042-001,CAS-CIPN,CAS-CIPN,one-factor,,327,,NS,NS,study,,,,,0.079,0.079,,,,,,,,,,,,,main Table 3 (results) + Table 2 (ratings)
+F0042,F0042-002,CIPNAT (Turkish),CIPNAT,,,735,,NS,NS,study,0.98,0.98,,,0.07,0.07,,,,,,,,,,,,,main Table 3 (results) + Table 2 (ratings)
+F0057,F0057-001,PAH-SYMPACT,PAH-SYMPACT,Symptoms domain,Chin et al. (2018) [29],278,11,NS,NS,study,0.861,0.861,,,,,,,,,,,,,,,,,main Table (study characteristics)
+F0057,F0057-002,PAH-SYMPACT,PAH-SYMPACT,Impacts domain,Chin et al. (2018) [29],278,11,NS,NS,study,0.960,0.96,,,,,,,,,,,,,,,,,main Table (study characteristics)
+F0062,F0062-001,TSK-11 (English),TSK-11 (cross-cultural versions),1-factor,[112],137,,NS,NS,study,-0.05,-0.05,,,0.197,0.197,,,,,,,,CFI printed '- 0.05',−,-,result,cfi:implausible,main Table 3
+F0062,F0062-002,TSK-11 (English),TSK-11 (cross-cultural versions),2-factor,[112],137,,NS,NS,study,0.86,0.86,,,0.073,0.073,,,,,,,,,−,-,result,,main Table 3
+F0062,F0062-003,TSK-11 (English),TSK-11 (cross-cultural versions),1-factor,[114],275,,NS,NS,study,0.98,0.98,,,0.06,0.06,,,,,,,,,+,+,result,,main Table 3
+F0062,F0062-004,TSK-11 (English),TSK-11 (cross-cultural versions),2-factor,[115],276,,NS,NS,study,0.95,0.95,,,0.06,0.06,0.05,0.05,,,,,,,+,+,result,,main Table 3
+F0062,F0062-005,TSK-11 (Cantonese),TSK-11 (cross-cultural versions),2-factor,[117] orthopaedic,216,,NS,NS,study,0.930,0.93,,,0.025,0.025,,,,,,,,,+,+,result,,main Table 3
+F0062,F0062-006,TSK-11 (Cantonese),TSK-11 (cross-cultural versions),2-factor,[117] pain clinic,109,,NS,NS,study,0.820,0.82,,,0.068,0.068,,,,,,,,,−,-,result,,main Table 3
+F0062,F0062-007,TSK-11 (Swedish),TSK-11 (cross-cultural versions),1-factor,[44],433,,NS,NS,study,0.923,0.923,,,0.124,0.124,,,,,,,,,−,-,result,,main Table 3
+F0062,F0062-008,TSK-11 (Swedish),TSK-11 (cross-cultural versions),2-factor,[44],433,,NS,NS,study,0.945,0.945,,,0.103,0.103,,,,,,,,,−,-,result,,main Table 3
+F0062,F0062-009,TSK-11 (Swedish),TSK-11 (cross-cultural versions),1-factor,[98],539,,NS,NS,study,0.808,0.808,,,0.098,0.098,,,,,,,,,−,-,result,,main Table 3
+F0062,F0062-010,TSK-11 (Swedish),TSK-11 (cross-cultural versions),2-factor,[98],539,,NS,NS,study,0.855,0.855,,,0.086,0.086,,,,,,,,,−,-,result,,main Table 3
+F0062,F0062-011,TSK-11 (TSK-F Dutch),TSK-11 (cross-cultural versions),2-factor,[87],329,,NS,NS,study,0.96,0.96,,,0.039,0.039,,,,,,,,,+,+,result,,main Table 3
+F0062,F0062-012,TSK-11 (Dutch),TSK-11 (cross-cultural versions),1-factor,[21],1109,,NS,NS,study,0.85,0.85,,,0.071,0.071,,,,,,,,,−,-,result,,main Table 3
+F0062,F0062-013,TSK-11 (Dutch),TSK-11 (cross-cultural versions),2-factor,[21],1109,,NS,NS,study,0.93,0.93,,,0.051,0.051,,,,,,,,,+,+,result,,main Table 3
+F0062,F0062-014,TSK-11 (TSK-GV German),TSK-11 (cross-cultural versions),2-factor,[17],191,,NS,NS,study,0.933,0.933,,,0.047,0.047,,,,,,,,,+,+,result,,main Table 3
+F0062,F0062-015,TSK-11 (Brazilian),TSK-11 (cross-cultural versions),1-factor,[119],122,,NS,NS,study,0.906,0.906,,,0.083,0.083,,,,,,,,,−,-,result,,main Table 3
+F0062,F0062-016,TSK-11 (Brazilian),TSK-11 (cross-cultural versions),2-factor Roelofs,[119],122,,NS,NS,study,0.918,0.918,,,0.079,0.079,,,,,,,,,−,-,result,,main Table 3
+F0062,F0062-017,TSK-11 (Brazilian),TSK-11 (cross-cultural versions),2-factor Al-Shudifat,[119],122,,NS,NS,study,0.928,0.928,,,0.078,0.078,,,,,,,,,−,-,result,,main Table 3
+F0062,F0062-018,TSK-11 (Thai),TSK-11 (cross-cultural versions),2-factor,[118],200,,NS,NS,study,0.871,0.871,,,0.075,0.075,0.064,0.064,,,,,,,+,+,result,,main Table 3
+F0062,F0062-019,TSK-11 (Persian),TSK-11 (cross-cultural versions),1-factor,[91],142,,NS,NS,study,0.97,0.97,,,>0.08,0.08,,,,,,,,RMSEA printed '>0.08',+,+,result,rmsea:bound,main Table 3
+F0067,F0067-001,NOTSS,NOTSS,4 subscales,pooled (studies not itemised in main text),,,NS,NS,summary,0.554-0.944,,,,0.094-0.213,,,,,,,,1,chi2/df 1.69-4.55,Inconsistent,+/-,result,cfi:range;rmsea:range,main Table 3 (p.11)
+F0085,F0085-001,BPPS,BPPS,model 1,,,,NS,NS,study,,,,,0.03,0.03,,,,,,,,printed without rating on first line,,,,,main Table 3
+F0085,F0085-002,BPPS,BPPS,model 2,,,,NS,NS,study,,,,,0.04,0.04,,,,,,,,,+,+,result,,main Table 3
+F0085,F0085-003,IGDPB,IGDPB,,,,,NS,NS,study,,,,,0.05,0.05,,,,,,,,,+,+,result,,main Table 3
+F0085,F0085-004,ERI,ERI,,,,,NS,NS,study,,,,,0.05,0.05,,,,,,,,,+,+,result,,main Table 3
+F0085,F0085-005,LDPT,LDPT,,,,,NS,NS,study,,,,,0.000,0.0,,,,,,,,,+,+,result,,main Table 3
+F0085,F0085-006,PPDTS,PPDTS,,,,,NS,NS,study,,,,,,,0.045,0.045,,,,,,,+,+,result,,main Table 3
+F0085,F0085-007,ERS,ERS,,,,,NS,NS,study,0.98,0.98,,,,,,,,,,,,,+,+,result,,main Table 3
+F0097,F0097-001,EAT-10,EAT-10,1-factor,[3],689,,NS,NS,study,0.890,0.89,0.858,0.858,0.153,0.153,0.055,0.055,,,,,,chi2 578.124,−,-,result,,supp Appendix (structural validity table)
+F0097,F0097-002,EORTC QLQ-H&N43,EORTC QLQ-H&N43,12-factor,[26],1287,,NS,NS,study,0.88,0.88,0.85,0.85,0.07,0.07,,,,,,,,,−,-,result,,supp Appendix (structural validity table)
+F0097,F0097-003,GTQ,GTQ,"5-factor, data point 1",[27],196,,NS,NS,study,0.93,0.93,,,0.101,0.101,,,,,,,,,− (GTQ study),-,result,,supp Appendix (structural validity table)
+F0097,F0097-004,GTQ,GTQ,"5-factor, data point 2",[27],196,,NS,NS,study,0.96,0.96,,,0.73,0.73,,,,,,,,printed 0.73 (likely .073),− (GTQ study),-,result,rmsea:implausible,supp Appendix (structural validity table)
+F0097,F0097-005,GTQ,GTQ,"5-factor, data point 4",[27],196,,NS,NS,study,0.88,0.88,,,0.106,0.106,,,,,,,,,− (GTQ study),-,result,,supp Appendix (structural validity table)
+F0097,F0097-006,GTQ,GTQ,"4-factor, data point 3",[27],196,,NS,NS,study,0.97,0.97,,,0.073,0.073,,,,,,,,,− (GTQ study),-,result,,supp Appendix (structural validity table)
+F0099,F0099-001,ACE-III-S,ACE-III-S,,[36],,,NS,NS,study,0.67,0.67,,,,,,,,,,,,as printed in Table 3; possibly misplaced RMSEA .067 of [37],+,+,result,,main Table 3 values + Table 4 ratings
+F0099,F0099-002,AV-MoCA,AV-MoCA,,[37],114,,NS,NS,study,0.988,0.988,,,0.067,0.067,,,,,,,,RMSEA 90% CI .000–.139 (text); CFI .988 (Table 3),+,+,result,,main Table 3 values + Table 4 ratings + text
+F0099,F0099-003,MoCA-J,MoCA-J,,[58],,,NS,NS,study,0.97,0.97,,,,,,,,,,,,,+,+,result,,main Table 3 values + Table 4 ratings
+F0113,F0113-001,PSI-VSF-ID,PSI-VSF-ID,1-factor,Maïano 2011,248,,NS,NS,study,0.975,0.975,0.657,0.657,0.061,0.061,0.041,0.041,,,,,,,+,+,result,,supp Appendix S1 results table
+F0113,F0113-002,PSI-VSF-ID,PSI-VSF-ID,6-factor (version 1),Maïano 2009,342,,NS,NS,study,0.961,0.961,0.857,0.857,0.077,0.077,0.055,0.055,,,,,,,+,+,result,,supp Appendix S1 results table
+F0113,F0113-003,PSI-VSF-ID,PSI-VSF-ID,6-factor (version 2),Maïano 2009,342,,NS,NS,study,0.949,0.949,0.941,0.941,0.072,0.072,0.049,0.049,,,,,,,+,+,result,,supp Appendix S1 results table
+F0114,F0114-001,Ageism scale (Küçükgüçlü 2011 [46]),,2-factor,Küçükgüçlü 2011 [46],,,NS,NS,study,0.90,0.9,0.91,0.91,0.071,0.071,0.075,0.075,,,,,,reported as NNFI,,,,,main Table 3
+F0114,F0114-002,Ageism scale (Popovac 2021 [60]),,,Popovac 2021 [60],,,NS,NS,study,0.91,0.91,0.88,0.88,0.07,0.07,0.09,0.09,,,,,,,,,,,main Table 3
+F0114,F0114-003,Ageism scale (Intrieri 1995 [69]),,,Intrieri 1995 [69],,,NS,NS,study,0.879,0.879,,,0.057,0.057,,,,.648,,,,GFI .838; AGFI .806; NFI .648,,,,,main Table 3
+F0114,F0114-004,Ageism scale (Gonzales 2010 [67]),,1-factor,Gonzales 2010 [67],,,robust WLS,NS,study,,,,,0.16,0.16,,,,,,,,,,,,,main Table 3
+F0114,F0114-005,Ageism scale (Wilson 2020 [74]),,F1 Instrumentality,Wilson 2020 [74],,,NS,NS,study,0.99,0.99,0.99,0.99,0.04,0.04,0.03,0.03,,,,,,,,,,,main Table 3
+F0114,F0114-006,Ageism scale (Wilson 2020 [74]),,F2 Personal Appeal,Wilson 2020 [74],,,NS,NS,study,0.94,0.94,0.89,0.89,0.11,0.11,0.05,0.05,,,,,,,,,,,main Table 3
+F0114,F0114-007,Ageism scale (Wilson 2020 [74]),,F3 Experience,Wilson 2020 [74],,,NS,NS,study,1.0,1.0,,,0.00,0.0,0.01,0.01,,,,,,,,,,,main Table 3
+F0114,F0114-008,Ageism scale (Wilson 2020 [74]),,F4 Sociability,Wilson 2020 [74],,,NS,NS,study,0.98,0.98,0.95,0.95,0.06,0.06,0.03,0.03,,,,,,,,,,,main Table 3
+F0114,F0114-009,Ageism scale ([68]),,,[68],,,NS,NS,study,,,,,0.07,0.07,0.07,0.07,,,,,,,,,,,main Table 3
+F0114,F0114-010,Ageism scale ([71]),,,[71],,,NS,NS,study,0.82,0.82,0.80,0.8,0.07,0.07,0.07,0.07,,,,,,printed 'SMR',,,,,main Table 3
+F0114,F0114-011,Ageism scale (Dikken 2017 [82] section A),,,Dikken 2017 [82] section A,,,NS,NS,study,0.96,0.96,0.96,0.96,0.21,0.21,,,,,,,,,,,,,main Table 3
+F0114,F0114-012,Ageism scale (Dikken 2017 [82] second model),,,Dikken 2017 [82] second model,,,NS,NS,study,0.68,0.68,0.67,0.67,0.15,0.15,,,,,,,,,,,,,main Table 3
+F0114,F0114-013,Ageism scale (Dikken 2017 [81] section A),,,Dikken 2017 [81] section A,,,NS,NS,study,0.98,0.98,0.97,0.97,0.06,0.06,,,,,,,,,,,,,main Table 3
+F0114,F0114-014,Ageism scale (Dikken 2017 [81] section B),,,Dikken 2017 [81] section B,,,NS,NS,study,0.99,0.99,0.99,0.99,0.04,0.04,,,,,,,,,,,,,main Table 3
+F0114,F0114-015,Ageism scale (Dikken 2017 [81] OPACS-US),,,Dikken 2017 [81] OPACS-US,,,NS,NS,study,0.97,0.97,0.97,0.97,0.05,0.05,,,,,,,,,,,,,main Table 3
+F0114,F0114-016,Ageism scale ([76] 2021),,,[76] 2021,,,NS,NS,study,0.83,0.83,,,0.09,0.09,0.01,0.01,,,,,,,,,,,main Table 3
+F0114,F0114-017,Ageism scale (Bilim & Kutlu 2021 [86]),,,Bilim & Kutlu 2021 [86],,,NS,NS,study,0.85,0.85,,,0.08,0.08,0.08,0.08,,,,,,,,,,,main Table 3
+F0114,F0114-018,Ageism scale (Fan 2020 [87]),,,Fan 2020 [87],,,NS,NS,study,0.93,0.93,,,,,,,.93,,,,,GFI .96; IFI .93,,,,,main Table 3
+F0114,F0114-019,Ageism scale (Hollar 2011 [89]),,,Hollar 2011 [89],,,NS,NS,study,,,0.86,0.86,0.01,0.01,,,,,,,,reported as NNFI; GFI .90; AGFI .88,,,,,main Table 3
+F0114,F0114-020,Ageism scale (Zisberg 2021 [90]),,,Zisberg 2021 [90],,,NS,NS,study,0.93,0.93,,,0.05,0.05,,,.93,,,,,IFI .93,,,,,main Table 3
+F0121,F0121-001,TS-REALD,,27-item 1-factor (residual correlation brush-floss),Stucky 2011 [38],,27,NS,NS,study,0.95,0.95,0.97,0.97,0.056,0.056,,,,,,,114,chi2(114) 613,,,,,supp Supplementary material 3 (construct validity table)
+F0121,F0121-002,TREALD-30,,2-factor,Parker (Peker) 2017 [48],,,NS,NS,study,0.89,0.89,0.89,0.89,0.052,0.052,,,.90,,,,,chi2/df 1.34; IFI .90,,,,,supp Supplementary material 3 (construct validity table)
+F0128,F0128-001,CQI Inpatient Hospital Care (Dutch HCAHPS),,individual level,2017,,,NS,NS,study,0.96,0.96,0.95,0.95,0.04,0.04,,,,,,,,,,,,,main Table 3
+F0128,F0128-002,CQI Inpatient Hospital Care (Dutch HCAHPS),,department level,2017,,,NS,NS,study,0.83,0.83,0.81,0.81,0.06,0.06,,,,,,,,,,,,,main Table 3
+F0128,F0128-003,CQI Inpatient Hospital Care (Dutch HCAHPS),,"surgery, individual level",2017,3225,,NS,NS,study,0.98,0.98,0.98,0.98,0.03,0.03,,,,,,,,,,,,,main Table 3
+F0128,F0128-004,CQI Inpatient Hospital Care (Dutch HCAHPS),,"cardiology, individual level",2017,2697,,NS,NS,study,0.97,0.97,0.96,0.96,0.03,0.03,,,,,,,,,,,,,main Table 3
+F0128,F0128-005,CQI Inpatient Hospital Care (Dutch HCAHPS),,"internal medicine, individual level",2017,1984,,NS,NS,study,0.98,0.98,0.98,0.98,0.03,0.03,,,,,,,,,,,,,main Table 3
+F0128,F0128-006,CQI Inpatient Hospital Care (Dutch HCAHPS),,"obstetrics and gynecology, individual level",2017,643,,NS,NS,study,0.98,0.98,0.97,0.97,0.02,0.02,,,,,,,,,,,,,main Table 3
+F0128,F0128-007,PEQ,,model 2,,,,NS,NS,study,0.95,0.95,0.94,0.94,0.04,0.04,,,,,,,,PCLOSE 1.00,,,,,main Table 3
+F0128,F0128-008,NORPEQ,,,2012,,,NS,NS,study,0.97,0.97,,,0.083,0.083,,,,,,,621,chi2 26697.60; GFI .81; IFI .97,,,,,main Table 3
+F0128,F0128-009,HS&PE,,,2013,,,NS,NS,study,0.91,0.91,0.91,0.91,0.08,0.08,,,,,,,,,,,,,main Table 3
+F0128,F0128-010,FPS,,,2017,,,NS,NS,study,0.98,0.98,0.98,0.98,0.044,0.044,,,,,,,,,,,,,main Table 3
+F0128,F0128-011,QoC,,,2017,,,NS,NS,study,0.946,0.946,,,0.053,0.053,,,,,,,,CMIN/DF 2.462; GFI .967; AGFI .947; PCLOSE .355,,,,,main Table 3
+F0164,F0164-001,SPADI (translated),SPADI translated versions,2-factor,Brindisino [16],59,,NS,NS,study,0.87,0.87,,,0.15,0.15,,,,.79,,,,NFI .79,−,-,result,,main Table 2
+F0164,F0164-002,SPADI (translated),SPADI translated versions,2-factor (after item deletion),Luque-Suarez [30],219,,NS,NS,study,0.98,0.98,,,0.06,0.06,,,,,,,,RMSEA 90% CI .04–.09,+,+,result,,main Table 2
+F0164,F0164-003,SPADI (translated),SPADI translated versions,2-factor,Mambrilla-Mesa [32],136,,NS,NS,study,0.82,0.82,,,0.12,0.12,,,,.80,,,,NFI .80; chi2 printed '1.85.41',−,-,result,,main Table 2
+F0164,F0164-004,SPADI (translated),SPADI translated versions,5-factor,Sharma [36],80,,NS,NS,study,1.00,1.0,1.00,1.0,0.012,0.012,,,,,,,,,+,+,result,,main Table 2
+F0176,F0176-001,NSCI,NSCI,,Angel 2012,253,,NS,NS,study,0.99,0.99,0.98,0.98,0.066,0.066,,,,,,,71,reported as NNFI; RMSEA 95% CI .051–.080; chi2 148.89 df 71,+,+,result,,main Table 2
+F0176,F0176-002,"NSCI (Chinese, Taiwan)",NSCI,,Chang & Yeh 2016,149,,NS,NS,study,0.92,0.92,,,0.08,0.08,,,,,,,2,AGFI .88; RMR .08; chi2/df 2.66,+,+,result,,main Table 2
+F0176,F0176-003,NSCI (Chinese),NSCI,,Miao 2020,654,,NS,NS,study,0.927,0.927,,,0.076,0.076,,,.926,.902,,,74,GFI .875; NFI .902; IFI .926; chi2 268.72 df 74,+,+,result,,main Table 2
+F0176,F0176-004,NSCQ,NSCQ,,Cowin 2001,528,,NS,NS,study,,,0.911,0.911,,,,,,,.887,,120,RNI .887; GFI .906; chi2 787.05 df 120,+,+,result,,main Table 2
+F0176,F0176-005,NSCQ (Chinese),NSCQ,,Cao 2013,1017,,NS,NS,study,0.91,0.91,0.90,0.9,0.06,0.06,,,,,,,4,GFI .87; chi2/df 4.52,+,+,result,,main Table 2
+F0176,F0176-006,NSCQ (Turkish),NSCQ,,Zencir 2019,170,,NS,NS,study,0.97,0.97,0.97,0.97,0.081,0.081,0.072,0.072,,,,,5,GFI .80; chi2/df 5.37,+,+,result,,main Table 2
+F0176,F0176-007,NSCQ (Nigerian),NSCQ,,Onyeizugbo & Nwafor 2010,170,,NS,NS,study,0.91,0.91,0.91,0.91,0.06,0.06,,,.91,,,,,reported as NNFI; IFI .91,+,+,result,,main Table 2
+F0193,F0193-001,LGBT Minority Stress Measure,LGBT Minority Stress Measure,,Outland 2016,,,NS,NS,study,0.911,0.911,,,0.06,0.06,0.06,0.06,,,,,,,insufficient (−),-,pooled,,main Results text
+F0193,F0193-002,LGIS,LGIS,,Mohr & Fassinger 2000,,,NS,NS,study,0.91,0.91,,,,,,,,,,,,,insufficient (−),-,pooled,,main Results text
+F0215,F0215-001,Academic burnout scale,Academic burnout scale,,Jan 2024,,,NS,NS,study,0.916,0.916,,,0.051,0.051,0.044,0.044,,,,,,,+,+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-002,ASBI,ASBI,,Zhou 2024,,,NS,NS,study,0.942,0.942,0.931,0.931,0.060,0.06,,,,,,,,,± (pooled),+/-,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-003,ASBI,ASBI,,Li 2014 (3- and 4-factor),,,NS,NS,study,0.935,0.935,0.923,0.923,0.050,0.05,,,,,,,,,± (pooled),+/-,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-004,BAT-C student version,BAT-C student,,Romano 2022,,,NS,NS,study,0.92,0.92,0.91,0.91,0.053,0.053,0.043,0.043,,,,,,,+,+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-005,CBI-S,CBI-S,,Campos 2011,,,NS,NS,study,0.917,0.917,,,0.052,0.052,,,,,,,,,− (pooled),-,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-006,CBI-S,CBI-S,,Campos 2013,,,NS,NS,study,0.931,0.931,,,0.071,0.071,,,,,,,,GFI .889,− (pooled),-,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-007,CBI-S,CBI-S,,Maroco 2012,,,NS,NS,study,0.93,0.93,,,0.07,0.07,,,,,,,,GFI .89,− (pooled),-,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-008,ESSBS,ESSBS,,Aypay 2011,,,NS,NS,study,0.91,0.91,,,0.07,0.07,,,,,,,,,−,-,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-009,FS-BAT,FS-BAT,,Annelies 2024 model 1a,,,NS,NS,study,0.909,0.909,0.899,0.899,0.070,0.07,0.063,0.063,,,,,,,+ (study),+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-010,FS-BAT,FS-BAT,,Annelies 2024 model 2a,,,NS,NS,study,0.732,0.732,0.705,0.705,0.119,0.119,0.081,0.081,,,,,,,+ (study),+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-011,FS-BAT,FS-BAT,,Annelies 2024 model 3,,,NS,NS,study,0.911,0.911,0.900,0.9,0.070,0.07,0.062,0.062,,,,,,,+ (study),+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-012,FS-BAT,FS-BAT,,Annelies 2024 model 1b,,,NS,NS,study,0.954,0.954,0.939,0.939,0.067,0.067,0.036,0.036,,,,,,,+ (study),+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-013,FS-BAT,FS-BAT,,Annelies 2024 model 2b,,,NS,NS,study,0.902,0.902,0.875,0.875,0.096,0.096,0.050,0.05,,,,,,,+ (study),+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-014,MBI-EFL-SS,MBI-EFL-SS,,Li 2021,,,NS,NS,study,0.976,0.976,0.966,0.966,0.062,0.062,0.041,0.041,,,,,,,+,+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-015,MBI-GS revised,MBI-GS revised,,Schaufeli 2002a,,,NS,NS,study,0.90,0.9,,,0.06,0.06,,,,,,,,,−,-,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-016,"MBI-SS (Dutch, revised)",MBI-SS (Bresó Dutch/Spanish),,Bresó 2007,,,NS,NS,study,0.92,0.92,,,0.06,0.06,,,,,,,,,−,-,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-017,"MBI-SS (Spanish, revised)",MBI-SS (Bresó Dutch/Spanish),,Bresó 2007,,,NS,NS,study,0.92,0.92,,,0.06,0.06,,,,,,,,,−,-,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-018,MBI-SS (Dutch),MBI-SS Dutch,,Schaufeli 2002b original,,,NS,NS,study,0.93,0.93,0.92,0.92,0.06,0.06,,,,,,,,,+ (study),+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-019,MBI-SS (Dutch),MBI-SS Dutch,,Schaufeli 2002b revised,,,NS,NS,study,0.97,0.97,0.96,0.96,0.04,0.04,,,,,,,,,+ (study),+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-020,MBI-SS (Spanish),MBI-SS Spanish,,Aguayo-Estremera 2023 (ESEM),,,NS,NS,study,0.969,0.969,0.949,0.949,0.047,0.047,0.023,0.023,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-021,MBI-SS (Spanish),MBI-SS Spanish,,Pérez-Fuentes 2020,,,NS,NS,study,0.966,0.966,0.953,0.953,0.061,0.061,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-022,MBI-SS (Spanish),MBI-SS Spanish,,Schaufeli 2002b base,,,NS,NS,study,0.90,0.9,0.88,0.88,0.07,0.07,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-023,MBI-SS (Spanish),MBI-SS Spanish,,Schaufeli 2002b revised,,,NS,NS,study,0.95,0.95,0.94,0.94,0.05,0.05,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-024,MBI-SSi,MBI-SSi,,Assunção 2020,,,NS,NS,study,0.911,0.911,0.892,0.892,0.084,0.084,0.056,0.056,,,,,,,− (pooled; study disregarded),-,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-025,MBI-SSi,MBI-SSi,,Maroco 2014,,,NS,NS,study,0.936,0.936,0.922,0.922,0.087,0.087,,,,,,,,,− (pooled),-,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-026,MBI-SuS,MBI-SuS,,Schaefer 2024,,,NS,NS,study,0.939,0.939,0.923,0.923,0.069,0.069,0.059,0.059,,,,,,,+,+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-027,OLBI-N,OLBI-N,,Bulfone 2021,,,NS,NS,study,0.911,0.911,0.890,0.89,0.056,0.056,0.065,0.065,,,,,,,+,+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-028,OLBI-S,OLBI-S,,Maroco 2012,,,NS,NS,study,0.90,0.9,,,0.07,0.07,,,,,,,,GFI .94,± (pooled),+/-,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-029,OLBI-S,OLBI-S,,Campos 2011,,,NS,NS,study,0.924,0.924,,,0.050,0.05,,,,,,,,,± (pooled),+/-,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-030,OLBI-S,OLBI-S,,Campos 2012,,,NS,NS,study,0.913,0.913,,,0.058,0.058,,,,,,,,GFI .944,± (pooled),+/-,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-031,OLBI-S,OLBI-S,,"Campos 2012 (items 5,13 removed)",,,NS,NS,study,0.928,0.928,,,0.059,0.059,,,,,,,,GFI .951,± (pooled),+/-,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-032,S-BAT,S-BAT,,Popescu 2023,,,NS,NS,study,0.933,0.933,0.926,0.926,0.052,0.052,0.048,0.048,,,,,,,+,+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-033,SBI,SBI,,Tuominen-Soini 2014,,,NS,NS,study,0.95,0.95,,,0.074,0.074,0.046,0.046,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-034,SBI,SBI,,Salmela-Aro 2009,,,NS,NS,study,0.98,0.98,0.97,0.97,0.05,0.05,0.03,0.03,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-035,SBI-8,SBI-8,,Gómez 2024,,,NS,NS,study,0.98,0.98,0.96,0.96,0.063,0.063,0.058,0.058,,,,,,GFI .96,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-036,SBI-8,SBI-8,,Campillo 2024,,,NS,NS,study,0.934,0.934,0.902,0.902,0.0979,0.0979,0.0495,0.0495,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-037,SBI-8,SBI-8,,Carmona-Halty 2022 one-factor,,,NS,NS,study,0.898,0.898,0.857,0.857,0.091,0.091,0.049,0.049,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-038,SBI-8,SBI-8,,Carmona-Halty 2022 three-factor,,,NS,NS,study,0.963,0.963,0.939,0.939,0.059,0.059,0.030,0.03,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-039,SBI-U,SBI-U,,Boada-Grau 2015,,,NS,NS,study,0.95,0.95,0.93,0.93,0.06,0.06,0.03,0.03,,,,,,,+,+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-040,BAT-C short emotional burnout,BAT-C short,,Doğan 2024,,,NS,NS,study,0.984,0.984,0.978,0.978,0.078,0.078,0.0237,0.0237,,,,,,,+,+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-041,SSBS,SSBS,,Aypay 2012,,,NS,NS,study,0.94,0.94,,,0.05,0.05,,,,,,,,,+,+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-042,UW-ESBS revised,UW-ESBS,,Schramer 2020,,,NS,NS,study,0.94,0.94,0.92,0.92,0.07,0.07,0.04,0.04,,,,,,,+,+,result,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-043,ULB scale (original),ULB scale,1-factor,Zeng 2020,,,NS,NS,study,0.27,0.27,,,0.19,0.19,,,,,,,,,+ (pooled),+,pooled,cfi:implausible,supp Additional file 3 (per-study appraisal)
+F0215,F0215-044,ULB scale (original-reverse),ULB scale,1-factor,Zeng 2020,,,NS,NS,study,0.64,0.64,,,0.14,0.14,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-045,ULB scale (positive),ULB scale,1-factor,Zeng 2020,,,NS,NS,study,0.93,0.93,,,0.09,0.09,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-046,ULB scale (negative),ULB scale,1-factor,Zeng 2020,,,NS,NS,study,0.93,0.93,,,0.10,0.1,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-047,ULB scale (original),ULB scale,2-factor,Zeng 2020,,,NS,NS,study,0.86,0.86,,,0.08,0.08,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-048,ULB scale (original-reverse),ULB scale,2-factor,Zeng 2020,,,NS,NS,study,0.84,0.84,,,0.09,0.09,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-049,ULB scale (positive),ULB scale,2-factor,Zeng 2020,,,NS,NS,study,0.95,0.95,,,0.09,0.09,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-050,ULB scale (negative),ULB scale,2-factor,Zeng 2020,,,NS,NS,study,0.96,0.96,,,0.07,0.07,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-051,ULB scale (original),ULB scale,positive method effect,Zeng 2020,,,NS,NS,study,0.86,0.86,,,0.08,0.08,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-052,ULB scale (original-reverse),ULB scale,positive method effect,Zeng 2020,,,NS,NS,study,0.85,0.85,,,0.09,0.09,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-053,ULB scale (original),ULB scale,negative method effect,Zeng 2020,,,NS,NS,study,0.89,0.89,,,0.08,0.08,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-054,ULB scale (original-reverse),ULB scale,negative method effect,Zeng 2020,,,NS,NS,study,0.89,0.89,,,0.08,0.08,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-055,ULB scale (original),ULB scale,pos/neg method effect,Zeng 2020,,,NS,NS,study,0.90,0.9,,,0.08,0.08,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0215,F0215-056,ULB scale (original-reverse),ULB scale,pos/neg method effect,Zeng 2020,,,NS,NS,study,0.92,0.92,,,0.07,0.07,,,,,,,,,+ (pooled),+,pooled,,supp Additional file 3 (per-study appraisal)
+F0221,F0221-001,"FOPQ-C (German, 15-item)",FOPQ-C,,Flack 2017,241,,NS,NS,study,0.96,0.96,0.95,0.95,0.07,0.07,,,,,,,,,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-002,FOPQ-SF,FOPQ-SF,,Heathcote 2020,526,,NS,NS,study,0.95,0.95,,,0.08,0.08,,,,,,,,,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-003,PCS-C,PCS-C,,Crombez 2003,814,,NS,NS,study,0.95,0.95,,,0.057,0.057,,,,,,,,,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-004,PCS-C (French),PCS-C,,Tremblay 2008 3-factor,345,,NS,NS,study,0.917,0.917,,,0.081,0.081,,,,,,,,,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-005,PCS-C (French),PCS-C,,Tremblay 2008 2-factor,345,,NS,NS,study,0.913,0.913,,,0.077,0.077,,,,,,,,,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-006,PCS-C,PCS-C,,Parkerson 2013 revised 3-factor,1006,,NS,NS,study,0.978,0.978,,,0.051,0.051,,,,,,,,,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-007,PCS-C,PCS-C,,Parkerson 2013 original 3-factor,1006,,NS,NS,study,0.938,0.938,,,0.059,0.059,,,,,,,,,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-008,PCS-C,PCS-C,,Pielech 2014 (adolescent),697,,NS,NS,study,0.94,0.94,,,0.08,0.08,,,,,,,,,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-009,PCS-C (Catalan),PCS-C,,Sole 2016,316,,NS,NS,study,0.92,0.92,,,0.080,0.08,0.45,0.45,,,,,,SRMR printed 0.45,,,,srmr:implausible,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-010,PCS-P,PCS-P,,Pielech 2014 (parent),697,,NS,NS,study,0.92,0.92,,,0.09,0.09,,,,,,,,,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-011,PCS-P,PCS-P,,Donado 2019,106,,NS,NS,study,1.00,1.0,,,0.02,0.02,,,,,,,,GFI .992,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-012,PCQ (abbreviated),PCQ,,Hermann 2007,401,,NS,NS,study,0.93,0.93,,,0.061,0.061,,,,,,,,GFI .94,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-013,PCQ (Catalan),PCQ,,Huguet 2008,702,,NS,NS,study,0.92,0.92,0.91,0.91,0.041,0.041,,,,,,,,,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-014,"PCQ (CAD-R, Spanish adults)",PCQ,,Soriano & Monsalve 2017,4389,,NS,NS,study,0.972,0.972,0.966,0.966,0.039,0.039,,,,,,,,,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-015,PCQ long form,PCQ,,Kohut 2022,1125,,NS,NS,study,0.88,0.88,0.87,0.87,,,,,,.85,,,,reported as NNFI; GFI .88; NFI .85,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-016,PCQ long form (children),PCQ,,Kohut 2022,65,,NS,NS,study,0.92,0.92,0.88,0.88,,,,,,.79,,,,NNFI; GFI .85; NFI .79,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0221,F0221-017,PCQ long form (parents),PCQ,,Kohut 2022,65,,NS,NS,study,0.93,0.93,0.88,0.88,,,,,,.80,,,,NNFI; GFI .84; NFI .80,,,,,supp study-characteristics table (values); ratings Figure 1 (instrument level)
+F0231,F0231-001,ADV-YL,,"Perpetration, 2 factors, 18 items",Lopez Del Burgo 2021,,,NS,NS,study,0.993–0.998,,,,0.031–0.068,,0.010–0.067,,,,,,,,+,+,result,cfi:range;rmsea:range;srmr:range,main Table 2 (values); rating main Table 3
+F0231,F0231-002,ADV-YL,,"Victimization, 2 factors, 18 items",Lopez Del Burgo 2021,,,NS,NS,study,0.996–1.000,,,,0.000–0.029,,0.021–0.036,,,,,,,,+,+,result,cfi:range;rmsea:range;srmr:range,main Table 2 (values); rating main Table 3
+F0231,F0231-003,AIRS,,"5 factors, 26 items",Borjesson 2003,1022,,NS,NS,study,0.962,0.962,0.986,0.986,0.050,0.05,0.063,0.063,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-004,CADRI,,"5 factors, 35 items",Wolfe 2001,,,NS,NS,study,0.90,0.9,,,0.05,0.05,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-005,CADRI-S,,"Study 1: 5 factors, 10 items",Fernández-González 2012,277,,NS,NS,study,1.00,1.0,,,0.000,0.0,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-006,CADRI-S,,"Study 2: 5 factors, 10 items",Fernández-González 2012,365,,NS,NS,study,1.00,1.0,,,0.000,0.0,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-007,CDAQ,,"Perpetration, 2 factor",Borrajo 2015,788,,NS,NS,study,0.99,0.99,,,0.076,0.076,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-008,CDAQ,,"Victimization, 2 factor",Borrajo 2015,788,,NS,NS,study,0.99,0.99,,,0.076,0.076,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-009,CDVI,,"Perpetration, 2 factors, 11 items",Morelli 2018,1405,,NS,NS,study,0.97,0.97,,,0.067,0.067,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-010,CDVI,,"Victimization, 2 factors, 11 items",Morelli 2018,1405,,NS,NS,study,0.96,0.96,,,0.079,0.079,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-011,CEPA short version,,3 factors,Rey-Anacona 2019,,,NS,NS,study,0.95,0.95,,,0.02,0.02,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-012,CMN/Mexican version,,5 factors,Osorio-Guzmán 2014,,,NS,NS,study,0.99,0.99,0.99,0.99,0.05,0.05,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-013,CTS2/Argentine version,,"Victimization (male), 5 factor, 33 items",Bobbio 2019,819,,NS,NS,study,,,,,,,,,,0.95,,0.95,,GFI .98; RMR .08,?,?,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-014,CTS2/Argentine version,,"Victimization (female), 5 factor, 35 items",Bobbio 2019,819,,NS,NS,study,,,,,,,,,,0.93,,0.92,,GFI .96; RMR .09,?,?,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-015,CTS2/Argentine version,,"Perpetration (male), 5 factor, 33 items",Bobbio 2019,819,,NS,NS,study,,,,,,,,,,0.96,,0.96,,GFI .98; RMR .07,?,?,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-016,CTS2/Argentine version,,"Perpetration (female), 5 factor, 35 items",Bobbio 2019,819,,NS,NS,study,,,,,,,,,,0.97,,0.97,,GFI .99; RMR .06,?,?,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-017,DJTS/Spanish version,,"Victimization, 2 factor, 11 items",Muñoz-Rivas 2019,8105,,NS,NS,study,0.977,0.977,,,0.039,0.039,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-018,DJTS/Spanish version,,"Perpetration, 2 factor, 11 items",Muñoz-Rivas 2019,8105,,NS,NS,study,0.965,0.965,,,0.049,0.049,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-019,DVQ/Chilean version,,"8 factors, 42 items",Lara & López-Cepero 2021,,,NS,NS,study,0.974,0.974,0.972,0.972,0.023,0.023,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-020,DVQ/English version,,8 factors,López-Cepero 2016,,,NS,NS,study,0.864,0.864,,,0.064,0.064,,,,,,,,,−,-,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-021,DVQ/Italian version,,8 factors,Presaghi 2015,,,NS,NS,study,0.95,0.95,0.95,0.95,0.033,0.033,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-022,DVQ-R,,5 factors,Rodríguez-Díaz 2017,,,NS,NS,study,0.95,0.95,0.94,0.94,0.018,0.018,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-023,MMEA/Turkish version,,4 factors,Demirtas 2018,,,NS,NS,study,0.80,0.8,,,0.7,0.7,0.7,0.7,,,,,,,−,-,result,rmsea:implausible;srmr:implausible,main Table 2 (values); rating main Table 3
+F0231,F0231-024,MSDV,,6 factor,García-Carpintero 2018,,,NS,NS,study,0.857,0.857,0.832,0.832,0.068,0.068,,,,,,,,,−,-,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-025,MSDV,,5 factor,García-Carpintero 2018,,,NS,NS,study,0.838,0.838,0.811,0.811,0.068,0.068,,,,,,,,,−,-,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-026,PMWI-SF/Portuguese version,,2 factors,Começanha & Maia 2018,,,NS,NS,study,0.970,0.97,,,0.072,0.072,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-027,PVD-Q,,"Perpetration, 2 factors, 13 items",Ureña 2015,670,,NS,NS,study,0.99,0.99,0.99,0.99,0.06,0.06,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-028,PVD-Q,,"Victimization, 2 factors, 13 items",Ureña 2015,670,,NS,NS,study,0.99,0.99,0.99,0.99,0.06,0.06,,,,,,,,,+,+,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-029,TDV-VP Scale,,"Victimization, 5 factor",Soriano-Ayala 2021,,,NS,NS,study,0.932,0.932,0.914,0.914,0.073,0.073,,,,,,,,,−,-,result,,main Table 2 (values); rating main Table 3
+F0231,F0231-030,TDV-VP Scale,,"Perpetration, 5 factor",Soriano-Ayala 2021,,,NS,NS,study,0.900,0.9,0.877,0.877,0.066,0.066,,,,,,,,,−,-,result,,main Table 2 (values); rating main Table 3
+F0234,F0234-001,SANS,SANS,3-factor,Sayers et al. [33],,,NS,NS,study,0.95,0.95,,,,,,,,,,,,,+,+,result,,main Results text
+F0234,F0234-002,SANS,SANS,3-factor,Lyne et al. [35],,,NS,NS,study,1.0,1.0,,,,,,,,,,,,,+,+,result,,main Results text
+F0234,F0234-003,SANS,SANS,5-factor,Lyne et al. [35],,,NS,NS,study,,,,,,,0.073,0.073,,,,,,,+,+,result,,main Results text
+F0247,F0247-001,PMDD scale,PMDD scale,,Miyaoka 2009 [19],303,,NS,NS,study,0.857,0.857,,,,,,,,,,,,GFI .857; AGFI .813,(-),-,result,,supp Appendix 3 (values); ratings main Table 3
+F0247,F0247-002,PSQ,PSQ,one factor,Takeda 2020 [20],879,,NS,NS,study,0.95,0.95,0.94,0.94,0.08,0.08,0.04,0.04,,,,,,RMSEA 90% CI .07-.08; GFI .93; AGFI .90,(+),+,result,,supp Appendix 3 (values); ratings main Table 3
+F0247,F0247-003,PSQ,PSQ,two factor,Takeda 2020 [20],879,,NS,NS,study,0.96,0.96,0.94,0.94,0.07,0.07,0.04,0.04,,,,,,RMSEA 90% CI .07-.08; GFI .94; AGFI .91,(+),+,result,,supp Appendix 3 (values); ratings main Table 3
+F0247,F0247-004,PSQ-S,PSQ-S,one factor,Takeda 2022 [21],922,,NS,NS,study,0.98,0.98,0.96,0.96,0.08,0.08,0.03,0.03,,,,,,RMSEA printed 'RMSEA;0.08' (90% CI .07-.09); AIC 204.5; GFI .96; AGFI .93,(+),+,result,,supp Appendix 3 (values); ratings main Table 3
+F0247,F0247-005,PSMS,PSMS,,Inayoshi 2018 [23],318,,NS,NS,study,0.93,0.93,,,0.08,0.08,,,,,,,,,(-),-,result,,supp Appendix 3 (values); ratings main Table 3
+F0247,F0247-006,PMS-8,PMS-8,,Ikeda 2024 [24],415,,NS,NS,study,0.94,0.94,,,0.08,0.08,,,,,,,,,(-),-,result,,supp Appendix 3 (values); ratings main Table 3
+F0247,F0247-007,DRSP-J,DRSP-J,,Takeda 2021 [28],324,,NS,NS,study,0.926–0.944,,0.911–0.932,,0.088–0.101,,0.046–0.048,,,,,,,TLI printed as 'TFI range'; AIC 721.41-860.59; GFI .819-.850,(+),+,result,cfi:range;tli:range;rmsea:range;srmr:range,supp Appendix 3 (values); ratings main Table 3
+F0247,F0247-008,J-DRSP,J-DRSP,,Ikeda 2021 [31],228,,NS,NS,study,0.83,0.83,,,0.12,0.12,,,,,,,,,(-),-,result,,supp Appendix 3 (values); ratings main Table 3
+F0247,F0247-009,J-DRSP (SF),J-DRSP (SF),,Ikeda 2021 [31],228,,NS,NS,study,0.99,0.99,,,0.048,0.048,,,,,,,,,(+),+,result,,supp Appendix 3 (values); ratings main Table 3
+F0257,F0257-001,DFS,DFS,,Serçekuş [35],96,,NS,NS,study,,,,,0.000,0.0,,,,,,,,P = 0.631,+ (Table 5),+,pooled,,main Table 1 (values); overall rating main Table 5
+F0257,F0257-002,DFS,DFS,,Shakarami [36],200,,NS,NS,study,0.994,0.994,0.992,0.992,0.034,0.034,,,,,,,,,+ (Table 5),+,pooled,,main Table 1 (values); overall rating main Table 5
+F0257,F0257-003,Slade FCQ (Persian),Slade FCQ,,Sanjari [43],200,,NS,NS,study,0.91,0.91,,,0.09,0.09,0.09,0.09,,,,,,,+ (Table 5),+,pooled,,main Table 1 (values); overall rating main Table 5
+F0257,F0257-004,CFQ,CFQ,CFA model and invariance between parity groups,Fairbrother [14],,,NS,NS,study,,,,,,,0.06,0.06,,,,,,"EFA (N = 643) fit printed: CFI .977, TLI .974, RMSEA .064 (90% CI .062-.066), SRMR .055",? (Table 5),?,pooled,,main Table 1 (values); overall rating main Table 5
+F0257,F0257-005,CFQ (Spanish),CFQ,,González-de la Torre [42],278,,NS,NS,study,,,,,0.022,0.022,,,,,,,,EFA (n = 279) RMSEA .000,? (Table 5),?,pooled,,main Table 1 (values); overall rating main Table 5
+F0264,F0264-001,CAOPA,CAOPA,,Li 2021,971,,NS,NS,study,0.970,0.97,,,,,,,,,,,,,+,+,result,,supp Supplementary Table 6 (Part A); overall Supplementary Table 7
+F0264,F0264-002,CASP-19,CASP-19,"4 factors (control, autonomy, pleasure, self-realisation)",Kim 2015,13210,,NS,NS,study,,,,,0.1,0.1,,,,,,,,,+,+,result,,supp Supplementary Table 6 (Part A); overall Supplementary Table 7
+F0264,F0264-003,"CASP-19 (CAP-19, Spanish)",CASP-19,3 factors (pleasure; self-realization; autonomy and control),Pérez-Rojo 2017,1108,,NS,NS,study,,,0.912,0.912,,,,,,,,,,,+,+,result,,supp Supplementary Table 6 (Part A); overall Supplementary Table 7
+F0264,F0264-004,EAAS,EAAS,4 factors,Oliveira 2016,508,,NS,NS,study,,,0.88,0.88,,,,,,,,,,,+,+,result,,supp Supplementary Table 6 (Part A); overall Supplementary Table 7
+F0264,F0264-005,NR (Kim 2022),NR_Kim,5 domains,Kim 2022,3652,,NS,NS,study,0.960,0.96,,,,,,,,,,,,,+,+,result,,supp Supplementary Table 6 (Part A); overall Supplementary Table 7
+F0270,F0270-001,PSQI,,,Malik 2018,,,NS,NS,study,,,,,0.06–0.09,,,,,,,,,"NFI, TLI, CFI printed as '> 0.95'; SRMR '< 0.08'; normed chi2 < 3",+,+,result,rmsea:range,main Table 4 (values); rating main Table 5
+F0270,F0270-002,AO-PSQI,,two-factor,Al Maqbali 2020,,,NS,NS,study,0.97,0.97,0.95,0.95,0.06,0.06,,,,,,,13,chi2 35.18; GFI .97; AGFI .94; chi2/df 2.7,+,+,result,,main Table 4 (values); rating main Table 5
+F0270,F0270-003,AK-PSQI,,,Albatineh 2022,,,NS,NS,study,0.967,0.967,,,0.050,0.05,0.039,0.039,,0.943,,,,"values printed with decimal commas (0,967 etc.)",+,+,result,,main Table 4 (values); rating main Table 5
+F0270,F0270-004,PSQI,,,Oneib 2023,,,NS,NS,study,0.94,0.94,0.93,0.93,0.06,0.06,0.05,0.05,,,,,,,−,-,result,,main Table 4 (values); rating main Table 5
+F0270,F0270-005,A-SQS,,,Alghamdi 2025,,,NS,NS,study,0.934,0.934,,,0.033,0.033,,,,,,,,'TFI: 0.962',+,+,result,,main Table 4 (values); rating main Table 5
+F0270,F0270-006,A-JSS,,,AlMashouk 2024,,,NS,NS,study,0.99,0.99,0.96,0.96,0.08,0.08,,,,,,,,"chi2 7.66, p = .022; RMSEA 95% CI .03-.15",+,+,result,,main Table 4 (values); rating main Table 5
+F0275,F0275-001,BIPM,BIPM,2-factor,,,,NS,NS,pooled,0.86–0.955,,,,,,,,,,,,,,+,+,result,cfi:range,main summary of findings table
+F0275,F0275-002,PMS,PMS,4-factor,Takagishi 2014,,,NS,NS,pooled,,,,,0.50,0.5,,,,,,,,printed as 0.50 (likely 0.050); text says met RMSEA <0.06,?,?,result,rmsea:implausible,main summary of findings table + text
+F0289,F0289-001,STSS-SM,STSS-SM,3-factor,Mancini 2019,144,17,NS,NS,study,0.915,0.915,,,0.077,0.077,,,,,,,,AIC 287.13,−,-,result,,"supp Table (study characteristics, values) + main Table 3 ratings"
+F0289,F0289-002,EMC-STS,EMC-STS,4-factor,Kiraz Demir & Namli 2024,283,17,NS,NS,study,0.90,0.9,,,0.059,0.059,0.07,0.07,,,,,122,chi2(122)=357.46; GFI .89; AGFI .88; RMSEA 90% CI .028–.090,+,+,result,,"supp Table (study characteristics, values) + main Table 3 ratings"
+F0306,F0306-001,MOQ-T,MOQ-T,,Giofrè [46],,,NS,NS,study,0.99,0.99,0.99,0.99,0.05,0.05,0.05,0.05,,,,,,reported as NNFI,+,+,result,,main Table 3
+F0306,F0306-002,MOQ-T,MOQ-T,,Asunta [47],,,NS,NS,study,0.951,0.951,0.943,0.943,0.060,0.06,0.038,0.038,,,,,,,+,+,result,,main Table 3
+F0306,F0306-003,MABC-2 Checklist,MABC-2 Checklist,,Kita [50],,,NS,NS,study,0.987,0.987,,,0.049,0.049,,,,,,,,GFI .941; AGFI .870,+,+,result,,main Table 3
+F0306,F0306-004,Child RMP,Child RMP,,Weems [54],,,NS,NS,study,0.74,0.74,,,0.064,0.064,,,,,,,,,−,-,result,,main Table 3
+F0306,F0306-005,TRS (Teen Risk Screen),,,Kidd [56] posture-axial,,,NS,NS,study,,,,,0.10,0.1,,,,,,,,AGFI 1.00,− (instrument),-,pooled,,main Table 3
+F0306,F0306-006,TRS (Teen Risk Screen),,,Kidd [56] dynamic movement,,,NS,NS,study,,,,,0.12,0.12,,,,,,,,AGFI .99,− (instrument),-,pooled,,main Table 3
+F0306,F0306-007,TRS (Teen Risk Screen),,,Kidd [56] locomotor single,,,NS,NS,study,,,,,0.10,0.1,,,,,,,,AGFI 1.00,− (instrument),-,pooled,,main Table 3
+F0306,F0306-008,TRS (Teen Risk Screen),,,Kidd [56] other subscales,,,NS,NS,study,,,,,0.008,0.008,,,,,,,,AGFI .99,− (instrument),-,pooled,,main Table 3
+F0306,F0306-009,DESSA,DESSA,,Doromal [59],,,NS,NS,study,0.943,0.943,0.940,0.94,0.046,0.046,,,,,,,,WRMR 1.317,+,+,result,,main Table 3
+F0306,F0306-010,ERC,ERC,,Molina [60],,,NS,NS,study,0.98,0.98,,,0.072,0.072,0.10,0.1,,,,,,,+,+,result,,main Table 3
+F0306,F0306-011,MASCS,MASCS,,Junttila [61],,,NS,NS,study,,,0.93,0.93,0.09,0.09,0.061,0.061,,,,,,reported as NNFI,+,+,result,,main Table 3
+F0306,F0306-012,SEARS-T,SEARS-T,,Merrell [65],,,NS,NS,study,0.997,0.997,,,0.068,0.068,0.010,0.01,,,,,,,+,+,result,,main Table 3
+F0306,F0306-013,SEARS-T,SEARS-T,,Figueiredo [67],,,NS,NS,study,0.92,0.92,0.91,0.91,0.06,0.06,,,,,,,,,−,-,result,,main Table 3
+F0306,F0306-014,SSIS SEL RF Teacher,SSIS SEL RF Teacher,,Gresham [68],,,NS,NS,study,0.75,0.75,,,0.08,0.08,,,,,,,,,−,-,result,,main Table 3
+F0306,F0306-015,Harter's TRS,Harter's TRS,,Cole [77],,,NS,NS,study,0.97,0.97,,,0.033,0.033,,,,,,,,GFI .91,+,+,result,,main Table 3
+F0306,F0306-016,QACSE-P-SF (Social and Emotional Competencies Evaluation),QACSE-P-SF,,Coelho [80],,,NS,NS,study,0.961,0.961,,,0.041,0.041,,,,,,,,GFI .896,+,+,result,,main Table 3
+F0307,F0307-001,PQOL,PQOL,,,,,NS,NS,pooled,,,,,,,,,,,,,,"stated only as 'root mean square error of approximation, <0.06'",S,+,result,,main Results text; rating Table 3
+F0307,F0307-002,RPQOL,RPQOL,,,,,NS,NS,pooled,,,,,,,,,,,,,,"stated only as 'root mean square error of approximation, <0.06'",S,+,result,,main Results text; rating Table 3
+F0320,F0320-001,COMRADE,COMRADE,2-factor,Knapp 2009 [68],266,,NS,NS,study,0.79,0.79,,,0.59,0.59,,,,,,,,RMSEA printed 0.59; 'hypothesized 2-factor structure was not confirmed',,,,rmsea:implausible,supp S1 Table (structural validity column); ratings main Table 6 (instrument level)
+F0320,F0320-002,SDM-Q-9 (Spanish),SDM-Q-9 (Spanish),,De las Cuevas 2014 [32],540,,NS,NS,study,0.903,0.903,,,0.122,0.122,0.077,0.077,,,,,,GFI .840,,,,,supp S1 Table (structural validity column); ratings main Table 6 (instrument level)
+F0320,F0320-003,SDM-Q-9 (Spanish),SDM-Q-9 (Spanish),1-factor,Ballesteros 2017 [31],221,,NS,NS,study,0.98,0.98,,,0.07,0.07,,,,,,,,,,,,,supp S1 Table (structural validity column); ratings main Table 6 (instrument level)
+F0320,F0320-004,SDM-Q-9 (Dutch),SDM-Q-9 (Dutch),"1-factor, items 1 and 9 removed (model 4)",Rodenburg-VandenBussche 2015 [33],160,7,NS,NS,study,0.96,0.96,,,0.08,0.08,0.06,0.06,,,,,,,,,,,supp S1 Table (structural validity column); ratings main Table 6 (instrument level)
+F0320,F0320-005,SDM-Q-9-Psy (Hebrew),SDM-Q-9 Psy (Hebrew),1-factor,Zisman-Ilani 2016 [34],86,,NS,NS,study,0.983,0.983,0.977,0.977,0.065,0.065,0.035,0.035,,,,,,GFI .939,,,,,supp S1 Table (structural validity column); ratings main Table 6 (instrument level)
+F0320,F0320-006,SDM-Q-Doc,SDM-Q-Doc,1-factor,Scholl 2012 [35],324,,NS,NS,study,0.981,0.981,0.969,0.969,0.047,0.047,0.036,0.036,,,,,,,,,,,supp S1 Table (structural validity column); ratings main Table 6 (instrument level)
+F0320,F0320-007,SDM-Q-Doc (Dutch),SDM-Q-Doc (Dutch),"1-factor, items 1 and 9 removed (model 4)",Rodenburg-VandenBussche 2015 [33],201,7,NS,NS,study,0.98,0.98,,,0.05,0.05,0.04,0.04,,,,,,,,,,,supp S1 Table (structural validity column); ratings main Table 6 (instrument level)
+F0320,F0320-008,SDM-Q-Doc (Spanish),SDM-Q-Doc (Spanish),2-factor,Calderon 2017 [47],520,,NS,NS,study,0.99,0.99,,,0.08,0.08,0.04,0.04,,,,,,GFI .98; SRMR printed as 'z-RMSR (standardized root mean square residuals)',,,,,supp S1 Table (structural validity column); ratings main Table 6 (instrument level)
+F0322,F0322-001,ELNS,ELNS,3 dimensions,Badolamenti et al.,204,11,NS,NS,study,0.922,0.922,,,0.090,0.09,,,,,,,40,chi2(40)=106.53,,,,,supp S2 (characteristics)
+F0323,F0323-001,SMDOA,SMDOA,two-factor,Cavalcanti [41],295,9,NS,NS,study,0.98,0.98,0.98,0.98,0.05,0.05,,,,,,,,,+,+,result,,supp MOESM1 (results) + main Table 3 (ratings)
+F0324,F0324-001,DLQI-Chinese,DLQI-Chinese,2-factor,ref 43 (CTT),,,NS,NS,study,0.935,0.935,,,,,,,,,,,,,−,-,result,,"main text, DLQI section"
+F0336,F0336-001,FreBAQ (Spanish),FreBAQ,,Garcia 2023 (1),264,,NS,NS,study,0.97,0.97,0.96,0.96,0.06,0.06,0.07,0.07,,,,,,per-index ratings CFI+ TLI+ RMSEA+ SRMR+ (RMSEA = .06 marked +),+,+,result,,main Table 3
+F0360,F0360-001,Clarity of Professional Identity,CPI,,Cowin [16],,,NS,NS,study,,,,,,,,,,,,,,GFI 0.94 (marked acceptable by original authors),,,,,main Table 2
+F0360,F0360-002,MCPIS,MCPIS,,Cowin [16],,,NS,NS,study,,,,,,,,,,,,,,GFI 0.71,,,,,main Table 2
+F0360,F0360-003,Nurse Self Concept Questionnaire,NSCQ,,[20],,,NS,NS,study,,,,,,,,,,,,,,GFI 0.91 (acceptable per original),,,,,main Table 2
+F0360,F0360-004,Nurse Self Concept Questionnaire (Nigerian),NSCQ,,[27],,,NS,NS,study,0.91,0.91,,,,,,,,,,,,marked acceptable per original,,,,,main Table 2
+F0360,F0360-005,Nurse Self Concept Questionnaire (Chinese),NSCQ,,[28],,,NS,NS,study,0.91,0.91,,,,,,,,,,,,GFI 0.87; marked acceptable per original,,,,,main Table 2
+F0360,F0360-006,NPVS-R,NPVS-R,,[21],,,NS,NS,study,0.89,0.89,,,,,,,,0.87,,,,NFI 0.87,,,,,main Table 2
+F0360,F0360-007,NPVS-R,NPVS-R,,Cowin [16],,,NS,NS,study,,,,,,,,,,,,,,GFI 0.74,,,,,main Table 2
+F0360,F0360-008,Professional Identity Five Factor Scale,PIFFS,,[22],,,NS,NS,study,0.90,0.9,,,,,,,,,,,,marked acceptable per original,,,,,main Table 2
+F0360,F0360-009,The Values Survey,Values Survey,,Cowin [16],,,NS,NS,study,,,,,,,,,,,,,,GFI 0.89,,,,,main Table 2
+F0365,F0365-001,MEBS,,,Fekih-Romdhane 2023 [15],359,,NS,NS,study,0.93,0.93,,,,,,,,,,,,full metric invariance across sex,,,,,main Table 1 (Key Validity Statistic)
+F0365,F0365-002,TOS,,,Mhanna 2022 [17],555,,NS,NS,study,0.954,0.954,,,0.069,0.069,,,,,,,,chi2 429.09,,,,,main Table 1 (Key Validity Statistic)
+F0365,F0365-003,ORTO-R,,,Rogoza 2022 [18],363,,NS,NS,study,0.959,0.959,,,0.081,0.081,,,,,,,,chi2 23.53,,,,,main Table 1 (Key Validity Statistic)
+F0365,F0365-004,DOS,,one-factor,Rogoza 2021 [19],555,,NS,NS,study,0.970,0.97,,,0.079,0.079,,,,,,,,chi2 163.39,,,,,main Table 1 (Key Validity Statistic)
+F0365,F0365-005,FMQ,,three-factor,Begdache 2024 [24],224,,NS,NS,study,,,,,0.076,0.076,,,,,,,,chi2/df 2.28,,,,,main Table 1 (Key Validity Statistic)
+F0365,F0365-006,ORTO-15,,three-factor,Haddad 2020 [25],806,,NS,NS,study,,,,,0.098,0.098,,,,,,,,GFI .964; AGFI .919,,,,,main Table 1 (Key Validity Statistic)
+F0365,F0365-007,CFPQ,,,Al-Qerem 2017 [33],970,,NS,NS,study,0.93,0.93,0.92,0.92,0.03,0.03,,,,,,,,,,,,,main Table 1 (Key Validity Statistic)
+F0365,F0365-008,BES,,one-factor,Mina 2021 [36],555,,NS,NS,study,0.964,0.964,,,0.041,0.041,,,,,,,,,,,,,main Table 1 (Key Validity Statistic)
+F0365,F0365-009,EDE-QS-P,,one-factor,Kfoury 2025 [37],502,,NS,NS,study,0.965,0.965,0.955,0.955,0.087,0.087,,,,,,,,chi2/df 4.82; AVE .66,,,,,main Table 1 (Key Validity Statistic)
+F0365,F0365-010,ORTO-R,,two-factor,Hallit 2021 [38],783,,NS,NS,study,0.967,0.967,0.914,0.914,0.077,0.077,,,,,,,,chi2/df 3.36,,,,,main Table 1 (Key Validity Statistic)
+F0365,F0365-011,BES,,,Zeidan 2019 [39],811,,NS,NS,study,,,,,0.12,0.12,,,,,,,,chi2/df 2.4; GFI .799; AGFI .706,,,,,main Table 1 (Key Validity Statistic)
+F0365,F0365-012,EAT-26,,"16-item, 4-factor",Alyami 2024 [40],1734,,NS,NS,study,0.904,0.904,,,0.073,0.073,0.0554,0.0554,,,,,,MGCFA invariance (delta CFI <= .001),,,,,main Table 1 (Key Validity Statistic)
+F0365,F0365-013,EDE-Q (7-item),,,el Khazen Hadati 2024 [42],260,,NS,NS,study,0.985,0.985,,,0.042,0.042,,,,,,,,,,,,,main Table 1 (Key Validity Statistic)
+F0407,F0407-001,WHOQOL-HIV-BREF,WHOQOL-HIV-BREF,,Connell and Skevington [51],,,NS,NS,study,0.97,0.97,,,,,,,,,,,,,+,+,result,,main Table 4
+F0407,F0407-002,WHOQOL-HIV-BREF Portuguese version,WHOQOL-HIV-BREF,,Pereira [52],,,NS,NS,study,0.97,0.97,,,,,,,,,,,,,+,+,result,,main Table 4
+F0407,F0407-003,WHOQOL-HIV-BREF Ethiopian version,WHOQOL-HIV-BREF,,Tesfaye [54],,,NS,NS,study,0.82,0.82,,,,,,,,,,,,,+,+,result,,main Table 4
+F0407,F0407-004,WHOQOL-HIV-BREF Chinese version,WHOQOL-HIV-BREF,,Hsiung [57],,,NS,NS,study,0.95,0.95,,,,,,,,,,,,,+,+,result,,main Table 4
+F0407,F0407-005,WHOQOL-HIV-BREF Chinese version,WHOQOL-HIV-BREF,,Zhu [58],,,NS,NS,study,0.81,0.81,,,,,,,,,,,,,−,-,result,,main Table 4
+F0407,F0407-006,MOS-HIV Chinese version,MOS-HIV,,Liu [37],,,NS,NS,study,0.97,0.97,,,,,,,,,,,,,+,+,result,,main Table 4
+F0407,F0407-007,MOS-HIV Korean version,MOS-HIV,,Shim [45],,,NS,NS,study,0.97,0.97,,,,,,,,,,,,,+,+,result,,main Table 4
+F0407,F0407-008,WHOQOL-BREF,WHOQOL-BREF,,Thompson [64],,,NS,NS,study,0.89,0.89,,,,,,,,,,,,,+,+,result,,main Table 4
+F0407,F0407-009,EUROHIS-QoL-8 Portuguese version,EUROHIS-QoL-8,,Pereira and Canavarro [75],,,NS,NS,study,0.89,0.89,,,,,,,,,,,,,+,+,result,,main Table 4
+F0407,F0407-010,HAQ-DI,HAQ-DI,,Sousa [26],,,NS,NS,study,0.974,0.974,,,,,,,,,,,,,+,+,result,,main Table 4
+F0407,F0407-011,PozQoL,PozQoL,,Brown [70],,,NS,NS,study,> 0.95,0.95,,,,,,,,,,,,,+,+,result,cfi:bound,main Table 4
+F0407,F0407-012,SF-36v2 Brazilian-Portuguese version,SF-36,,Kusterer [19],,,NS,NS,study,0.95,0.95,,,,,,,,,,,,,+,+,result,,main Table 4
+F0432,F0432-001,SF-36,SF-36,,Su 2014,,,NS,NS,study,0.918,0.918,0.885,0.885,0.145,0.145,0.073,0.073,.919,,,,,IFI .919; note: 'COSMIN guidelines will accept CFI and SRMR scores',+,+,result,,supp ESM1/ESM2 results table
+F0432,F0432-002,WHOQOL-BREF,WHOQOL-BREF,,Su 2014,,,NS,NS,study,0.967,0.967,0.900,0.9,0.216,0.216,0.037,0.037,.967,,,,,IFI .967,+,+,result,,supp ESM1/ESM2 results table
+F0432,F0432-003,WHOQOL-BREF,WHOQOL-BREF,,Oliveira 2016,,,NS,NS,study,0.955,0.955,0.942,0.942,0.050,0.05,0.055,0.055,,,,,,GFI .914,+,+,result,,supp ESM1/ESM2 results table
+F0432,F0432-004,MHQOL,MHQOL,,Ebadi & Rezaiye 2025,,,NS,NS,study,0.97,0.97,,,0.14,0.14,,,.97,.95,,,,GFI .90; IFI .97; NFI .95; RMR .049,+,+,result,,supp ESM1/ESM2 results table
+F0432,F0432-005,ReQoL,ReQoL,,Keetharuth 2018,,,NS,NS,study,,,,,,,,,,,,,,"reported only as 'RMSEA ≤0.08, CFI >0.95'",+,+,result,,supp ESM1/ESM2 results table
+F0432,F0432-006,SQLS-R4,SQLS-R4,,Martin & Allen 2007,,,NS,NS,study,0.95,0.95,0.98,0.98,0.11,0.11,0.94,0.94,,,,,,SRMR printed 0.94; TLI .98 > .95 yet rated −,−,-,result,srmr:implausible,supp ESM1/ESM2 results table
+F0432,F0432-007,SQLS-R4,SQLS-R4,,Su 2017,,,NS,NS,study,0.967,0.967,0.964,0.964,0.068,0.068,0.072,0.072,,,,,,,+,+,result,,supp ESM1/ESM2 results table
+F0433,F0433-001,QoL-ACC,QoL-ACC,one-factor,[57],,,NS,NS,study,0.96,0.96,,,,,,,,,,,,,?,?,result,,main text p.10-11
+F0434,F0434-001,FGSIS (4 items),FGSIS,,Herbenick 2011,,,NS,NS,study,1.00,1.0,,,0.05,0.05,,,1.00,,,,,IFI 1.00,+,+,result,,supp Table S (structural validity)
+F0434,F0434-002,FGSIS (7 items),FGSIS,,Herbenick 2011,,,NS,NS,study,0.932,0.932,,,0.15,0.15,,,.93,,,,,IFI .93,−,-,result,,supp Table S (structural validity)
+F0434,F0434-003,FGSIS (7 items),FGSIS,,DeMaria 2012,,,NS,NS,study,0.98,0.98,,,0.08,0.08,,,,.97,,,,NFI .97,+,+,result,,supp Table S (structural validity)
+F0434,F0434-004,FGSIS (7 items),FGSIS,,Ellibes Kaya 2019,,,NS,NS,study,0.938,0.938,,,0.109,0.109,,,,.928,,,,NFI .928; RMR .051 (not SRMR); GFI .956; RMSEA 90% CI .086–.133,−,-,result,,supp Table S (structural validity)
+F0434,F0434-005,FGSIS (7 items),FGSIS,,Arruda 2023,,,NS,NS,study,0.987,0.987,0.981,0.981,0.046,0.046,,,,,,,,method listed as EFA (PCA) but CFA-type indices reported,+,+,result,,supp Table S (structural validity)
+F0434,F0434-006,FGSIS (7 items),FGSIS,,Komon 2022,,,NS,NS,study,0.98,0.98,0.97,0.97,0.07,0.07,0.05,0.05,,,,,,,+,+,result,,supp Table S (structural validity)
+F0434,F0434-007,FGSIS (7 items),FGSIS,,Pakpour 2014,,,NS,NS,study,0.99,0.99,,,0.060,0.06,0.032,0.032,,.98,,,,GFI .99; NFI .98,+,+,result,,supp Table S (structural validity)
+F0434,F0434-008,MGSIS (5 items),MGSIS,,Saffari 2016,,,NS,NS,study,1.0,1.0,,,0.050,0.05,0.021,0.021,,.99,,,,NFI .99,+,+,result,,supp Table S (structural validity)
+F0434,F0434-009,MGSIS (5 items),MGSIS,,Herbenick 2013,,,NS,NS,study,,,1,1.0,0.05,0.05,,,1,,,,,IFI 1,+,+,result,,supp Table S (structural validity)
+F0434,F0434-010,MGSIS (7 items),MGSIS,,Herbenick 2013,,,NS,NS,study,0.95,0.95,,,0.14,0.14,,,.95,,,,,IFI .95; CFI = .95 (not > .95),+,+,result,,supp Table S (structural validity)
+F0434,F0434-011,MGSIS (7 items),MGSIS,,Arruda 2021,,,NS,NS,study,1.000,1.0,1.002,1.002,0.000,0.0,,,,,,,,,+,+,result,,supp Table S (structural validity)
+F0434,F0434-012,MGSIS (7 items),MGSIS,,Koçak 2023,,,NS,NS,study,0.989,0.989,,,0.076,0.076,,,.989,.984,,,,GFI .974; AGFI .933; NFI .984; IFI .989,+,+,result,,supp Table S (structural validity)
+F0434,F0434-013,K-GIS,K-GIS,,Lim & Cho 2018,,,NS,NS,study,0.912,0.912,0.901,0.901,0.053,0.053,,,,,,,,,+,+,result,,supp Table S (structural validity)
+F0452,F0452-001,SDQ (parent),SDQ (ADHD subscale),,Hall 2019,250,,NS,NS,study,0.976,0.976,,,0.021,0.021,,,,.969,,,,NFI .969,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-002,SDQ (teacher),SDQ (ADHD subscale),,Hall 2019,250,,NS,NS,study,0.983,0.983,,,0.023,0.023,,,,.978,,,,NFI .978,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-003,SDQ,SDQ (ADHD subscale),,Croft 2015,16659,,NS,NS,study,0.905,0.905,,,0.025,0.025,,,,,,,,,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-004,SDQ,SDQ (ADHD subscale),,Allkoja 2018,542,,NS,NS,study,0.814,0.814,0.772,0.772,0.095,0.095,,,,,,,,,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-005,CADBI (mothers),CADBI,,Burns 2014,4658,,NS,NS,study,0.951,0.951,,,0.03,0.03,0.032,0.032,,,,,,,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-006,CADBI (fathers),CADBI,,Burns 2014,4658,,NS,NS,study,0.951,0.951,,,0.03,0.03,0.030,0.03,,,,,,,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-007,CADBI,CADBI,,Shipp 2010,872,,NS,NS,study,0.960,0.96,0.985,0.985,0.065,0.065,,,,,,,,,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-008,FTF (parent),FTF,,Lambek 2015,5556,,NS,NS,study,,,,,0.050,0.05,0.043,0.043,,,,,,,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-009,FTF (teacher),FTF,,Lambek 2015,5556,,NS,NS,study,,,,,0.059,0.059,0.052,0.052,,,,,,,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-010,CBCL Attention Problems,,,Jiang 2023,1083,,NS,NS,study,0.73,0.73,,,,,,,,,,,,AGFI .77,−,-,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-011,CABI,CABI,,Çiftçi 2023,253,,NS,NS,study,0.98,0.98,,,0.061,0.061,0.069,0.069,,.98,,,,NFI .98; GFI .77,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-012,CABI,CABI,,Burns 2022,274,,NS,NS,study,0.965,0.965,,,0.044,0.044,0.019,0.019,,,,,,,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-013,"CABI (mothers, boys)",CABI,,Burns 2021,110,,NS,NS,study,0.97,0.97,,,0.034,0.034,0.05,0.05,,,,,,,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-014,"CABI (mothers, girls)",CABI,,Burns 2021,110,,NS,NS,study,0.98,0.98,,,0.031,0.031,0.05,0.05,,,,,,,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-015,"CABI (fathers, boys)",CABI,,Burns 2021,110,,NS,NS,study,0.98,0.98,,,0.031,0.031,0.05,0.05,,,,,,,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-016,"CABI (fathers, girls)",CABI,,Burns 2021,110,,NS,NS,study,0.98,0.98,,,0.028,0.028,0.05,0.05,,,,,,,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-017,"CABI (teachers, boys)",CABI,,Burns 2021,110,,NS,NS,study,0.98,0.98,,,0.042,0.042,0.05,0.05,,,,,,,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0452,F0452-018,"CABI (teachers, girls)",CABI,,Burns 2021,110,,NS,NS,study,0.98,0.98,,,0.034,0.034,0.05,0.05,,,,,,,+,+,result,,supp ESM2 structural validity table; main Table 5
+F0484,F0484-001,MSWS-12,,,Mokkink 2016 [53],625,,NS,NS,study,1.000,1.0,0.999,0.999,0.078,0.078,0.019,0.019,,,,,,"Guttman's lambda2 .98; listed under internal consistency (rated Excellent, +)",,,,,main Table 2
+F0489,F0489-001,FES-I,FES-I,1-factor,Visschedijk 2015,,,NS,yes (CFA for categorical items),study,0.994,0.994,,,0.047,0.047,,,,,,,,,,,,,supp Additional file 4 (results) + main Table 2
+F0489,F0489-002,FFQ-R (German),FFQ-R (German),2-factor,Dautel 2021,,,NS,NS,study,,,,,0.0000,0.0,,,,,,,3,chi2/df 3.335,,,,,supp Additional file 4 (results) + main Table 2
+F0490,F0490-001,AII (Persian),AII Persian,3-factor,,120,,NS,NS,study,0.76,0.76,,,0.08,0.08,,,,,,,,GFI .77; chi2 334.9,?,?,result,,main Table 2 values + Table 3 ratings
+F0490,F0490-002,IdFAI (Chinese),IdFAI Chinese,,,625,,NS,NS,study,0.90,0.9,0.90,0.9,0.25,0.25,0.07,0.07,,,,,,,+,+,result,,main Table 2 values + Table 3 ratings
+F0490,F0490-003,IdFAI (Persian),IdFAI Persian,3-factor,,120,,NS,NS,study,0.75,0.75,,,0.06,0.06,,,,,,,,GFI .87; AGFI .81,−,-,result,,main Table 2 values + Table 3 ratings
+F0490,F0490-004,IdFAI (Spanish I),IdFAI Spanish I,3-factor,,110,,NS,NS,study,0.98,0.98,,,0.068,0.068,,,,.97,,,,GFI .94; NFI .97,+,+,result,,main Table 2 values + Table 3 ratings
+F0490,F0490-005,IdFAI (French),IdFAI French,3-factor,,160,,NS,NS,study,0.94,0.94,0.92,0.92,0.143,0.143,0.122,0.122,,,,,,,−,-,result,,main Table 2 values + Table 3 ratings
+F0495,F0495-001,LYMQoL-Arm A (Turkish),LYMQoL-Arm A,,Karayurt 2021,,,NS,NS,study,0.81,0.81,,,0.089,0.089,0.09,0.09,,,,,1,GFI .74; AGFI .68; CMIN/df 1.86,−,-,result,,main Table 5a–c
+F0495,F0495-002,LYMQoL-Arm B (Turkish),LYMQoL-Arm B,,Borman 2018,,,NS,NS,study,0.902,0.902,0.888,0.888,0.074,0.074,,,.904,,,,1,GFI .782; IFI .904; CMIN/df 1.733,−,-,result,,main Table 5a–c
+F0495,F0495-003,LLIS ver 1 (Turkish),LLIS ver 1,,Haghighat 2018,,,NS,NS,study,0.908,0.908,0.894,0.894,0.087,0.087,,,,.856,,,,reported as NNFI; NFI .856; MFI .909; plus EFA loadings,+,+,result,,main Table 5a–c
+F0495,F0495-004,LSIDS-A intensity scale,LSIDS-A,,Deveci 2021,,,NS,NS,study,0.91,0.91,0.90,0.9,0.056,0.056,0.19,0.19,.91,,,,1,GFI .83; IFI .91; CMIN/df 1.52,+ (both scales),+,result,,main Table 5a–c
+F0495,F0495-005,LSIDS-A distress scale,LSIDS-A,,Deveci 2021,,,NS,NS,study,0.90,0.9,0.893,0.893,0.055,0.055,0.27,0.27,.90,,,,1,GFI .84; IFI .90; CMIN/df 1.55,+ (both scales),+,result,,main Table 5a–c
+F0495,F0495-006,ULL27 (Turkish),ULL27,,Vatansever 2020,,,NS,NS,study,0.97,0.97,,,0.074,0.074,,,.97,,,,,IFI .97; GFI .96,+,+,result,,main Table 5a–c
+F0518,F0518-001,VSQ,VSQ,,,,,NS,NS,pooled,0.97–0.99,,,,,,,,,,,,,,+,+,result,cfi:range,main Table 10
+F0518,F0518-002,DIVA,DIVA,,,,,NS,NS,pooled,0.978–0.979,,,,,,,,,,,,,,+,+,result,cfi:range,main Table 10
+F0539,F0539-001,EORTC QLQ-TC26,EORTC QLQ-TC26,,Sztankay [21],,,NS,NS,study,0.974,0.974,0.963,0.963,0.046,0.046,,,,,,,,,+,+,result,,main results
+F0545,F0545-001,Measure of Managerial Stigma towards Employee Depression,Managerial Stigma towards Employee Depression,3-factor,Martin & Giallo 2016,,,NS,NS,study,0.91,0.91,,,0.07,0.07,,,,,,,,described as 'inadequate fit',,,,,main text instrument 5
+F0556,F0556-001,APS,APS (Spanish),,Esteve 2016 study 1,,,NS,NS,study,0.96,0.96,,,0.064,0.064,,,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-002,CPCI,CPCI (Brazilian),,Souza 2021,,,NS,NS,study,0.96,0.96,0.96,0.96,0.051,0.051,,,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-003,CPCI,CPCI (French),,Truchon 2006,,,NS,NS,study,0.82,0.82,,,0.05,0.05,0.07,0.07,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-004,CPCI-42,CPCI-42 (Italian),,Monticone 2013,,,NS,NS,study,0.94–0.99,,,,<0.01–0.18,,,,,,,,,per-scale ranges,+,+,result,cfi:range;rmsea:range,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-005,CPCI-42,CPCI-42 (Chinese),,Wong 2010a (guarding),,,NS,NS,study,0.89,0.89,,,0.10,0.1,,,,,,,,"per-scale fit; other scales CFI .85–.99, RMSEA .05–.20; single study rating ?",?,?,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-006,CPCI-42,CPCI-42 (Spanish),,Garcia-Campayo 2007,,,NS,NS,study,0.81,0.81,,,0.059,0.059,0.08,0.08,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-007,FABQ,FABQ (Chinese),,Pei 2010,,,NS,NS,study,0.85,0.85,0.81,0.81,,,0.079,0.079,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-008,FABQ,FABQ (Swiss-German),,Staerkle 2004,,,NS,NS,study,,,,,0.09,0.09,,,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-009,FABQ,FABQ (Gujarati),,Bid 2019,,,NS,NS,study,0.881,0.881,0.852,0.852,0.131,0.131,,,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-010,FABQ,FABQ (Serbian),,Knezevic 2018,,,NS,NS,study,0.96,0.96,,,0.088,0.088,,,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-011,NRP,NRP (English),,Jensen 2017 (NRP),,,NS,NS,study,0.99,0.99,0.99,0.99,0.058,0.058,,,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-012,NRP,NRP (English),,Jensen 2017 (PR),,,NS,NS,study,1.00,1.0,1.00,1.0,0.024,0.024,,,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-013,PASS-20,PASS-20 (Chinese),,Zhou 2017,,,NS,NS,study,0.90,0.9,,,0.08,0.08,,,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-014,PASS-20,PASS-20 (Korean),,Cho 2010,,,NS,NS,study,0.91,0.91,,,0.08,0.08,,,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-015,PIPS,PIPS (Greek),,Vasiliou 2019,,,NS,NS,study,0.91,0.91,,,0.09,0.09,0.06,0.06,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-016,PIPS,PIPS (Swedish),,Wicksell 2010,,,NS,NS,study,0.90,0.9,,,0.057,0.057,,,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-017,PIPS,PIPS (German),,Barke 2015,,,NS,NS,study,,,,,0.054,0.054,0.063,0.063,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-018,PIPS,PIPS (Dutch),,Trompetter 2014,,,NS,NS,study,0.98,0.98,,,0.07,0.07,0.058,0.058,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-019,PIPS,PIPS (Japanese),,Nagasawa 2021,,,NS,NS,study,0.97,0.97,,,0.06,0.06,,,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-020,TSK,TSK (Dutch),,Goubert 2004 1-factor CLBP,,,NS,NS,study,0.78,0.78,,,0.077,0.077,,,,,,,,,?,?,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-021,TSK,TSK (Dutch),,Goubert 2004 1-factor fibromyalgia,,,NS,NS,study,0.73,0.73,,,0.089,0.089,,,,,,,,,?,?,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-022,TSK,TSK (English),,French 2007,,,NS,NS,study,0.90,0.9,,,0.061,0.061,,,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-023,TSK,TSK (Dutch),,Roelofs 2004 CLBP,,,NS,NS,study,0.92,0.92,,,0.056,0.056,,,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-024,TSK,TSK (Dutch),,Roelofs 2004 fibromyalgia,,,NS,NS,study,0.96,0.96,,,0.037,0.037,,,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-025,TSK,TSK (Dutch),,Roelofs 2007 1-factor,,,NS,NS,study,0.74,0.74,,,0.086,0.086,,,,,,,,described as 'poor fit'; Table 6 TSK row shows +/V,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-026,TSK,TSK (Chinese),,Wong 2010b orthopaedics 2-factor,,,NS,NS,study,0.67,0.67,,,0.025,0.025,,,,,,,,"CFI printed '.67, TSK = .930'",−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-027,TSK,TSK (Chinese),,Wong 2010b pain clinic 1-factor,,,NS,NS,study,0.971,0.971,,,0.048,0.048,,,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-028,TSK,TSK (Dutch),,Heuts 2004 4-factor (17 items),,,NS,NS,study,0.90,0.9,,,0.081,0.081,,,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-029,TSK-11,TSK-11 (German),,Rusu 2014,,,NS,NS,study,0.933,0.933,,,0.047,0.047,,,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-030,TSK-11,TSK-11 (English),,Tkachuk 2012,,,NS,NS,study,0.90,0.9,,,0.08,0.08,,,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-031,TSK-11,TSK-11 (Swedish),,Larsson 2014,,,NS,NS,study,0.91,0.91,,,0.10,0.1,,,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-032,TSK-11,TSK-11 (Dutch),,Roelofs 2007,,,NS,NS,study,0.93,0.93,,,0.051,0.051,,,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-033,TSK-13,TSK-13 (English),,Tkachuk 2012 CLBP,,,NS,NS,study,0.85,0.85,,,0.073,0.073,,,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-034,TSK-13,TSK-13 (English),,Tkachuk 2012 fibromyalgia,,,NS,NS,study,0.89,0.89,,,0.08,0.08,,,,,,,,,−,-,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-035,TSK-13,TSK-13 (Dutch),,Goubert 2004 CLBP,,,NS,NS,study,0.85,0.85,,,0.073,0.073,,,,,,,,,?,?,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-036,TSK-13,TSK-13 (Dutch),,Goubert 2004 fibromyalgia,,,NS,NS,study,0.97,0.97,,,0.037,0.037,,,,,,,,,?,?,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-037,TSK-13,TSK-13 (Dutch),,Heuts 2004,,,NS,NS,study,0.95,0.95,,,0.055,0.055,,,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-038,TSK-TMD,TSK-TMD (Spanish),,La Touche 2020,,,NS,NS,study,0.989,0.989,0.986,0.986,0.078,0.078,,,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-039,TSK-TMD,TSK-TMD (Brazilian),,Aguiar 2017,,,NS,NS,study,0.97,0.97,,,0.07,0.07,,,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0556,F0556-040,TSK-TMD,TSK-TMD (Dutch),,Visscher 2010,,,NS,NS,study,0.95,0.95,,,0.078,0.078,,,,,,,,,+,+,result,,supp SDC1 (values) + main Table 6 (SV rating)
+F0559,F0559-001,PSQS-Turkish,PSQS-Turkish,Chinese-version structure,,,,NS,NS,study,0.95,0.95,,,0.076,0.076,,,,,,,1,GFI .92; AGFI .86; chi2/df 1.76,?,?,result,,"supp Appendix (mmc2.xlsx, structural validity sheet)"
+F0559,F0559-002,PGQ-Persian,PGQ-Persian,2-factor,,,,NS,NS,study,0.96,0.96,,,0.160,0.16,,,.96,.94,,.94,,NFI .94; IFI .96; RFI .94,+,+,result,,"supp Appendix (mmc2.xlsx, structural validity sheet)"
+F0559,F0559-003,PDQ-English 4.0,PDQ (combined English),unidimensional,,,,WLSMV,yes,study,0.89,0.89,0.86,0.86,0.12,0.12,,,,,,,,,+ (study),+,result,,"supp Appendix (mmc2.xlsx, structural validity sheet)"
+F0559,F0559-004,PDQ-English 4.0,PDQ (combined English),3-factor,,,,WLSMV,yes,study,0.97,0.97,0.96,0.96,0.07,0.07,,,,,,,,,+ (study),+,result,,"supp Appendix (mmc2.xlsx, structural validity sheet)"
+F0559,F0559-005,PDQ-English 4.0,PDQ (combined English),2-factor,,,,WLSMV,yes,study,0.95,0.95,0.94,0.94,0.08,0.08,,,,,,,,,+ (study),+,result,,"supp Appendix (mmc2.xlsx, structural validity sheet)"
+F0559,F0559-006,PDQ-Spanish,PDQ-Spanish,3-factor from EFA,,,,WLSMV,yes,study,0.955,0.955,,,0.048,0.048,,,,,,,,WRMR .058,?,?,result,,"supp Appendix (mmc2.xlsx, structural validity sheet)"
+F0559,F0559-007,PDQ-Spanish,PDQ-Spanish,English 3.0 structure,,,,WLSMV,yes,study,0.86,0.86,,,0.098,0.098,,,,,,,,WRMR 1.105,?,?,result,,"supp Appendix (mmc2.xlsx, structural validity sheet)"
+F0559,F0559-008,PDQ-Spanish,PDQ-Spanish,English 3.0 less item 6,,,,WLSMV,yes,study,0.94,0.94,,,0.067,0.067,,,,,,,,WRMR .769,?,?,result,,"supp Appendix (mmc2.xlsx, structural validity sheet)"
+F0559,F0559-009,PDQ-Spanish,PDQ-Spanish,unidimensional,,,,WLSMV,yes,study,0.95,0.95,,,0.061,0.061,,,,,,,,WRMR .7,?,?,result,,"supp Appendix (mmc2.xlsx, structural validity sheet)"
+F0559,F0559-010,Short version PGS-Chinese,SVPGS-Chinese,3-factor,,,,ML,NS,study,0.72,0.72,,,0.11,0.11,,,,,,,,,?,?,result,,"supp Appendix (mmc2.xlsx, structural validity sheet)"
+F0559,F0559-011,Short version PGS-Czech,SVPGS-Czech,English structure,,,,NS,NS,study,0.779,0.779,,,0.092,0.092,,,,,,,,,−,-,result,,"supp Appendix (mmc2.xlsx, structural validity sheet)"
+F0559,F0559-012,Short version PGS-Czech,SVPGS-Czech,Spanish structure,,,,NS,NS,study,0.826,0.826,,,0.093,0.093,,,,,,,,,−,-,result,,"supp Appendix (mmc2.xlsx, structural validity sheet)"
+F0559,F0559-013,Short version PGS-Czech,SVPGS-Czech,Chinese structure,,,,NS,NS,study,0.798,0.798,,,0.109,0.109,,,,,,,,,−,-,result,,"supp Appendix (mmc2.xlsx, structural validity sheet)"
+F0559,F0559-014,HPSS-English,HPSS-English,2-factor,,,,ML (Satorra-Bentler),NS,study,0.972,0.972,0.965,0.965,0.037,0.037,,,,,,,,,?,?,result,,"supp Appendix (mmc2.xlsx, structural validity sheet)"
+F0574,F0574-001,Modified cognitive mapping task (VR),Modified cognitive mapping task (VR),one latent factor,Allison et al. (2019),90,,NS,NS,study,0.904,0.904,,,0.06,0.06,0.064,0.064,,,,,14,chi2(14)=18.17; RMSEA 90% CI 0.00-0.12,,,,,supp Table (factor analysis)
+F0598,F0598-001,IBMSSP-EFAPD,IBMSSP-EFAPD,,Lai 2016,571,,NS,NS,study,0.964,0.964,,,0.058,0.058,,,,,,,,,+,+,result,,main Table 4
+F0598,F0598-002,Qualiveen (Persian),Qualiveen,,Nikfallah 2015,154,,NS,NS,study,0.95,0.95,0.94,0.94,0.078,0.078,,,,,,,,reported as NNFI,+,+,result,,main Table 4
+F0598,F0598-003,Qualiveen-SF (Greek),Qualiveen,,Konstantinidis 2020,124,,NS,NS,study,0.987,0.987,,,0.055,0.055,,,,.954,,,,GFI .964; NFI .954,+,+,result,,main Table 4
+F0598,F0598-004,SCI-QOL Pressure ulcers,SCI-QOL Pressure ulcers,,Kisala 2015a,189,,NS,NS,study,0.961,0.961,0.952,0.952,0.124,0.124,,,,,,,,,−,-,result,,main Table 4
+F0598,F0598-005,SCI-QOL Anxiety,SCI-QOL Anxiety,,Kisala 2015b,716,,NS,NS,study,0.953,0.953,,,0.069,0.069,,,,,,,,,−,-,result,,main Table 4
+F0598,F0598-006,SCI-QOL Economic,SCI-QOL Economic,,Tulsky 2015a,305,,NS,NS,study,0.939,0.939,,,0.089,0.089,,,,,,,,,−,-,result,,main Table 4
+F0598,F0598-007,SCI-QOL item banks,SCI-QOL item banks,,Tulsky 2015b,825,,NS,NS,study,0.914–0.999,,,,0.039–0.124,,,,,,,,,,?,?,result,cfi:range;rmsea:range,main Table 4
+F0598,F0598-008,SCI-QOL Depression,SCI-QOL Depression,,Tulsky 2015c,716,,NS,NS,study,0.968,0.968,,,0.066,0.066,,,,,,,,,−,-,result,,main Table 4
+F0598,F0598-009,SCI-QOL Stigma,SCI-QOL Stigma,,Kisala 2015c,611,,NS,NS,study,0.941,0.941,0.935,0.935,0.088,0.088,,,,,,,,,−,-,result,,main Table 4
+F0598,F0598-010,SCI-QOL PAWB,SCI-QOL PAWB,,Bertisch 2015,717,,NS,NS,study,0.947,0.947,,,0.094,0.094,,,,,,,,,−,-,result,,main Table 4
+F0598,F0598-011,SCI-QOL APSSRA,SCI-QOL APSSRA,,Heinemann 2015,641,,NS,NS,study,0.968,0.968,,,0.074,0.074,,,,,,,,,−,-,result,,main Table 4
+F0598,F0598-012,SCI-QOL Self-esteem,SCI-QOL Self-esteem,,Kalpakjian 2015,717,,NS,NS,study,0.946,0.946,,,0.087,0.087,,,,,,,,,−,-,result,,main Table 4
+F0598,F0598-013,SCI-QOL Grief and Loss,SCI-QOL Grief and Loss,,Kalpakjian 2015,717,,NS,NS,study,0.976,0.976,,,0.078,0.078,,,,,,,,,−,-,result,,main Table 4
+F0598,F0598-014,SCI-QOL Psychological Trauma,SCI-QOL Psychological Trauma,,Kisala 2015d,717,,NS,NS,study,0.976,0.976,,,0.078,0.078,,,,,,,,,−,-,result,,main Table 4
+F0598,F0598-015,SCI-QOL Resilience,SCI-QOL Resilience,,Victorson 2015,717,,NS,NS,study,0.976,0.976,,,0.078,0.078,,,,,,,,,−,-,result,,main Table 4
+F0598,F0598-016,SCI-QOL Bladder Management Difficulties,SCI-QOL Bladder Management Difficulties,,Tulsky 2015,757,,NS,NS,study,0.965,0.965,,,0.093,0.093,,,,,,,,,−,-,result,,main Table 4
+F0598,F0598-017,SCI-QOL Bowel Management Difficulties,SCI-QOL Bowel Management Difficulties,,Tulsky 2015,757,,NS,NS,study,0.955,0.955,,,0.078,0.078,,,,,,,,,−,-,result,,main Table 4
+F0598,F0598-018,SCI-QOL Bladder Complications,SCI-QOL Bladder Complications,,Tulsky 2015,757,,NS,NS,study,0.992,0.992,,,0.050,0.05,,,,,,,,,−,-,result,,main Table 4
+F0598,F0598-019,SOSGOQ 2.0,SOSGOQ 2.0,,Versteeg 2018,133,,NS,NS,study,0.928,0.928,,,0.074,0.074,0.06,0.06,,,,,,RMSEA 90% CI .055–.092,+,+,result,,main Table 4
+F0598,F0598-020,WHOQOL-DIS,WHOQOL-DIS,,Lee 2017,85,,NS,NS,study,0.89,0.89,,,0.13,0.13,,,,.83,,,,NFI .83; higher-order 3-domain model 'fit well',+,+,result,,main Table 4
+F0601,F0601-001,DFS-SF dependence/daily life,DFS-SF dependence/daily life,,[35] study 2,347,5,NS,NS,study,0.94,0.94,0.93,0.93,0.058,0.058,,,.94,,,,,reported as NNFI .93; IFI .94; GFI .87,+,+,result,,supp Appendix 10
+F0601,F0601-002,DFS-SF Spanish dependence/daily life,DFS-SF dependence/daily life,,[39],141,5,NS,NS,study,0.844,0.844,,,0.095,0.095,0.093,0.093,,,,,,,−,-,result,,supp Appendix 10
+F0601,F0601-003,PRO-DM-Thai physical function,PRO-DM-Thai physical function,,[40],500,5,NS,NS,study,,,,,0.000,0.0,,,,,,,,GFI .998; AGFI .991,+,+,result,,supp Appendix 10
+F0601,F0601-004,Diabetes-39 Taiwan energy and mobility,Diabetes-39 energy and mobility (15),,[51],265,15,NS,NS,study,0.92,0.92,0.98,0.98,0.085,0.085,,,,,,,,,+,+,result,,supp Appendix 10
+F0601,F0601-005,Diabetes-39 SF Chinese energy and mobility,Diabetes-39 SF energy and mobility (5),,[51],265,5,NS,NS,study,0.966,0.966,0.993,0.993,0.058,0.058,,,,,,,,,+,+,result,,supp Appendix 10
+F0604,F0604-001,BIS,BIS,two-factor,Anagnostopoulos et al. [16],70,10,NS,NS,study,0.95,0.95,,,0.058,0.058,0.069,0.069,,,,,,,−,-,result,,main Table 2
+F0604,F0604-002,BIS,BIS,one-factor,Gómez-Campelo et al. [31],100,10,NS,NS,study,,,,,,,0.059,0.059,,,,,,,+,+,result,,main Table 2
+F0604,F0604-003,BIS,BIS,one-factor,Karayurt et al. [32],100,10,NS,NS,study,0.96,0.96,,,,,0.05,0.05,,,,,,,+,+,result,,main Table 2
+F0609,F0609-001,LATCH (4-item),LATCH,,Lau [68],907,,NS,NS,study,0.993–0.995,,0.979–0.985,,0.042–0.044,,,,0.993-0.995,,,,,GFI .994-.995; AGFI .971-.976,+ (criteria rating),+,pooled,cfi:range;tli:range;rmsea:range,main Table 7 (values); rating main Table 3
+F0609,F0609-002,LATCH (5-item),LATCH,,Lau [68],907,,NS,NS,study,0.886–0.956,,0.772–0.957,,0.086–0.125,,,,0.889-0.957,,,,,GFI .961-.980; AGFI .883-.941; RMSEA printed as 'RMESA',,,,cfi:range;tli:range;rmsea:range,main Table 7 (values); rating main Table 3
+F0641,F0641-001,CSI,CSI,,Noorollahzadeh 2021,,,NS,NS,study,,,,,0.049,0.049,,,,,,,,,(+),+,result,,supp Table 6 (Additional file 3)
+F0641,F0641-002,CSI,CSI,one-factor,Wiangkham 2022,,,NS,NS,study,0.89,0.89,0.88,0.88,0.09,0.09,,,,,,,,,(-),-,result,,supp Table 6 (Additional file 3)
+F0641,F0641-003,CSI,CSI,correlated 4-factor,Wiangkham 2022,,,NS,NS,study,0.90,0.9,0.89,0.89,0.08,0.08,,,,,,,,,(-),-,result,,supp Table 6 (Additional file 3)
+F0641,F0641-004,CSI,CSI,bifactor,Wiangkham 2022,,,NS,NS,study,0.93,0.93,0.92,0.92,0.070,0.07,,,,,,,,,(-),-,result,,supp Table 6 (Additional file 3)
+F0641,F0641-005,CSI,CSI,,Kregel 2016,,,NS,NS,study,0.97,0.97,0.97,0.97,0.065,0.065,,,,0.95,,,,TLI printed as NNFI,(+),+,result,,supp Table 6 (Additional file 3)
+F0641,F0641-006,CSI,CSI,,Knezevic 2018,,,NS,NS,study,0.93,0.93,0.93,0.93,0.07,0.07,,,,,,,,,(-),-,result,,supp Table 6 (Additional file 3)
+F0641,F0641-007,CSI,CSI,,Kosińska 2021,,,NS,NS,study,,,,,0.07,0.07,,,,,,,,,(+),+,result,,supp Table 6 (Additional file 3)
+F0641,F0641-008,CSI,CSI,4-factor,Klute 2021,,,NS,NS,study,,,0.99,0.99,0.06,0.06,,,,,,,269,chi2 553.09,(+),+,result,,supp Table 6 (Additional file 3)
+F0641,F0641-009,CSI,CSI,1-factor,Klute 2021,,,NS,NS,study,,,0.98,0.98,0.08,0.08,,,,,,,275,chi2 756.39,(+),+,result,,supp Table 6 (Additional file 3)
+F0641,F0641-010,CSI,CSI,bifactor,Klute 2021,,,NS,NS,study,,,0.99,0.99,0.05,0.05,,,,,,,250,chi2 430.6,(+),+,result,,supp Table 6 (Additional file 3)
+F0643,F0643-001,PDQ-39,PDQ-39,8-domain,,,,NS,NS,summary,0.96,0.96,0.95,0.95,0.10,0.1,,,.97,.92,,,,GFI .92; RMR .04; NFI .92; IFI .97; chi2 32.02–1885.85,,,,,main Table 3 ; ratings Table 1
+F0643,F0643-002,PDQ-8,PDQ-8,single factor,,,,NS,NS,summary,0.94–0.98,,0.91–0.97,,0.06–0.10,,,,,,,,,GFI .91–.95; RMR .07–.09; NFI .88–.91; IFI .94–.98,,,,cfi:range;tli:range;rmsea:range,main Table 3 ; ratings Table 1
+F0643,F0643-003,SF-36,SF-36,8-domain,,,,NS,NS,study,0.82,0.82,,,0.21,0.21,,,,,,,,GFI .87; AGFI .72; RMSEA 95% CI .18–.24; chi2 155.89,,,,,main Table 3 ; ratings Table 1
+F0649,F0649-001,SFQ,SFQ,4 oblique factors,"[65,66] sample 1",195,,NS,NS,study,0.96,0.96,0.95,0.95,0.057,0.057,,,,,,,246,"reported as NNFI; GFI .94; chi2 401.64, df 246",,,,,main Table 2
+F0649,F0649-002,SFQ,SFQ,4 oblique factors,"[65,66] sample 2",315,,NS,NS,study,0.93,0.93,0.93,0.93,0.078,0.078,,,,,,,246,"reported as NNFI; GFI .94; chi2 714.76, df 246",,,,,main Table 2
+F0649,F0649-003,SDI-2 (Spanish),SDI-2,4-factor,[26],,,NS,NS,study,,,0.96,0.96,0.058,0.058,,,,,.96,,,RNI .96; GFI .98; chi2 299.50,,,,,main Table 2
+F0649,F0649-004,CSDS (Portuguese),CSDS,4-factor,[27],,,NS,NS,study,0.793,0.793,,,0.08,0.08,,,,,,,24,GFI .754; chi2/df 24.5,,,,,main Table 2
+F0653,F0653-001,PSQ-3,PSQ-3,1-factor,,605,,NS,NS,study,0.90,0.9,0.90,0.9,0.8,0.8,,,,,,,,"printed 'RMSEA = 0.8' (likely .08); per-index: RMSEA (−), CFI/TLI (+)","mixed (RMSEA −, CFI/TLI +)",,,rmsea:implausible,main Table 5
+F0653,F0653-002,PSQ-3,PSQ-3,2-factor,,605,,NS,NS,study,0.95,0.95,0.95,0.95,0.8,0.8,,,,,,,,"printed 'RMSEA = 0.8'; per-index: RMSEA (−), CFI/TLI (+)","mixed (RMSEA −, CFI/TLI +)",,,rmsea:implausible,main Table 5
+F0653,F0653-003,MOS-SS,MOS-SS,Bentler CFI study 1056,,1493,,NS,NS,study,0.88–0.92,,,,,,,,,,,,,,−,-,result,cfi:range,main Table 5
+F0653,F0653-004,MOS-SS,MOS-SS,Bentler CFI study 1077,,1493,,NS,NS,study,0.90–0.92,,,,,,,,,,,,,,−,-,result,cfi:range,main Table 5
+F0653,F0653-005,ISI-4,ISI-4,1-factor 4-item,,836,,NS,NS,study,0.99,0.99,,,,,,,,,,,,,+,+,result,,main Table 5
+F0653,F0653-006,ISI-7,ISI-4,1-factor 7-item,,836,,NS,NS,study,0.94,0.94,,,,,,,,,,,,,−,-,result,,main Table 5
+F0653,F0653-007,ISI-7,ISI-4,2-factor 7-item,,836,,NS,NS,study,0.96,0.96,,,,,,,,,,,,,+,+,result,,main Table 5
+F0653,F0653-008,ISI-7,ISI-4,3-factor 7-item,,836,,NS,NS,study,0.99,0.99,,,,,,,,,,,,,+,+,result,,main Table 5
+F0653,F0653-009,AIS-8,AIS-8,1-factor,,144,,NS,NS,study,0.84,0.84,,,,,,,,,,,,,−,-,result,,main Table 5
+F0653,F0653-010,AIS-8,AIS-8,2-factor,,144,,NS,NS,study,0.97,0.97,,,,,,,,,,,,,+,+,result,,main Table 5
+F0653,F0653-011,AIS-5,AIS-5,1-factor,,144,,NS,NS,study,0.98,0.98,,,,,,,,,,,,,+,+,result,,main Table 5
+F0653,F0653-012,PSQI (RA),PSQI,1-factor,,107,,NS,NS,study,0.89,0.89,,,,,,,,,,,,,−,-,result,,main Table 5
+F0653,F0653-013,PSQI (RA),PSQI,2-factor,,107,,NS,NS,study,1.00,1.0,,,,,,,,,,,,,+,+,result,,main Table 5
+F0653,F0653-014,PSQI (RA),PSQI,3-factor,,107,,NS,NS,study,1.00,1.0,,,,,,,,,,,,,+,+,result,,main Table 5
+F0653,F0653-015,PSQI (TMD),PSQI,,,609,,NS,NS,study,,,,,0.05,0.05,,,,,,,,'TLI & CFI > 0.95' (no values),+,+,result,,main Table 5
+F0653,F0653-016,CPSI,CPSI,1-factor 3-item,,2674,,NS,NS,study,1.00,1.0,1.00,1.0,0.00,0.0,,,,,,,,,+ (summary),+,pooled,,main Table 5
+F0653,F0653-017,CPSI,CPSI,1-factor 5-item,,2674,,NS,NS,study,0.98,0.98,0.96,0.96,0.09,0.09,,,,,,,,,+ (summary),+,pooled,,main Table 5
+F0653,F0653-018,CPSI,CPSI,2-factor,,2674,,NS,NS,study,0.98,0.98,0.95,0.95,0.11,0.11,,,,,,,,,+ (summary),+,pooled,,main Table 5
+F0705,F0705-001,VOL,VOL,,Lawton 2001,,,NS,NS,study,0.98,0.98,,,,,,,,,,,,,+,+,pooled,,supp Table S2 (values); ratings main Table 2
+F0705,F0705-002,Thai Elders Psychological Well-Being measure,Thai Elders Psychological Well-Being measure,,Ingersoll-Dayton 2004,,,NS,NS,study,0.94,0.94,0.93,0.93,0.05,0.05,,,,,,,,,+,+,pooled,,supp Table S2 (values); ratings main Table 2
+F0705,F0705-003,LSITA,LSITA,,Barrett 2006,,,NS,NS,study,0.94,0.94,,,,,,,,,,,,,+,+,pooled,,supp Table S2 (values); ratings main Table 2
+F0705,F0705-004,CAWP,CAWP,,Ku 2008,,,NS,NS,study,0.91–0.92,,,,0.05,0.05,,,,,,,,explained variance 69.2%,+,+,pooled,cfi:range,supp Table S2 (values); ratings main Table 2
+F0705,F0705-005,GSWS,GSWS,,Dunn 2008,,,NS,NS,study,0.87,0.87,,,0.08,0.08,,,,,,,,,blank (negative sign lost),-,pooled,,supp Table S2 (values); ratings main Table 2
+F0705,F0705-006,LSS-C,LSS-C,,Lou 2008,,,NS,NS,study,1.00,1.0,,,0.00,0.0,,,,,,,,explained variance 54.6%,+,+,pooled,,supp Table S2 (values); ratings main Table 2
+F0705,F0705-007,TSWBATECI,TSWBATECI,,Unsanit 2012,,,NS,NS,study,0.96,0.96,,,0.03,0.03,0.07,0.07,,,,,,explained variance 81.9%,+,+,pooled,,supp Table S2 (values); ratings main Table 2
+F0705,F0705-008,WTL,WTL,Time 1,Carmel 2017,,,NS,NS,study,0.99,0.99,,,0.02,0.02,0.01,0.01,,,,,,,+,+,pooled,,supp Table S2 (values); ratings main Table 2
+F0705,F0705-009,WTL,WTL,Time 2 (1 year later),Carmel 2017,,,NS,NS,study,0.99,0.99,,,0.04,0.04,0.01,0.01,,,,,,,+,+,pooled,,supp Table S2 (values); ratings main Table 2
+F0705,F0705-010,WTL,WTL,Time 3 (2 years later),Carmel 2017,,,NS,NS,study,0.99,0.99,,,0.06,0.06,0.01,0.01,,,,,,,+,+,pooled,,supp Table S2 (values); ratings main Table 2
+F0705,F0705-011,MLS,MLS,,Lee 2017,,,NS,NS,study,0.95,0.95,0.93,0.93,0.08,0.08,0.05,0.05,,,,,,,+,+,pooled,,supp Table S2 (values); ratings main Table 2
+F0718,F0718-001,PWMILS,PWMILS,,(42),400,,NS,NS,study,0.928,0.928,,,0.045,0.045,,,.93,.803,,,,chi2 1.447 (as printed); GFI .892; NFI .803; IFI .93; CFA described as 'unsatisfactory results',−,-,result,,supp Appendix (results table); overall SV ± with EFA satisfactory
+F0718,F0718-002,20-item MedLitRxSE,20-item MedLitRxSE,,(4),181,,NS,NS,study,0.95,0.95,0.97,0.97,0.05,0.05,0.11,0.11,,,,,,,+,+,result,,supp Appendix (results table)
+F0723,F0723-001,CBCL,,Two-factor,Bean 2006a,478,,NS,NS,study,0.98,0.98,,,,,,,,,,,,,(+),+,result,,main Table 2
+F0723,F0723-002,TRF,,Two-factor,Bean 2007a,461,,NS,NS,study,0.98,0.98,,,,,,,,,,,,,(+),+,result,,main Table 2
+F0723,F0723-003,CATS,,Four-factor (not supported),Müller 2021,145,,NS,NS,study,0.86,0.86,,,,,,,,,,,,,(–),-,result,,main Table 2
+F0723,F0723-004,IES,,Three-factor,Sack 1998,180,,NS,NS,study,0.987,0.987,,,,,,,,,,,,,(+),+,result,,main Table 2
+F0723,F0723-005,CRIES-8,,Two-factor,Salari 2017,201,,NS,NS,study,0.99,0.99,,,,,,,,,,,,,(+),+,result,,main Table 2
+F0723,F0723-006,PHQ-A,,One-factor,Al-Amer 2020,298,,NS,NS,study,0.96,0.96,,,,,,,,,,,,,(+),+,result,,main Table 2
+F0723,F0723-007,CPDS (Burundi),,Three-factor,Jordans 2009,4193,,NS,NS,study,,,,,<0.01,0.01,,,,,,,,,(+),+,result,rmsea:bound,main Table 2
+F0723,F0723-008,CPDS (Indonesia),,Three-factor,Jordans 2009,1624,,NS,NS,study,,,,,<0.00,0.0,,,,,,,,,(+),+,result,rmsea:bound,main Table 2
+F0723,F0723-009,CPDS (Sri Lanka),,Three-factor,Jordans 2009,2573,,NS,NS,study,,,,,0.19,0.19,,,,,,,,,(+),+,result,,main Table 2
+F0724,F0724-001,CSHQ (Chinese version),CSHQ,eight-factor,[40],2816,,NS,NS,study,0.91,0.91,0.90,0.9,,,0.03,0.03,,,,,,,+Moderate,+,result,,main Table 4
+F0738,F0738-001,SCLS,SCLS,,Franklin 2014,,,NS,NS,study,0.98,0.98,0.97,0.97,0.12,0.12,0.03,0.03,,.98,,,,chi2=875.711; NFI .98; AGFI .97,,,,,main results text
+F0739,F0739-001,FACIT-Sp,,,Haugan 2015,202,,NS,NS,study,0.94,0.94,0.93,0.93,0.075,0.075,,,,.90,,,,reported as NNFI; NFI .90; GFI .91; AGFI .85,,,,,main Table 4
+F0739,F0739-002,WHOQOL-OLD,,,Van Biljon 2015,176,,NS,NS,study,0.94,0.94,,,0.075,0.075,0.081,0.081,,,,,,,,,,,main Table 4
+F0739,F0739-003,Positive VOL (Portuguese),,,Araújo 2015,207,,NS,NS,study,0.828,0.828,,,0.103,0.103,,,,,,,,,,,,,main Table 4
+F0739,F0739-004,Positive VOL (Japanese model),,,Araújo 2015,207,,NS,NS,study,0.772,0.772,,,0.119,0.119,,,,,,,,,,,,,main Table 4
+F0739,F0739-005,PGCMS (Turkish),,,Pinar & Oz 2011,398,,NS,NS,study,0.98,0.98,,,0.04,0.04,,,,,,,,GFI .98; AGFI .97,,,,,main Table 4
+F0739,F0739-006,Herth Hope Index,,,Haugan 2013,202,,NS,NS,study,,,,,0.034,0.034,0.056,0.056,,,,,,CFI/NNFI/NFI printed as 0.098/0.092 (likely .98/.92),,,,,main Table 4
+F0739,F0739-007,SF-36,,,Barile (2-factor),401,,NS,NS,study,0.95,0.95,,,0.10,0.1,0.03,0.03,,,,,,,,,,,main Table 4
+F0739,F0739-008,SF-36,,,Barile (3-factor),401,,NS,NS,study,0.97,0.97,,,0.08,0.08,0.03,0.03,,,,,,,,,,,main Table 4
+F0739,F0739-009,SF-36,,,Jang 2009 Whites 2-factor,452,,NS,NS,study,0.84,0.84,,,,,0.07,0.07,,,,,,,,,,,main Table 4
+F0739,F0739-010,SF-36,,,Jang 2009 African Americans 2-factor,255,,NS,NS,study,0.89,0.89,,,,,0.07,0.07,,,,,,,,,,,main Table 4
+F0739,F0739-011,SF-36,,,Jang 2009 Whites 3-factor,452,,NS,NS,study,0.92,0.92,,,,,0.05,0.05,,,,,,,,,,,main Table 4
+F0739,F0739-012,SF-36,,,Jang 2009 African Americans 3-factor,255,,NS,NS,study,0.91,0.91,,,,,0.06,0.06,,,,,,,,,,,main Table 4
+F0739,F0739-013,Flourishing Scale (Russian),,,Didino,851,,NS,NS,study,0.85,0.85,,,0.13,0.13,0.07,0.07,,,,,,model 1,,,,,main Table 4
+F0739,F0739-014,NHAS (Chinese),,,Xiao 2019,425,,NS,NS,study,0.974,0.974,0.956,0.956,0.078,0.078,,,,,,,,,,,,,main Table 4
+F0739,F0739-015,CASP-19,,,Sexton 2013,5886,,NS,NS,study,,,,,0.096,0.096,,,,,,,,,,,,,main Table 4
+F0739,F0739-016,CASP-19,,,Sim,160,,NS,NS,study,,,,,0.11–0.13,,,,,,,,,printed 'RMSA',,,,rmsea:range,main Table 4
+F0740,F0740-001,WeeFIM,,3 factors,Park 2009 [37],,,NS,NS,study,0.94,0.94,0.92,0.92,0.12,0.12,,,,0.92,,,123,"chi2 514.45; AIC 646.49; labels printed: NFI good, TLI good, CFI good, RMSEA mediocre",+,+,result,,main Table 3
+F0744,F0744-001,FB-seq (false-belief sequencing),FB-seq,unidimensional,,,,IRT,NS,study,0.994,0.994,0.988,0.988,0.054,0.054,,,,,,,2,"chi2(2)=3.65, p=.186; reported under IRT",Supported,+,result,,main Table 3
+F0744,F0744-002,MS (mentalizing stories),MS,,,,,NS,NS,study,0.873,0.873,0.858,0.858,0.069,0.069,,,,,,,152,chi2(152)=194.997,Not supported,-,result,,main Table 3
+F0748,F0748-001,ORCA,ORCA,one-factor,Reeve et al. (2023),,,NS,NS,study,0.95,0.95,0.94,0.94,0.07,0.07,,,,,,,,RMSEA 90% CI 0.06-0.08,,,,,main Table 4 (p.2545-2546)
+F0749,F0749-001,SMBM (Hebrew),SMBM,original 2-factor 12 items,Shirom & Melamed [21],434,,NS,NS,study,0.94,0.94,,,0.08,0.08,,,,,,,,,−,-,result,,main Table 2
+F0749,F0749-002,SMBM (Hebrew),SMBM,revised 2-factor 11 items,Shirom & Melamed [21],434,,NS,NS,study,0.97,0.97,,,0.05,0.05,,,,,,,,,+,+,result,,main Table 2
+F0749,F0749-003,SMBM (French),SMBM,3-factor 14 items,Sassi & Neveu [29],417,,NS,NS,study,0.957,0.957,,,,,,,,,,,,,+,+,result,,main Table 2
+F0749,F0749-004,SMBM (Chinese),SMBM,1-factor 14 items,Qiao & Schaufeli [30],717,,NS,NS,study,0.81,0.81,,,0.15,0.15,,,,,,,,,−,-,result,,main Table 2
+F0749,F0749-005,SMBM (Chinese),SMBM,3-factor 14 items,Qiao & Schaufeli [30],717,,NS,NS,study,0.90,0.9,,,0.10,0.1,,,,,,,,,−,-,result,,main Table 2
+F0749,F0749-006,SMBM (Chinese),SMBM,3-factor revised,Qiao & Schaufeli [30],717,,NS,NS,study,0.93,0.93,,,0.09,0.09,,,,,,,,,−,-,result,,main Table 2
+F0749,F0749-007,SMBM (Swedish),SMBM,1-factor,Lundgren-Nilsson [31],319,,NS,NS,study,0.94,0.94,,,0.17,0.17,,,,,,,,,−,-,result,,main Table 2
+F0749,F0749-008,SMBM (Swedish),SMBM,4-factor 22 items,Lundgren-Nilsson [31],319,,NS,NS,study,0.97,0.97,,,0.133,0.133,,,,,,,,rated indeterminate although CFI .97 > .95,?,?,result,,main Table 2
+F0767,F0767-001,NFI (Neurobehavioral Functioning Inventory),NFI,,,,,NS,NS,summary,0.86–0.93,,,,0.08–0.12,,,,,,,,,,−,-,result,cfi:range;rmsea:range,main Table 5
+F0767,F0767-002,NPI,NPI,,,,,NS,NS,summary,0.977–0.991,,,,,,,,,,,,,infit/outfit 0.84–1.5,?,?,result,cfi:range,main Table 5
+F0770,F0770-001,Adolescent social capital instrument (Carrillo-Álvarez 2019 [29]),,7-factor,Carrillo-Álvarez 2019 [29],,,NS,NS,study,0.94,0.94,,,,,,,,,,,,,,,,,main Table 5
+F0770,F0770-002,Adolescent social capital instrument (Cordova 2019 [30]),,3-factor,Cordova 2019 [30],,,NS,NS,study,0.90,0.9,,,0.068,0.068,,,,,,,,,,,,,main Table 5
+F0770,F0770-003,Adolescent social capital instrument (Ergün 2018 [32]),,,Ergün 2018 [32],,,NS,NS,study,0.91,0.91,,,0.05,0.05,,,,,,,,,,,,,main Table 5
+F0770,F0770-004,Adolescent social capital instrument (Geraee 2019 [33]),,4-factor,Geraee 2019 [33],,,NS,NS,study,0.87,0.87,,,0.04,0.04,,,,,,,,,,,,,main Table 5
+F0770,F0770-005,Adolescent social capital instrument (Magson 2014 [38]),,6-factor,Magson 2014 [38],,,NS,NS,study,0.98,0.98,,,0.042,0.042,,,,,,,,,,,,,main Table 5
+F0770,F0770-006,Adolescent social capital instrument (Paiva 2014 [40]),,4-factor,Paiva 2014 [40],,,NS,NS,study,0.85,0.85,,,0.105,0.105,,,,,,,,,,,,,main Table 5
+F0770,F0770-007,Adolescent social capital instrument (Ryan & Junker 2019 [42]),,Model A,Ryan & Junker 2019 [42],,,NS,NS,study,0.93,0.93,,,0.06,0.06,,,,,,,,,,,,,main Table 5
+F0770,F0770-008,Adolescent social capital instrument (Ryan & Junker 2019 [42]),,Models B & C,Ryan & Junker 2019 [42],,,NS,NS,study,0.94,0.94,,,0.06,0.06,,,,,,,,,,,,,main Table 5
+F0785,F0785-001,SSQHS,SSQHS,3-factor,refs 80–89 (one version),,,NS,NS,summary,0.95,0.95,,,0.085,0.085,,,,,,,,,,,,,main text SSQHS section
+F0785,F0785-002,SSQHS,SSQHS,3-factor,refs 80–89 (other versions),,,NS,NS,summary,0.97–0.98,,,,0.08,0.08,0.03–0.04,,,,,,,reported as RMSR,,,,cfi:range;srmr:range,main text SSQHS section
+F0791,F0791-001,MSSM scale-revised,MSSM scale-revised,five factors,Saadat 2020 [13],220,,NS,NS,study,0.96,0.96,,,0.05,0.05,,,,,,,,,(+),+,result,,supp Table (mmc1) values and ratings; overall main Table 5
+F0791,F0791-002,MSSM scale-revised,MSSM scale-revised,five factors,Tomczak 2020 [14],663,,NS,NS,study,0.83,0.83,,,0.09,0.09,,,,,,,,,(-),-,result,,supp Table (mmc1) values and ratings; overall main Table 5
+F0791,F0791-003,MSSM-2 scale,MSSM-2 scale,seven factors,Bishop 2019 [15],1197,,NS,NS,study,0.91,0.91,,,0.05,0.05,,,,,,,,,(+),+,result,,supp Table (mmc1) values and ratings; overall main Table 5
+F0797,F0797-001,CDAQ-B,,,Study 1,,,NS,NS,study,0.99,0.99,,,,,,,,,,,,,+,+,result,,main Table 3
+F0797,F0797-002,CDAQ-B,,,Study 2,,,NS,NS,study,,,0.96,0.96,,,,,,,,,,printed as NNFI,+,+,result,,main Table 3
+F0797,F0797-003,CDAQ-B,,,Study 3,,,NS,NS,study,0.97,0.97,,,,,,,,,,,,,+,+,result,,main Table 3
+F0797,F0797-004,CDAQ-B,,,Study 4,,,NS,NS,study,0.938,0.938,,,,,,,,,,,,,?,?,result,,main Table 3
+F0797,F0797-005,CARPA,CARPA,,,,,NS,NS,study,1,1.0,,,,,,,,,,,,,+,+,result,,main Table 3
+F0797,F0797-006,ECVPA,ECVPA,,,,,NS,NS,study,0.99,0.99,,,,,,,,,,,,,+,+,result,,main Table 3
+F0797,F0797-007,CDAQ-C,CDAQ-C,,,,,NS,NS,study,0.99,0.99,,,,,,,,,,,,,+,+,result,,main Table 3
+F0797,F0797-008,CPAS,CPAS,,,,,NS,NS,study,0.97,0.97,,,,,,,,,,,,,+,+,result,,main Table 3
+F0797,F0797-009,TCDVI,TCDVI,,,,,NS,NS,study,0.97,0.97,,,,,,,,,,,,,+,+,result,,main Table 3
+F0797,F0797-010,E-VPA,,,Study 2,,,NS,NS,study,0.91,0.91,,,,,,,,,,,,,?,?,result,,main Table 3
+F0797,F0797-011,CQ_AS,CQ_AS,,,,,NS,NS,study,0.97,0.97,,,,,,,,,,,,,+,+,result,,main Table 3
+F0797,F0797-012,EDA,EDA,,,,,NS,NS,study,,,,,0.017,0.017,,,,,,,,,+,+,result,,main Table 3
+F0797,F0797-013,PDCAS,PDCAS,,,,,NS,NS,study,0.94,0.94,,,,,,,,,,,,,?,?,result,,main Table 3
+F0824,F0824-001,AS,AS,,Becker 1997,1080,,NS,NS,study,,,0.87,0.87,,,,,,,,,,,−,-,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-002,ASQ-SF,ASQ-SF,,Chui & Leung 2016,385,,NS,NS,study,0.95,0.95,,,,,,,,,,,,CFI = .95 (not > .95),+,+,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-003,ANQ mother,ANQ,,Kamperman 2020,340,,NS,NS,study,0.921,0.921,,,0.068,0.068,,,,,,,,,−,-,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-004,ANQ father,ANQ,,Kamperman 2020,340,,NS,NS,study,,,,,0.059,0.059,,,,,,,,,+,+,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-005,ANQ romantic partner,ANQ,,Kamperman 2020,340,,NS,NS,study,0.828,0.828,,,0.07,0.07,,,,,,,,,−,-,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-006,BAAC,BAAC,,Bowles 2010,131,,NS,NS,study,0.953,0.953,,,,,,,,,,,,,+,+,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-007,CAMIR,CAMIR,,Molina 2018 sample 1,419,,NS,NS,study,0.96,0.96,,,0.036,0.036,,,,,,,,,+,+,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-008,CAMIR,CAMIR,,Molina 2018 sample 2,408,,NS,NS,study,0.96,0.96,,,0.043,0.043,,,,,,,,,+,+,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-009,CAMIR-R,CAMIR-R,,Rodríguez & Fernández 2019,473,,NS,NS,study,0.98,0.98,,,0.037,0.037,,,,,,,,,+,+,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-010,CATS (Greek),CATS,,Yotsidi 2018,153,,NS,NS,study,0.74,0.74,,,,,,,,,,,,,−,-,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-011,PAS maternal,PAS,,Fouladi 2006 study 2,337,,NS,NS,study,0.91,0.91,,,,,,,,,,,,,−,-,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-012,PAS paternal,PAS,,Fouladi 2006 study 2,337,,NS,NS,study,0.89,0.89,,,,,,,,,,,,,−,-,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-013,PAS maternal,PAS,,Fouladi 2006 study 3,179,,NS,NS,study,0.86,0.86,,,,,,,,,,,,,−,-,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-014,PAS paternal,PAS,,Fouladi 2006 study 3,179,,NS,NS,study,0.868,0.868,,,,,,,,,,,,,−,-,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-015,PTI-ASS,PTI-ASS,,Giannini 2011,266,,NS,NS,study,0.97,0.97,,,,,,,,,,,,,+,+,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-016,RSQ (Danish),RSQ,,Andersen 2017,577,,NS,NS,study,0.61,0.61,,,,,,,,,,,,,−,-,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-017,RSQ (Danish),RSQ,,Andersen 2017,566,,NS,NS,study,0.47,0.47,,,,,,,,,,,,,−,-,result,cfi:implausible,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-018,RSQ,RSQ,,Kurdek 2002 (3-factor),328,,NS,NS,study,0.83,0.83,,,,,,,,,,,,,−,-,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-019,RSQ,RSQ,,Kurdek 2002 (4-factor),328,,NS,NS,study,0.70,0.7,,,,,,,,,,,,,−,-,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-020,RSQ,RSQ,,Roisman 2007,260,,NS,NS,study,0.82,0.82,,,,,,,,,,,,,−,-,result,,supp Appendix C (main PDF pp. 24–27)
+F0824,F0824-021,RSQ,RSQ,,Zortea 2019,359,,NS,NS,study,0.90,0.9,,,,,,,,,,,,,−,-,result,,supp Appendix C (main PDF pp. 24–27)
+F0832,F0832-001,CCVUQ (Chinese),CCVUQ (Chinese),4 factors,[30],,,NS,NS,study,0.96,0.96,,,,,,,,,,,,,+,+,result,,main Table + text 4.4.8
+F0849,F0849-001,MMSE (Swahili),MMSE,,Vissoci 2019 [21],192,,NS,NS,study,0.85,0.85,0.81,0.81,0.06,0.06,,,,,,,,RMSEA 95% CI .04-.08,(+),+,result,,supp Table S1
+F0849,F0849-002,MoCA (Swahili),MoCA,,Vissoci 2019 [21],192,,NS,NS,study,0.98,0.98,0.98,0.98,0.04,0.04,,,,,,,,RMSEA 95% CI .00-.07,(+),+,result,,supp Table S1
+F0852,F0852-001,"Hospital work-environment instrument (Flint, Farrugia [43])",,,"Flint, Farrugia [43]",938,,NS,NS,study,0.919–0.99,,,,0.06–0.08,,,,,,,,,CFA per factor; ranges,−,-,result,cfi:range;rmsea:range,main Table 4
+F0852,F0852-002,"Hospital work-environment instrument (Friedberg, Rodriguez [57])",,,"Friedberg, Rodriguez [57]",601,,NS,NS,study,0.97,0.97,,,0.04,0.04,,,,,,,,,+,+,result,,main Table 4
+F0852,F0852-003,"Hospital work-environment instrument (Gagnon, Paquet [58])",,,"Gagnon, Paquet [58]",3142,,NS,NS,study,0.98,0.98,,,0.05,0.05,,,,,,,,,+,+,result,,main Table 4
+F0852,F0852-004,"Hospital work-environment instrument (Kalisch, Lee [46])",,,"Kalisch, Lee [46]",1758,,NS,NS,study,0.88,0.88,,,0.05,0.05,,,,,,,,,−,-,result,,main Table 4
+F0852,F0852-005,"Hospital work-environment instrument (Kennerly, Yap [47])",,,"Kennerly, Yap [47]",340,,NS,NS,study,0.94,0.94,,,0.06,0.06,,,,,,,,,−,-,result,,main Table 4
+F0852,F0852-006,"Hospital work-environment instrument (Pena-Suarez, Muniz [64])",,,"Pena-Suarez, Muniz [64]",3163,,NS,NS,study,0.85,0.85,,,0.06,0.06,,,,,,,,,−,-,result,,main Table 4
+F0852,F0852-007,"Hospital work-environment instrument (Reid, Courtney [52])",,,"Reid, Courtney [52]",639,,NS,NS,study,0.91,0.91,,,0.06,0.06,,,,,,,,,−,-,result,,main Table 4
+F0852,F0852-008,"Hospital work-environment instrument (Schroder, Medves [67])",,,"Schroder, Medves [67]",111,,NS,NS,study,0.94–0.99,,,,0.04–0.13,,,,,,,,,CFA per factor; ranges,−,-,result,cfi:range;rmsea:range,main Table 4
+F0852,F0852-009,"Hospital work-environment instrument (Upenieks, Lee [69])",,,"Upenieks, Lee [69]",464,,NS,NS,study,0.98,0.98,,,0.06,0.06,,,,,,,,,+,+,result,,main Table 4
+F0894,F0894-001,Fidelity measure (Berkel 2018),Berkel 2018 measure,,Berkel 2018,,,NS,NS,study,0.90,0.9,,,0.07,0.07,0.06,0.06,,,,,247,chi2(247)=753.36; RMSEA 90% CI .06–.07,−,-,result,,main Table 7 values + Table 6 ratings
+F0894,F0894-002,Fidelity measure (Giannotta 2019),Giannotta 2019 measure,,Giannotta 2019,,,NS,NS,study,1.0,1.0,,,0.00,0.0,0.01,0.01,,,,,4,chi2(4)=3.62,+,+,result,,main Table 7 values + Table 6 ratings
+F0898,F0898-001,TCAQ-23,TCAQ,,Gay 2008 Study 2,254,23,NS,NS,study,,,,,0.085,0.085,0.062,0.062,,,,,,RMSEA 90% CI .078-.093,,,,,main results
+F0898,F0898-002,TCAQ-25,TCAQ,,Williams 2010,720,25,NS,NS,study,,,,,0.077,0.077,0.071,0.071,,,,,,,,,,,main results
+F0898,F0898-003,TCAQ-20,TCAQ,,Williams 2010,720,20,NS,NS,study,,,,,0.079,0.079,0.061,0.061,,,,,,,,,,,main results
+F0911,F0911-001,MIQ-R,MIQ-RS,,Monsma 2009,325,,NS,NS,study,0.99,0.99,0.98,0.98,0.06,0.06,0.03,0.03,,,,,,reported as NNFI; AGFI .95,+,+,result,,main Table 4
+F0911,F0911-002,MIQ-R,MIQ-RS,,Williams 2012 (1),400,,NS,NS,study,0.99,0.99,0.99,0.99,0.05,0.05,0.03,0.03,,,,,,,+,+,result,,main Table 4
+F0911,F0911-003,MIQ-RS,MIQ-RS,,Gregg 2010,321,,NS,NS,study,0.99,0.99,,,0.09,0.09,,,,,,.98,,RFI .98; comment 'RMSEA not acceptable. SRMR not reported.',−,-,result,,main Table 4
+F0911,F0911-004,MIQ-RS (French),MIQ-RS,,Loison 2013,153,,NS,NS,study,0.93,0.93,,,0.09,0.09,0.06,0.06,,,,,,,−,-,result,,main Table 4
+F0911,F0911-005,MIQ-3,MIQ-3,,Williams 2012 (2),370,,NS,NS,study,0.98,0.98,0.97,0.97,0.05,0.05,0.04,0.04,,,,,,,+,+,result,,main Table 4
+F0911,F0911-006,MIQ-3 (Polish),MIQ-3,,Budnik-Przybylska 2016,276,,NS,NS,study,0.93,0.93,,,0.04,0.04,,,,,,,,GFI .89; AGFI .83; RMR .25,+,+,result,,main Table 4
+F0911,F0911-007,MIQ-3 (Slovenian),MIQ-3,,Paravlic 2018,86,,NS,NS,study,0.94,0.94,0.93,0.93,0.07,0.07,0.11,0.11,,,,,,RMR/SRMR .11,−,-,result,,main Table 4
+F0911,F0911-008,MIQ-3 (Turkish),MIQ-3,,Dilek 2020,181,,NS,NS,study,0.97,0.97,,,0.08,0.08,0.05,0.05,,,,,,GFI .91; AGFI .86; RMR .04,+,+,result,,main Table 4
+F0911,F0911-009,MIQ-3 (French),MIQ-3,,Robin 2020,172,,NS,NS,study,0.91,0.91,,,0.09,0.09,,,,,,,,RMSR .07/.08,−,-,result,,main Table 4
+F0911,F0911-010,MIQ-3 (Spanish),MIQ-3,,Trapero-Asenjo 2021,140,,NS,NS,study,0.90,0.9,,,0.07,0.07,,,,.90,,.91,,NFI .90; RFI .91,−,-,result,,main Table 4
+F0911,F0911-011,MIQ-C,,,Martini 2016,204,,NS,NS,study,0.93,0.93,0.89,0.89,0.07,0.07,0.05,0.05,,,,,,,+,+,result,,main Table 4
+F0911,F0911-012,VMIQ-2,VMIQ-2,,Roberts 2008 (1),351,,NS,NS,study,0.98,0.98,0.97,0.97,0.04,0.04,0.04,0.04,,,,,,reported as NNFI,+,+,result,,main Table 4
+F0911,F0911-013,VMIQ-2,VMIQ-2,,Roberts 2008 (2),355,,NS,NS,study,0.98,0.98,0.97,0.97,0.06,0.06,0.06,0.06,,,,,,reported as NNFI,+,+,result,,main Table 4
+F0911,F0911-014,VMIQ-2 (German),VMIQ-2,,Dahm 2019,254,,NS,NS,study,0.92,0.92,,,0.05,0.05,0.06,0.06,,,,,,comment: 'Not all criteria met for positive rating',+,+,result,,main Table 4
+F0911,F0911-015,AIS (Spanish),,,Campos 2017,444,,NS,NS,study,0.91,0.91,0.80,0.8,0.05,0.05,0.04,0.04,,,,,,reported as NNFI; GFI .98,+,+,result,,main Table 6
+F0911,F0911-016,AIQ,,,Hishitani 2009 (1) 2-factor,193,,NS,NS,study,0.93,0.93,,,0.07,0.07,,,,,,,,GFI .92,+ (study),+,result,,main Table 6
+F0911,F0911-017,AIQ,,,Hishitani 2009 (1) hierarchical,193,,NS,NS,study,0.96,0.96,,,0.06,0.06,,,,,,,,GFI .94,+ (study),+,result,,main Table 6
+F0911,F0911-018,AIQ (Spanish),,,Campos 2017,444,,NS,NS,study,0.84,0.84,0.86,0.86,0.08,0.08,0.07,0.07,,,,,,reported as NNFI; GFI .92,+,+,result,,main Table 6
+F0911,F0911-019,Psi-Q,,,Andrade 2014 (2),209,,NS,NS,study,0.93,0.93,,,0.05,0.05,,,,,,,,,+,+,result,,main Table 6
+F0911,F0911-020,Psi-Q (Spanish),,,Pérez-Fabello & Campos 2020 [116],394,,NS,NS,study,0.92,0.92,0.91,0.91,0.04,0.04,0.05,0.05,,,,,,reported as NNFI; GFI .89,+,+,result,,main Table 6
+F0911,F0911-021,SIAQ precursor (Watt 2003),SIAQ,,Watt 2003 (2),633,,NS,NS,study,0.92,0.92,0.89,0.89,0.13,0.13,,,,.91,,,,NFI .91,−,-,result,,main Table 6
+F0911,F0911-022,SIAQ,SIAQ,,Williams & Cumming 2011 (2),363,,NS,NS,study,0.96,0.96,0.95,0.95,0.05,0.05,0.05,0.05,,,,,,,+,+,result,,main Table 6
+F0911,F0911-023,SIAQ,SIAQ,,Williams & Cumming 2011 (3),426,,NS,NS,study,0.96,0.96,0.95,0.95,0.06,0.06,0.04,0.04,,,,,,,+,+,result,,main Table 6
+F0911,F0911-024,SIAQ,SIAQ,,Williams & Cumming 2011 (4),220,,NS,NS,study,0.98,0.98,0.97,0.97,0.04,0.04,0.04,0.04,,,,,,,+,+,result,,main Table 6
+F0911,F0911-025,VOSI,,,Blazhenkova 2016,205,,NS,NS,study,0.77,0.77,,,0.08,0.08,,,,,,,,GFI .77,−,-,result,,main Table 6
+F0911,F0911-026,OSIVQ,,,Blazhenkova & Kozhevnikov 2009 (2),128,,NS,NS,study,0.97,0.97,,,0.03,0.03,,,,,,,,inadequate sample; rated ?,?,?,result,,main Table 6
+F0911,F0911-027,CAPIQ,CAPIQ,,Cooke 2014 (3),252,,NS,NS,study,0.95,0.95,0.93,0.93,0.07,0.07,,,,.92,,,,NFI .92; 'almost all fits just below cut-off',−,-,result,,main Table 6
+F0911,F0911-028,CAPIQ (Persian),CAPIQ,,Kashani 2017,190,,NS,NS,study,0.94,0.94,0.93,0.93,0.08,0.08,,,,,,,,,−,-,result,,main Table 6
+F0911,F0911-029,EIQ,EIQ,,Hausenblas 1999 (3) athletes a,144,,NS,NS,study,,,0.95,0.95,,,0.05,0.05,,.92,,,,reported as NNFI; NFI .92; GFI .94; AGFI .89,+,+,result,,main Table 6
+F0911,F0911-030,EIQ,EIQ,,Hausenblas 1999 (3) athletes b,267,,NS,NS,study,,,0.96,0.96,,,0.05,0.05,,.95,,,,reported as NNFI; NFI .95; GFI .96,+,+,result,,main Table 6
+F0911,F0911-031,EIQ (Spanish),EIQ,,Pérez-Fabello & Campos 2020 [150],166,,NS,NS,study,0.97,0.97,0.94,0.94,0.07,0.07,0.04,0.04,,,,,,reported as NNFI; GFI .97,+,+,result,,main Table 6
+F0911,F0911-032,SIQ (Turkish),SIQ,,Vurgun 2012,142,,NS,NS,study,0.88,0.88,0.87,0.87,0.06,0.06,0.07,0.07,,,,,,reported as NNFI; GFI .77,+,+,result,,main Table 6
+F0911,F0911-033,SIQ (Spanish),SIQ,,Ruiz & Watt 2014,361,,NS,NS,study,0.91,0.91,0.90,0.9,0.05,0.05,0.05,0.05,,,,,,,+,+,result,,main Table 6
+F0911,F0911-034,SIQ-C,SIQ,,Hall 2009 (1),428,,NS,NS,study,0.89,0.89,,,0.07,0.07,,,,,,,,GFI .89,−,-,result,,main Table 6
+F0911,F0911-035,SIQ-C,SIQ,,Hall 2009 (2),628,,NS,NS,study,0.89,0.89,,,0.06,0.06,,,,,,,,"GFI .91; comment states criterion 'CFI, TLI>0.90, or RMSEA<0.10'",−,-,result,,main Table 6
+F0911,F0911-036,SUIS,SUIS,,Nelis 2014 group b,491,,NS,NS,study,0.93,0.93,0.92,0.92,0.06,0.06,,,,,,,,,+,+,result,,main Table 6
+F0911,F0911-037,SUIS,SUIS,,Nelis 2014 group c,491,,NS,NS,study,0.91,0.91,0.89,0.89,0.07,0.07,,,,,,,,,+,+,result,,main Table 6
+F0911,F0911-038,SUIS (German),SUIS,,Görgen 2016 (1),216,,NS,NS,study,0.92,0.92,0.90,0.9,0.05,0.05,,,,,,,,,−,-,result,,main Table 6
+F0911,F0911-039,SUIS 17-item (German),SUIS,,Görgen 2016 (2),447,,NS,NS,study,0.92,0.92,0.91,0.91,0.07,0.07,,,,,,,,,−,-,result,,main Table 6
+F0911,F0911-040,SUIS (Japanese),SUIS,,Tanaka 2018 (1),126,,NS,NS,study,0.66,0.66,,,0.09,0.09,,,,,,,,,−,-,result,,main Table 6
+F0940,F0940-001,VABS (Chinese),VABS (Chinese),,Deng et al. (2025),2118,,NS,NS,study,0.90-0.99,,,,,,,,,,,,,,+,+,result,cfi:range,main Table 2; supp s004
+F0943,F0943-001,BCIS,BCIS,2-factor,Pedrelli 2004,,,NS,NS,study,0.96,0.96,,,0.025,0.025,,,,,,,,,,,,,main Table 2 + text
+F0943,F0943-002,"SUMD (abbreviated, 9-item)",SUMD,3-factor,Michel 2013,531,,NS,NS,study,1.00,1.0,,,0.03,0.03,,,,,,,,GFI .99,,,,,main Table 2 + text
+F0943,F0943-003,BIS,BIS,3-factor,Büchmann 2019,,,NS,NS,study,0.953,0.953,,,0.070,0.07,,,,,,,,text reports CFI = 0.92 for the same model; Table 2 CFI = 0.953,,,,,main Table 2 + text
+F0948,F0948-001,Q-LES-Q-SF,,,Bourion-Bedes 2015 [71]/[72],,,NS,NS,study,0.968,0.968,0.962,0.962,0.077,0.077,,,,,,,,same values printed for two reports of the same sample,,,,,main Table 2
+F0948,F0948-002,WHOQOL-BREF,,,Fu 2013,,,NS,NS,study,0.92,0.92,0.91,0.91,0.060,0.06,,,,,,,,reported as NNFI; cross-loadings allowed,,,,,main Table 2
+F0948,F0948-003,SF-36,,,Hsiao 2015,,,IRT-labelled,NS,study,0.943,0.943,0.935,0.935,0.077,0.077,,,,,,,,after removing 3 misfit items,,,,,main Table 2
+F0948,F0948-004,ALQoL-9,,1-factor,Pappa 2016,,,NS,NS,study,0.930,0.93,0.899,0.899,0.096,0.096,0.052,0.052,,.893,,,,NFI .893,,,,,main Table 2
+F0948,F0948-005,ALQoL-9,,2-factor,Pappa 2016,,,NS,NS,study,0.963,0.963,0.941,0.941,0.074,0.074,0.045,0.045,,.926,,,,NFI .926,,,,,main Table 2
+F0968,F0968-001,AS-HC,AS,1 factor,[58],122,,NS,NS,study,1.00,1.0,,,0.00,0.0,,,,,,,,,[1+],+,result,,main Table 3 (results with [n+] rating)
+F0968,F0968-002,AS-S,AS,1 factor,[58],122,,NS,NS,study,1.00,1.0,,,0.00,0.0,,,,,,,,,[1+],+,result,,main Table 3 (results with [n+] rating)
+F0983,F0983-001,Cognitive Functional Composite,CFC,,Jutten 2019,,,NS,NS,study,0.931,0.931,,,0.091,0.091,0.06,0.06,,,,,,RMSEA 90% CI .058–.124; review notes RMSEA did not reach 'predefined cutoff (<0.08)',+,+,result,,main Table 2
+F0983,F0983-002,ECog (Korean),ECog Korean,,Song 2019,,,NS,NS,study,0.99,0.99,0.99,0.99,0.04,0.04,,,,,,,,,+,+,result,,main Table 2
+F0989,F0989-001,EBPAS-36,EBPAS-36,,"[47,100] study meeting criteria",,,NS,NS,study,,,,,0.052,0.052,,,,,,,,,± (pooled),+/-,pooled,,main Table 2
+F0989,F0989-002,EBPAS-36,EBPAS-36,,"[47,100] study not meeting",,,NS,NS,study,,,,,0.64,0.64,,,,,,,,printed 0.64,± (pooled),+/-,pooled,rmsea:implausible,main Table 2
+F0989,F0989-003,EBPP-S,,,[63],,,NS,NS,study,0.96,0.96,,,0.06,0.06,,,,,,,,,+,+,result,,main Table 2
+F0989,F0989-004,MPAS (US),MPAS,,[72],,,NS,NS,study,0.998,0.998,,,0.030,0.03,,,,,,,,,+,+,result,,main Table 2
+F0989,F0989-005,EBPPAS,,,"[73,74]",,,NS,NS,study,0.90,0.9,,,,,,,,,,,,,± (pooled; this study 'did not meet the criteria for CFA'),+/-,pooled,,main Table 2
+F0989,F0989-006,EBPPAS-s,,,[75],,,NS,NS,study,0.90,0.9,,,0.06,0.06,,,,,,,,,−,-,result,,main Table 2
+F0989,F0989-007,SE-EBP,,,"[76,77]",,,NS,NS,study,0.91,0.91,,,,,,,,,,,,,± (pooled; this study did not meet CFA criteria),+/-,pooled,,main Table 2
+F0989,F0989-008,HEAT,,,[80],,,NS,NS,study,,,,,,,0.063,0.063,,,,,,,+,+,result,,main Table 2
+F0989,F0989-009,EBP-KABQ,,,[81],,,NS,NS,study,0.89,0.89,,,,,,,,,,,,,−,-,result,,main Table 2
+F0989,F0989-010,Quick EBP-VIK,,,"[83,84]",,,NS,NS,summary,0.957,0.957,,,,,,,,,,,,,+,+,result,,main Table 2
+F0989,F0989-011,HS-EBP,HS-EBP,,[86],,,NS,NS,study,0.99,0.99,,,0.047,0.047,0.067,0.067,,,,,,,+,+,result,,main Table 2
+F0989,F0989-012,EBPRS,,,[88],,,NS,NS,study,0.96,0.96,0.96,0.96,,,0.058,0.058,,,,,,,+,+,result,,main Table 2
+F0989,F0989-013,EBP2,,,[89–92],,,NS,NS,study,0.69,0.69,,,,,,,,,,,,,± (pooled; this study did not meet CFA criteria),+/-,pooled,,main Table 2
+F0989,F0989-014,ISP-D,,,[94],,,NS,NS,study,,,,,,,0.075,0.075,,,,,,,+,+,result,,main Table 2
+F0989,F0989-015,EBP-COQ Prof,,,"[105,106] study 1",,,NS,NS,study,0.93,0.93,,,,,,,,,,,,,−,-,result,,main Table 2
+F0989,F0989-016,EBP-COQ Prof,,,"[105,106] study 2",,,NS,NS,study,0.82,0.82,,,,,,,,,,,,,−,-,result,,main Table 2
+F0989,F0989-017,EBP-CBFRI,,,[110],,,NS,NS,study,,,,,0.05,0.05,,,,,,,,,+,+,result,,main Table 2
+F0997,F0997-001,MDF-Fibro-17,MDF-Fibro-17,,Morris et al. (2017),145,17,NS,NS,study,0.96,0.96,,,0.08,0.08,,,,,,,,,,,,,supp s003 (study table)
+F1000,F1000-001,MOS-SSS English 18-item,MOS-SSS English 18-item,,Gjesfjeld 2008,,18,NS,NS,study,0.96,0.96,,,,,,,,,,,,original authors concluded model did not fit (not all their criteria met); review re-rated as fit under COSMIN,+,+,result,,main 3.3.2 + Table 3
+F1006,F1006-001,Flow in HCI,Flow in HCI,4-factor,Webster 1993,133,,NS,NS,study,,,,,0.09,0.09,,,,,,,108,per-index ratings RMSEA(+); chi2/df 108.97/2.3,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-002,FSS,FSS,1 first-order,Jackson & Marsh 1996,394,,NS,NS,study,0.573,0.573,0.547,0.547,0.112,0.112,,,,,,,,per-index ratings CFI- TLI- RMSEA-,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-003,FSS,FSS,9 first-order,Jackson & Marsh 1996,394,,NS,NS,study,0.915,0.915,0.904,0.904,0.051,0.051,,,,,,,,per-index ratings CFI- TLI- RMSEA+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-004,FSS,FSS,higher-order + 9,Jackson & Marsh 1996,394,,NS,NS,study,0.900,0.9,0.892,0.892,0.055,0.055,,,,,,,,per-index ratings CFI- TLI- RMSEA+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-005,FSS,FSS,1 first-order,Marsh & Jackson 1999,385,,NS,NS,study,0.447,0.447,0.413,0.413,0.141,0.141,,,,,,,,per-index ratings CFI- TLI- RMSEA-,,,,cfi:implausible;tli:implausible,supp Additional file 2 (construct validity table)
+F1006,F1006-006,FSS,FSS,9 first-order,Marsh & Jackson 1999,385,,NS,NS,study,0.922,0.922,0.911,0.911,0.050,0.05,,,,,,,,per-index ratings CFI- TLI- RMSEA+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-007,FSS,FSS,higher-order + 9,Marsh & Jackson 1999,385,,NS,NS,study,0.908,0.908,0.901,0.901,0.054,0.054,,,,,,,,per-index ratings CFI- TLI- RMSEA+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-008,FSS,FSS,1 first-order,Vlachopoulos 2000,1231,,NS,NS,study,0.636,0.636,0.614,0.614,0.103,0.103,0.083,0.083,,,,,,per-index ratings CFI- TLI- RMSEA- SRMR-,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-009,FSS,FSS,9 first-order,Vlachopoulos 2000,1231,,NS,NS,study,0.903,0.903,0.890,0.89,0.055,0.055,0.051,0.051,,,,,,per-index ratings CFI- TLI- RMSEA+ SRMR+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-010,FSS,FSS,higher-order + 9,Vlachopoulos 2000,1231,,NS,NS,study,0.885,0.885,0.876,0.876,0.058,0.058,0.061,0.061,,,,,,per-index ratings CFI- TLI- RMSEA+ SRMR+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-011,FSS Greek,FSS Greek [55],9-factor,Doganis 2000,134,,NS,NS,study,0.868,0.868,,,0.063,0.063,,,,,,,,per-index ratings CFI- RMSEA-; meth qual Inadequate,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-012,FSS Greek,FSS Greek [56],9 first-order,Stavrou & Zervas 2004,385,,NS,NS,study,0.901,0.901,0.888,0.888,0.059,0.059,0.063,0.063,,,,,,per-index ratings CFI- TLI- RMSEA+ SRMR+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-013,FSS Greek,FSS Greek [56],higher-order + 9,Stavrou & Zervas 2004,385,,NS,NS,study,0.887,0.887,0.876,0.876,0.071,0.071,0.070,0.07,,,,,,per-index ratings CFI- TLI- RMSEA- SRMR+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-014,FSS Spanish,FSS Spanish,hierarchical,García Calvo 2008,2036,,NS,NS,study,0.91,0.91,0.90,0.9,0.054,0.054,0.051,0.051,,,,,,per-index ratings CFI- TLI- RMSEA+ SRMR+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-015,FSS Spanish,FSS Spanish,9 first-order,García Calvo 2008,2036,,NS,NS,study,0.92,0.92,0.91,0.91,0.052,0.052,0.048,0.048,,,,,,per-index ratings CFI- TLI- RMSEA+ SRMR+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-016,SFS,SFS,9 items,Martin & Jackson 2008 (work),637,,NS,NS,study,0.94,0.94,0.92,0.92,0.08,0.08,0.05,0.05,,,,,,per-index ratings CFI- TLI- RMSEA- SRMR+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-017,SFS,SFS,9 items,Martin & Jackson 2008 (sport),239,,NS,NS,study,0.93,0.93,0.91,0.91,0.12,0.12,0.06,0.06,,,,,,per-index ratings CFI- TLI- RMSEA- SRMR+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-018,SFS,SFS,9 items,Martin & Jackson 2008 (music),224,,NS,NS,study,0.99,0.99,0.98,0.98,0.06,0.06,0.04,0.04,,,,,,per-index ratings CFI+ TLI+ RMSEA- SRMR+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-019,CFS,CFS,9 items,Martin & Jackson 2008 (general school),2229,,NS,NS,study,0.98,0.98,0.98,0.98,0.08,0.08,0.04,0.04,,,,,,per-index ratings CFI+ TLI+ RMSEA- SRMR+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-020,CFS,CFS,9 items,Martin & Jackson 2008 (mathematics),378,,NS,NS,study,0.98,0.98,0.97,0.97,0.10,0.1,0.04,0.04,,,,,,per-index ratings CFI+ TLI+ RMSEA- SRMR+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-021,CFS,CFS,9 items,Martin & Jackson 2008 (extracurricular),220,,NS,NS,study,0.98,0.98,0.97,0.97,0.08,0.08,0.03,0.03,,,,,,per-index ratings CFI+ TLI+ RMSEA- SRMR+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-022,CFS,CFS,9 items,Martin & Jackson 2008 (sport),,,NS,NS,study,0.97,0.97,0.96,0.96,0.11,0.11,0.05,0.05,,,,,,per-index ratings CFI+ TLI+ RMSEA- SRMR+,,,,,supp Additional file 2 (construct validity table)
+F1006,F1006-023,FSSOT,FSSOT,3-factor,Yoshida 2013,240,,NS,NS,study,0.937,0.937,0.922,0.922,0.084,0.084,,,,.904,,,,per-index ratings CFI- TLI- RMSEA-; GFI .89; NFI .904,,,,,supp Additional file 2 (construct validity table)
+F1023,F1023-001,SAQ,SAQ,four-dimensional (original),Encarnação et al. (2018),251,19,NS,NS,study,0.656,0.656,,,0.095,0.095,,,,,,,3,chi2/df 3.266; GFI 0.824; PCFI 0.560; PGFI 0.634,,,,,main Table (p.40)
+F1023,F1023-002,SAQ,SAQ,"four-dimensional (modified, 12 items, correlated errors)",Encarnação et al. (2018),251,12,NS,NS,study,0.912,0.912,,,0.068,0.068,,,,,,,2,chi2/df 2.163; GFI 0.942; PCFI 0.649; PGFI 0.568; RMSEA 90% CI 0.050-0.086,,,,,main Table (p.40-41)
+F1086,F1086-001,SCNS-SF (French),SCNS-SF,5-factor with 12 residual correlations,[46],,,NS,NS,study,0.98,0.98,0.98,0.98,0.05,0.05,,,,,,,,TLI reported as TLI-NNFI,+,+,result,,supp S-table construct validity (values) + main Table 3 ratings
+F1086,F1086-002,NEQ (Italian),NEQ,5-factor,[44],,,NS,NS,study,0.98,0.98,0.97,0.97,0.03,0.03,,,,,,,,reported as NNFI,+,+,result,,supp S-table construct validity (values) + main Table 3 ratings
+F1086,F1086-003,NEQ (Italian),NEQ,5-factor,[45],,,NS,NS,study,0.96,0.96,0.98,0.98,0.05,0.05,,,,,,,,,+,+,result,,supp S-table construct validity (values) + main Table 3 ratings
+F1097,F1097-001,A-IADL-Q-SV (German),A-IADL-Q-SV,,Bruderer-Hofstetter [58],,,NS,NS,study,0.95,0.95,,,0.11,0.11,,,,,,,,,+,+,result,,main Table 5 + Table 4
+F1097,F1097-002,Lawton IADL Scale (Sinhala),Lawton IADL [70],,Siriwardhana [70],,,NS,NS,study,0.98,0.98,,,,,0.06,0.06,,,,,,,+,+,result,,main Table 5 + Table 4
+F1102,F1102-001,BAQ,BAQ,,,,,NS,NS,pooled,0.68–0.95,,,,0.04–0.09,,,,,,,,,,−,-,result,cfi:range;rmsea:range,main Table 3
+F1102,F1102-002,BPQ-SF,BPQ-SF,,,,,NS,NS,pooled,0.90–0.98,,,,0.02–0.11,,,,,,,,,,±,+/-,result,cfi:range;rmsea:range,main Table 3
+F1102,F1102-003,MAIA,MAIA,,,,,NS,NS,pooled,0.82–0.98,,,,0.02–0.07,,0.04–0.09,,,,,,,,±,+/-,result,cfi:range;rmsea:range;srmr:range,main Table 3
+F1102,F1102-004,MAIA-2,MAIA-2,,,,,NS,NS,pooled,0.86–0.95,,,,0.05–0.11,,0.05–0.10,,,,,,,,±,+/-,result,cfi:range;rmsea:range;srmr:range,main Table 3
+F1102,F1102-005,PBE-QAG,PBE-QAG,,,,,NS,NS,pooled,0.989,0.989,,,0.076,0.076,,,,,,,,,−,-,result,,main Table 3
+F1102,F1102-006,SBC,SBC,,,,,NS,NS,pooled,0.74–0.99,,,,0.02–0.10,,0.07–0.08,,,,,,,,±,+/-,result,cfi:range;rmsea:range;srmr:range,main Table 3
+F1121,F1121-001,PPASC (Arabic),PPASC (Arabic),,Abd-Elfattah et al. [30],250,,NS,NS,study,0.981-0.986,,,,,,,,,,,,,,+,+,result,cfi:range,main Table 3; text p.~11
+F1124,F1124-001,DQOL,DQOL,1 factor,Adler 2010,486,,NS,NS,study,,,,,0.01,0.01,,,,,,,,Rasch infit and outfit mean square 0.6 to 1.4,[+],+,result,,supp Appendix F.1 (per-study results); overall main Table 5
+F1124,F1124-002,ISE,ISE,4 factor,Mor 1995,1848,,NS,NS,study,0.98,0.98,,,,,,,,,,,,,[+],+,result,,supp Appendix F.1 (per-study results); overall main Table 5
+F1124,F1124-003,LSNS-R,LSNS-R,2 factor,Kuru Alici 2020,120,,NS,NS,study,0.969,0.969,,,0.108,0.108,,,,,,,,,[+],+,result,,supp Appendix F.1 (per-study results); overall main Table 5
+F1124,F1124-004,Nursing Home Care-Related Quality of Life Scale,Nursing Home Care-Related Quality of Life Scale,1 factor,Cho 2019,667,,NS,NS,study,0.98,0.98,,,,,,,,,,,,,[+],+,result,,supp Appendix F.1 (per-study results); overall main Table 5
+F1124,F1124-005,RISE,RISE,,Yoon 2017,314,,NS,NS,study,0.996,0.996,0.993,0.993,0.112,0.112,,,,,,,,printed 'CFI/TLI = 0.996/0.993'; 'moderate model fit',[+],+,result,,supp Appendix F.1 (per-study results); overall main Table 5
+F1124,F1124-006,RISE,RISE,,Tsuchiya-Ito 2022,689,,NS,NS,study,0.997,0.997,,,0.045,0.045,,,,,,,,GFI .997; AGFI .976,[+],+,result,,supp Appendix F.1 (per-study results); overall main Table 5
+F1124,F1124-007,Time Use (MDS),Time Use (MDS),1 factor,Casten 1998,733,,NS,NS,study,,,,,,,,,,,,,,AGFI .87,[-],-,result,,supp Appendix F.1 (per-study results); overall main Table 5
+F1126,F1126-001,MMCL,MMCL,,McGlynn 2019,,,NS,NS,study,,,,,0.04,0.04,,,,,,,,RMSEA 90% CI .02-.05,+,+,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-002,WHO-5,WHO-5,,Mortazavi 2015,,,NS,NS,study,0.99,0.99,,,0.057,0.057,,,,,,,,,+,+,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-003,EPDS,EPDS,,Martin 2018,,,NS,NS,study,,,,,0.04,0.04,,,,,,,,,+,+,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-004,CBTS,CBTS,,Rados 2019,,,NS,NS,study,,,>0.98,0.98,0.06,0.06,,,,,,,,TLI printed 'values > .98',+,+,result,tli:bound,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-005,CBTS,CBTS,four-factor,Sandoz 2021,,,NS,NS,study,,,,,0.09,0.09,,,,,,,,,?,?,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-006,CBTS,CBTS,two-factor,Sandoz 2021,,,NS,NS,study,,,,,0.07,0.07,,,,,,,,,?,?,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-007,CBTS,CBTS,bifactor,Sandoz 2021,,,NS,NS,study,,,,,0.06,0.06,,,,,,,,,?,?,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-008,MSPSS,MSPSS,,Denis 2015,,,NS,NS,study,0.95,0.95,,,0.08,0.08,,,,,,,,,-,-,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-009,PQOL,PQOL,,Nikan 2016,,,NS,NS,study,0.988,0.988,0.984,0.984,0.060,0.06,0.032,0.032,,,,,,,+,+,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-010,13-PAFS,13-PAFS,,Tsuchiya 2016,,,NS,NS,study,0.986,0.986,,,0.049,0.049,,,,,,,,,+,+,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-011,IFSAC,IFSAC,,Noor 2015,,,NS,NS,study,,,,,0.08,0.08,,,,,,,,,-,-,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-012,PDSS,PDSS,,Vogeli 2017,,,NS,NS,study,,,0.85,0.85,0.08,0.08,0.07,0.07,,,,,,,-,-,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-013,PDSS (Spanish),PDSS,,Beck 2003,,,NS,NS,study,0.80,0.8,,,0.089,0.089,0.066,0.066,,,,,,SRMR printed 'SRMSR',-,-,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-014,PDPSI,PDPSI,,Razurel 2014,,,NS,NS,study,,,,,0.061,0.061,,,,,,,,,+,+,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-015,FAS,FAS,,Cano Climent 2017,,,NS,NS,study,,,,,0.046-0.078,,,,,,,,,RMSEA printed 'RMSE 0.046-0.078',+,+,result,rmsea:range,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-016,Barkin Index (BIMF),Barkin Index of Maternal Functioning,,Aydin 2017,,,NS,NS,study,0.96,0.96,,,0.05,0.05,,,,,,,,,+,+,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-017,Barkin Index (BIMF),Barkin Index of Maternal Functioning,,Ansariniaki 2021,,,NS,NS,study,0.91,0.91,,,0.050,0.05,,,,,,,,,+,+,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-018,PDS,PDS,,Dikmen-Yildiz 2017,,,NS,NS,study,,,,,0.061,0.061,,,,,,,,,?,?,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-019,PBQ,PBQ,final model,Ohashi 2016,,,NS,NS,study,0.82,0.82,,,0.08,0.08,,,,,,,,CMIN/df 2.28,+,+,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-020,PBQ,PBQ,5 days (secondary analysis of Ohashi data),Matsunaga 2021,,,NS,NS,study,0.936,0.936,,,,,,,,,,,,,+,+,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-021,PBQ,PBQ,1 month (secondary analysis of Ohashi data),Matsunaga 2021,,,NS,NS,study,0.968,0.968,,,,,,,,,,,,,+,+,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-022,MOS-SSS,MOS-SSS,,Norhayati 2015,,,NS,NS,study,0.943,0.943,,,0.072,0.072,,,,,,,,,+,+,result,,supp Appendix sTable 1 (per-study results and ratings)
+F1126,F1126-023,PPSS-S,PPSS-S,,Escibano 2020,,,NS,NS,study,0.98,0.98,,,0.058,0.058,,,,,,,,,+,+,result,,supp Appendix sTable 1 (per-study results and ratings)

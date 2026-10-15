@@ -1,0 +1,15 @@
+bibentry(
+  bibtype = "Unpublished",
+  title = "The COSMIN criterion for structural validity: what it allows and how systematic reviews apply it",
+  author = c(person("Yousef M.", "Nasher"),
+             person("Marwan", "Alqumbaey"),
+             person("Fareed", "AL-Mekhlafi"),
+             person("Suhaib", "Nasr"),
+             person("Hael Saeed Hassan", "Ali"),
+             person("Abdulaleem", "Badi"),
+             person("Zaid", "Al-hayas"),
+             person("Ammar", "AL-Hadidah")),
+  year = "2026",
+  note = "Manuscript",
+  textVersion = "Nasher YM, Alqumbaey M, AL-Mekhlafi F, Nasr S, Ali HSH, Badi A, Al-hayas Z, AL-Hadidah A. The COSMIN criterion for structural validity: what it allows and how systematic reviews apply it. 2026 (manuscript)."
+)

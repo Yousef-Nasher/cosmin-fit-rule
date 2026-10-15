@@ -1,0 +1,5 @@
+E1 25 of 36  E2 18 of 36  max rescue 58.1
+E3 16 of 18  max 33.0
+c2_skew p=20 load=0.45 N=100  SRMR fails 100.0  RMSEA rescue  58.1
+c2_skew p=20 load=0.45 N=200  SRMR fails 100.0  RMSEA rescue  46.0
+c2_skew p=20 load=0.45 N=500  SRMR fails  98.0  RMSEA rescue  13.0

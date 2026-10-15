@@ -1,0 +1,59 @@
+name: checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  r-package:
+    name: R package (build, check, tests)
+    runs-on: ubuntu-latest
+    container: rocker/r-ver:4.3.3
+    steps:
+      - uses: actions/checkout@v5
+      - name: Build and check cosminfit
+        env:
+          _R_CHECK_FORCE_SUGGESTS_: "false"
+        run: |
+          R CMD build cosminfit
+          R CMD check --no-manual cosminfit_*.tar.gz
+
+  python:
+    name: Python package and repository tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+      - name: Install
+        run: |
+          python -m pip install -r requirements.txt
+          python -m pip install ./cosminfit-py
+      - name: Package tests, with the cross-check against R
+        run: python -m pytest cosminfit-py/tests -q
+      - name: Repository tests
+        run: python -m pytest tests -q
+
+  reproduce:
+    name: Reproduce the stored results (R 4.3.3, lavaan 0.6-17)
+    runs-on: ubuntu-latest
+    container: rocker/r-ver:4.3.3
+    steps:
+      - uses: actions/checkout@v5
+      - name: Install lavaan and cosminfit
+        run: |
+          install2.r --error lavaan
+          R CMD INSTALL cosminfit
+          Rscript -e 'cat("lavaan", as.character(packageVersion("lavaan")), "\n")'
+      - name: Study 1
+        run: cd study1 && Rscript reproduce.R
+      - name: DWLS identities on small samples
+        run: Rscript tests/dwls_identity.R
+      - name: Study 2
+        run: cd study2 && Rscript reproduce.R
+      - name: Study 2b
+        run: cd study2b && Rscript reproduce.R
+      - name: Study 3
+        run: cd study3 && Rscript reproduce.R

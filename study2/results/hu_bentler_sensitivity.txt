@@ -1,0 +1,29 @@
+job files 1520 | rows 228000 | clean fits 227874
+
+ff = false-fail % (correct models); fp = false-pass % (consequential misspecification)
+HB_CFI95: (CFI>=.95 & SRMR<=.09) | (RMSEA<=.06 & SRMR<=.09)
+HB_CFI96: (CFI>=.96 & SRMR<=.09) | (RMSEA<=.06 & SRMR<=.09)
+HB_TLI96: (TLI>=.96 & SRMR<=.09) | (RMSEA<=.06 & SRMR<=.09)
+The COSMIN columns repeat the main analysis for comparison.
+
+=== PRIMARY: WLSMV scaled indices and both ML arms ===
+            arm    N n_correct n_conseq COSMIN_ff COSMIN_fp HB_CFI95_ff HB_CFI95_fp HB_CFI96_ff HB_CFI96_fp HB_TLI96_ff HB_TLI96_fp
+        ml_cont  100      4000    10476       1.9      48.9         8.1        32.5        10.2        30.0        13.1        27.6
+        ml_cont  200      4000    10498       0.0      61.5         1.5        36.2         1.8        32.5         2.6        29.9
+        ml_cont  500      4000    10500       0.0      68.8         0.0        37.6         0.1        33.3         0.1        31.2
+        ml_cont 1000      4000    10500       0.0      71.8         0.0        37.3         0.0        33.3         0.0        31.7
+ ml_ord_as_cont  100      3995    10452       2.5      54.6        10.0        37.0        11.7        34.6        13.6        32.8
+ ml_ord_as_cont  200      4000    10498       0.0      70.3         1.2        40.8         1.6        37.6         2.6        35.7
+ ml_ord_as_cont  500      4000    10500       0.0      79.5         0.1        42.6         0.1        37.7         0.2        36.3
+ ml_ord_as_cont 1000      4000    10500       0.0      81.3         0.0        41.7         0.0        36.9         0.0        35.9
+      wlsmv_ord  100      3997    10459       5.2      50.5         7.8        44.9         8.9        41.4        11.4        36.1
+      wlsmv_ord  200      4000    10500       0.0      63.0         1.0        49.4         1.2        45.1         1.8        38.9
+      wlsmv_ord  500      4000    10500       0.0      67.5         0.0        49.9         0.1        45.4         0.1        38.2
+      wlsmv_ord 1000      4000    10500       0.0      69.1         0.0        50.3         0.0        44.9         0.0        37.6
+
+=== SENSITIVITY: WLSMV robust indices ===
+       arm    N n_correct n_conseq COSMIN_ff COSMIN_fp HB_CFI95_ff HB_CFI95_fp HB_CFI96_ff HB_CFI96_fp HB_TLI96_ff HB_TLI96_fp
+ wlsmv_ord  100      3997    10459       7.9      41.0        18.9        28.1        22.0        25.6        25.0        23.6
+ wlsmv_ord  200      4000    10500       0.0      61.4         2.7        33.0         3.6        29.9         5.4        27.7
+ wlsmv_ord  500      4000    10500       0.0      67.3         0.1        35.4         0.2        32.2         0.3        30.1
+ wlsmv_ord 1000      4000    10500       0.0      69.1         0.0        35.5         0.0        32.1         0.0        30.9

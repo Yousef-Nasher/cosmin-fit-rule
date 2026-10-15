@@ -1,0 +1,4 @@
+"rule","ic_changed","v1","v2","a_to_b","b_to_c","changed","n"
+"no_rmsea",16,15,1,3,1,4,101
+"srmr_df",6,6,0,1,0,1,101
+"two_of_three",53,51,2,6,7,13,101

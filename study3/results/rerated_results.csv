@@ -1,0 +1,688 @@
+"row_id","review_id","instrument","group","n_indices","rating","rating_scope","rating_cosmin","rating_no_rmsea","rating_srmr_df","rating_two_of_three","rmsea_rescue","any_fail"
+"F0008-001","F0008","PANSS-6","PANSS-6",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0035-001","F0035","GOHAI (Brazilian)","GOHAI",1,"","","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0042-001","F0042","CAS-CIPN","CAS-CIPN",1,"","","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F0042-002","F0042","CIPNAT (Turkish)","CIPNAT",2,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0057-001","F0057","PAH-SYMPACT","PAH-SYMPACT",1,"","","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0057-002","F0057","PAH-SYMPACT","PAH-SYMPACT",1,"","","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0062-001","F0062","TSK-11 (English)","TSK-11 (cross-cultural versions)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0062-002","F0062","TSK-11 (English)","TSK-11 (cross-cultural versions)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0062-003","F0062","TSK-11 (English)","TSK-11 (cross-cultural versions)",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0062-004","F0062","TSK-11 (English)","TSK-11 (cross-cultural versions)",3,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0062-005","F0062","TSK-11 (Cantonese)","TSK-11 (cross-cultural versions)",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0062-006","F0062","TSK-11 (Cantonese)","TSK-11 (cross-cultural versions)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0062-007","F0062","TSK-11 (Swedish)","TSK-11 (cross-cultural versions)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0062-008","F0062","TSK-11 (Swedish)","TSK-11 (cross-cultural versions)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0062-009","F0062","TSK-11 (Swedish)","TSK-11 (cross-cultural versions)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0062-010","F0062","TSK-11 (Swedish)","TSK-11 (cross-cultural versions)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0062-011","F0062","TSK-11 (TSK-F Dutch)","TSK-11 (cross-cultural versions)",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0062-012","F0062","TSK-11 (Dutch)","TSK-11 (cross-cultural versions)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0062-013","F0062","TSK-11 (Dutch)","TSK-11 (cross-cultural versions)",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0062-014","F0062","TSK-11 (TSK-GV German)","TSK-11 (cross-cultural versions)",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0062-015","F0062","TSK-11 (Brazilian)","TSK-11 (cross-cultural versions)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0062-016","F0062","TSK-11 (Brazilian)","TSK-11 (cross-cultural versions)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0062-017","F0062","TSK-11 (Brazilian)","TSK-11 (cross-cultural versions)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0062-018","F0062","TSK-11 (Thai)","TSK-11 (cross-cultural versions)",3,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0062-019","F0062","TSK-11 (Persian)","TSK-11 (cross-cultural versions)",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0085-001","F0085","BPPS","BPPS",1,"","","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0085-002","F0085","BPPS","BPPS",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0085-003","F0085","IGDPB","IGDPB",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0085-004","F0085","ERI","ERI",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0085-005","F0085","LDPT","LDPT",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0085-006","F0085","PPDTS","PPDTS",1,"+","result","sufficient","sufficient","indeterminate","indeterminate",,FALSE
+"F0085-007","F0085","ERS","ERS",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0097-001","F0097","EAT-10","EAT-10",4,"-","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0097-002","F0097","EORTC QLQ-H&N43","EORTC QLQ-H&N43",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0097-003","F0097","GTQ","GTQ",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0097-004","F0097","GTQ","GTQ",2,"-","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0097-005","F0097","GTQ","GTQ",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0097-006","F0097","GTQ","GTQ",2,"-","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0099-001","F0099","ACE-III-S","ACE-III-S",1,"+","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0099-002","F0099","AV-MoCA","AV-MoCA",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0099-003","F0099","MoCA-J","MoCA-J",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0113-001","F0113","PSI-VSF-ID","PSI-VSF-ID",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0113-002","F0113","PSI-VSF-ID","PSI-VSF-ID",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0113-003","F0113","PSI-VSF-ID","PSI-VSF-ID",4,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0114-001","F0114","Ageism scale (Küçükgüçlü 2011 [46])","Ageism scale (Küçükgüçlü 2011 [46])",4,"","","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0114-002","F0114","Ageism scale (Popovac 2021 [60])","Ageism scale (Popovac 2021 [60])",4,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0114-003","F0114","Ageism scale (Intrieri 1995 [69])","Ageism scale (Intrieri 1995 [69])",2,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0114-004","F0114","Ageism scale (Gonzales 2010 [67])","Ageism scale (Gonzales 2010 [67])",1,"","","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F0114-005","F0114","Ageism scale (Wilson 2020 [74])","Ageism scale (Wilson 2020 [74])",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0114-006","F0114","Ageism scale (Wilson 2020 [74])","Ageism scale (Wilson 2020 [74])",4,"","","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0114-007","F0114","Ageism scale (Wilson 2020 [74])","Ageism scale (Wilson 2020 [74])",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0114-008","F0114","Ageism scale (Wilson 2020 [74])","Ageism scale (Wilson 2020 [74])",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0114-009","F0114","Ageism scale ([68])","Ageism scale ([68])",2,"","","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0114-010","F0114","Ageism scale ([71])","Ageism scale ([71])",4,"","","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0114-011","F0114","Ageism scale (Dikken 2017 [82] section A)","Ageism scale (Dikken 2017 [82] section A)",3,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0114-012","F0114","Ageism scale (Dikken 2017 [82] second model)","Ageism scale (Dikken 2017 [82] second model)",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0114-013","F0114","Ageism scale (Dikken 2017 [81] section A)","Ageism scale (Dikken 2017 [81] section A)",3,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0114-014","F0114","Ageism scale (Dikken 2017 [81] section B)","Ageism scale (Dikken 2017 [81] section B)",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0114-015","F0114","Ageism scale (Dikken 2017 [81] OPACS-US)","Ageism scale (Dikken 2017 [81] OPACS-US)",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0114-016","F0114","Ageism scale ([76] 2021)","Ageism scale ([76] 2021)",3,"","","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0114-017","F0114","Ageism scale (Bilim & Kutlu 2021 [86])","Ageism scale (Bilim & Kutlu 2021 [86])",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0114-018","F0114","Ageism scale (Fan 2020 [87])","Ageism scale (Fan 2020 [87])",1,"","","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0114-019","F0114","Ageism scale (Hollar 2011 [89])","Ageism scale (Hollar 2011 [89])",2,"","","sufficient","insufficient","sufficient","indeterminate",TRUE,TRUE
+"F0114-020","F0114","Ageism scale (Zisberg 2021 [90])","Ageism scale (Zisberg 2021 [90])",2,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0121-001","F0121","TS-REALD","TS-REALD",3,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0121-002","F0121","TREALD-30","TREALD-30",3,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0128-001","F0128","CQI Inpatient Hospital Care (Dutch HCAHPS)","CQI Inpatient Hospital Care (Dutch HCAHPS)",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0128-002","F0128","CQI Inpatient Hospital Care (Dutch HCAHPS)","CQI Inpatient Hospital Care (Dutch HCAHPS)",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0128-003","F0128","CQI Inpatient Hospital Care (Dutch HCAHPS)","CQI Inpatient Hospital Care (Dutch HCAHPS)",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0128-004","F0128","CQI Inpatient Hospital Care (Dutch HCAHPS)","CQI Inpatient Hospital Care (Dutch HCAHPS)",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0128-005","F0128","CQI Inpatient Hospital Care (Dutch HCAHPS)","CQI Inpatient Hospital Care (Dutch HCAHPS)",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0128-006","F0128","CQI Inpatient Hospital Care (Dutch HCAHPS)","CQI Inpatient Hospital Care (Dutch HCAHPS)",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0128-007","F0128","PEQ","PEQ",3,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0128-008","F0128","NORPEQ","NORPEQ",2,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0128-009","F0128","HS&PE","HS&PE",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0128-010","F0128","FPS","FPS",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0128-011","F0128","QoC","QoC",2,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0164-001","F0164","SPADI (translated)","SPADI translated versions",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0164-002","F0164","SPADI (translated)","SPADI translated versions",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0164-003","F0164","SPADI (translated)","SPADI translated versions",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0164-004","F0164","SPADI (translated)","SPADI translated versions",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0176-001","F0176","NSCI","NSCI",3,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0176-002","F0176","NSCI (Chinese, Taiwan)","NSCI",2,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0176-003","F0176","NSCI (Chinese)","NSCI",2,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0176-004","F0176","NSCQ","NSCQ",1,"+","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0176-005","F0176","NSCQ (Chinese)","NSCQ",3,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0176-006","F0176","NSCQ (Turkish)","NSCQ",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0176-007","F0176","NSCQ (Nigerian)","NSCQ",3,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0193-001","F0193","LGBT Minority Stress Measure","LGBT Minority Stress Measure",3,"-","pooled","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0193-002","F0193","LGIS","LGIS",1,"-","pooled","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0215-001","F0215","Academic burnout scale","Academic burnout scale",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0215-002","F0215","ASBI","ASBI",3,"+/-","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-003","F0215","ASBI","ASBI",3,"+/-","pooled","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0215-004","F0215","BAT-C student version","BAT-C student",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0215-005","F0215","CBI-S","CBI-S",2,"-","pooled","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0215-006","F0215","CBI-S","CBI-S",2,"-","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-007","F0215","CBI-S","CBI-S",2,"-","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-008","F0215","ESSBS","ESSBS",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-009","F0215","FS-BAT","FS-BAT",4,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0215-010","F0215","FS-BAT","FS-BAT",4,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-011","F0215","FS-BAT","FS-BAT",4,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0215-012","F0215","FS-BAT","FS-BAT",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0215-013","F0215","FS-BAT","FS-BAT",4,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0215-014","F0215","MBI-EFL-SS","MBI-EFL-SS",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0215-015","F0215","MBI-GS revised","MBI-GS revised",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-016","F0215","MBI-SS (Dutch, revised)","MBI-SS (Bresó Dutch/Spanish)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-017","F0215","MBI-SS (Spanish, revised)","MBI-SS (Bresó Dutch/Spanish)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-018","F0215","MBI-SS (Dutch)","MBI-SS Dutch",3,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-019","F0215","MBI-SS (Dutch)","MBI-SS Dutch",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0215-020","F0215","MBI-SS (Spanish)","MBI-SS Spanish",4,"+","pooled","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0215-021","F0215","MBI-SS (Spanish)","MBI-SS Spanish",3,"+","pooled","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0215-022","F0215","MBI-SS (Spanish)","MBI-SS Spanish",3,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-023","F0215","MBI-SS (Spanish)","MBI-SS Spanish",3,"+","pooled","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0215-024","F0215","MBI-SSi","MBI-SSi",4,"-","pooled","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0215-025","F0215","MBI-SSi","MBI-SSi",3,"-","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-026","F0215","MBI-SuS","MBI-SuS",4,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0215-027","F0215","OLBI-N","OLBI-N",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0215-028","F0215","OLBI-S","OLBI-S",2,"+/-","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-029","F0215","OLBI-S","OLBI-S",2,"+/-","pooled","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0215-030","F0215","OLBI-S","OLBI-S",2,"+/-","pooled","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0215-031","F0215","OLBI-S","OLBI-S",2,"+/-","pooled","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0215-032","F0215","S-BAT","S-BAT",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0215-033","F0215","SBI","SBI",3,"+","pooled","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0215-034","F0215","SBI","SBI",4,"+","pooled","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0215-035","F0215","SBI-8","SBI-8",4,"+","pooled","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0215-036","F0215","SBI-8","SBI-8",4,"+","pooled","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0215-037","F0215","SBI-8","SBI-8",4,"+","pooled","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0215-038","F0215","SBI-8","SBI-8",4,"+","pooled","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0215-039","F0215","SBI-U","SBI-U",4,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0215-040","F0215","BAT-C short emotional burnout","BAT-C short",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0215-041","F0215","SSBS","SSBS",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0215-042","F0215","UW-ESBS revised","UW-ESBS",4,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0215-043","F0215","ULB scale (original)","ULB scale",2,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-044","F0215","ULB scale (original-reverse)","ULB scale",2,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-045","F0215","ULB scale (positive)","ULB scale",2,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-046","F0215","ULB scale (negative)","ULB scale",2,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-047","F0215","ULB scale (original)","ULB scale",2,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-048","F0215","ULB scale (original-reverse)","ULB scale",2,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-049","F0215","ULB scale (positive)","ULB scale",2,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-050","F0215","ULB scale (negative)","ULB scale",2,"+","pooled","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0215-051","F0215","ULB scale (original)","ULB scale",2,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-052","F0215","ULB scale (original-reverse)","ULB scale",2,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-053","F0215","ULB scale (original)","ULB scale",2,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-054","F0215","ULB scale (original-reverse)","ULB scale",2,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-055","F0215","ULB scale (original)","ULB scale",2,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0215-056","F0215","ULB scale (original-reverse)","ULB scale",2,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0221-001","F0221","FOPQ-C (German, 15-item)","FOPQ-C",3,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0221-002","F0221","FOPQ-SF","FOPQ-SF",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0221-003","F0221","PCS-C","PCS-C",2,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0221-004","F0221","PCS-C (French)","PCS-C",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0221-005","F0221","PCS-C (French)","PCS-C",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0221-006","F0221","PCS-C","PCS-C",2,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0221-007","F0221","PCS-C","PCS-C",2,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0221-008","F0221","PCS-C","PCS-C",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0221-009","F0221","PCS-C (Catalan)","PCS-C",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0221-010","F0221","PCS-P","PCS-P",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0221-011","F0221","PCS-P","PCS-P",2,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0221-012","F0221","PCQ (abbreviated)","PCQ",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0221-013","F0221","PCQ (Catalan)","PCQ",3,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0221-014","F0221","PCQ (CAD-R, Spanish adults)","PCQ",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0221-015","F0221","PCQ long form","PCQ",2,"","","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0221-016","F0221","PCQ long form (children)","PCQ",2,"","","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0221-017","F0221","PCQ long form (parents)","PCQ",2,"","","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0231-003","F0231","AIRS","AIRS",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0231-004","F0231","CADRI","CADRI",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0231-005","F0231","CADRI-S","CADRI-S",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0231-006","F0231","CADRI-S","CADRI-S",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0231-007","F0231","CDAQ","CDAQ",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0231-008","F0231","CDAQ","CDAQ",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0231-009","F0231","CDVI","CDVI",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0231-010","F0231","CDVI","CDVI",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0231-011","F0231","CEPA short version","CEPA short version",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0231-012","F0231","CMN/Mexican version","CMN/Mexican version",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0231-013","F0231","CTS2/Argentine version","CTS2/Argentine version",0,"?","result","indeterminate","indeterminate","indeterminate","indeterminate",,FALSE
+"F0231-014","F0231","CTS2/Argentine version","CTS2/Argentine version",0,"?","result","indeterminate","indeterminate","indeterminate","indeterminate",,FALSE
+"F0231-015","F0231","CTS2/Argentine version","CTS2/Argentine version",0,"?","result","indeterminate","indeterminate","indeterminate","indeterminate",,FALSE
+"F0231-016","F0231","CTS2/Argentine version","CTS2/Argentine version",0,"?","result","indeterminate","indeterminate","indeterminate","indeterminate",,FALSE
+"F0231-017","F0231","DJTS/Spanish version","DJTS/Spanish version",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0231-018","F0231","DJTS/Spanish version","DJTS/Spanish version",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0231-019","F0231","DVQ/Chilean version","DVQ/Chilean version",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0231-020","F0231","DVQ/English version","DVQ/English version",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0231-021","F0231","DVQ/Italian version","DVQ/Italian version",3,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0231-022","F0231","DVQ-R","DVQ-R",3,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0231-023","F0231","MMEA/Turkish version","MMEA/Turkish version",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0231-024","F0231","MSDV","MSDV",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0231-025","F0231","MSDV","MSDV",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0231-026","F0231","PMWI-SF/Portuguese version","PMWI-SF/Portuguese version",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0231-027","F0231","PVD-Q","PVD-Q",3,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0231-028","F0231","PVD-Q","PVD-Q",3,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0231-029","F0231","TDV-VP Scale","TDV-VP Scale",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0231-030","F0231","TDV-VP Scale","TDV-VP Scale",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0234-001","F0234","SANS","SANS",1,"+","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0234-002","F0234","SANS","SANS",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0234-003","F0234","SANS","SANS",1,"+","result","sufficient","sufficient","indeterminate","indeterminate",,FALSE
+"F0247-001","F0247","PMDD scale","PMDD scale",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0247-002","F0247","PSQ","PSQ",4,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0247-003","F0247","PSQ","PSQ",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0247-004","F0247","PSQ-S","PSQ-S",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0247-005","F0247","PSMS","PSMS",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0247-006","F0247","PMS-8","PMS-8",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0247-008","F0247","J-DRSP","J-DRSP",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0247-009","F0247","J-DRSP (SF)","J-DRSP (SF)",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0257-001","F0257","DFS","DFS",1,"+","pooled","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0257-002","F0257","DFS","DFS",3,"+","pooled","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0257-003","F0257","Slade FCQ (Persian)","Slade FCQ",3,"+","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0257-004","F0257","CFQ","CFQ",1,"?","pooled","sufficient","sufficient","indeterminate","indeterminate",,FALSE
+"F0257-005","F0257","CFQ (Spanish)","CFQ",1,"?","pooled","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0264-001","F0264","CAOPA","CAOPA",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0264-002","F0264","CASP-19","CASP-19",1,"+","result","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F0264-003","F0264","CASP-19 (CAP-19, Spanish)","CASP-19",1,"+","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0264-004","F0264","EAAS","EAAS",1,"+","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0264-005","F0264","NR (Kim 2022)","NR_Kim",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0270-002","F0270","AO-PSQI","AO-PSQI",3,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0270-003","F0270","AK-PSQI","AK-PSQI",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0270-004","F0270","PSQI","PSQI",4,"-","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0270-005","F0270","A-SQS","A-SQS",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0270-006","F0270","A-JSS","A-JSS",3,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0289-001","F0289","STSS-SM","STSS-SM",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0289-002","F0289","EMC-STS","EMC-STS",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0306-001","F0306","MOQ-T","MOQ-T",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0306-002","F0306","MOQ-T","MOQ-T",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0306-003","F0306","MABC-2 Checklist","MABC-2 Checklist",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0306-004","F0306","Child RMP","Child RMP",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0306-005","F0306","TRS (Teen Risk Screen)","TRS (Teen Risk Screen)",1,"-","pooled","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F0306-006","F0306","TRS (Teen Risk Screen)","TRS (Teen Risk Screen)",1,"-","pooled","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F0306-007","F0306","TRS (Teen Risk Screen)","TRS (Teen Risk Screen)",1,"-","pooled","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F0306-008","F0306","TRS (Teen Risk Screen)","TRS (Teen Risk Screen)",1,"-","pooled","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0306-009","F0306","DESSA","DESSA",3,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0306-010","F0306","ERC","ERC",3,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0306-011","F0306","MASCS","MASCS",3,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0306-012","F0306","SEARS-T","SEARS-T",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0306-013","F0306","SEARS-T","SEARS-T",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0306-014","F0306","SSIS SEL RF Teacher","SSIS SEL RF Teacher",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0306-015","F0306","Harter's TRS","Harter's TRS",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0306-016","F0306","QACSE-P-SF (Social and Emotional Competencies Evaluation)","QACSE-P-SF",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0320-001","F0320","COMRADE","COMRADE",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0320-002","F0320","SDM-Q-9 (Spanish)","SDM-Q-9 (Spanish)",3,"","","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0320-003","F0320","SDM-Q-9 (Spanish)","SDM-Q-9 (Spanish)",2,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0320-004","F0320","SDM-Q-9 (Dutch)","SDM-Q-9 (Dutch)",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0320-005","F0320","SDM-Q-9-Psy (Hebrew)","SDM-Q-9 Psy (Hebrew)",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0320-006","F0320","SDM-Q-Doc","SDM-Q-Doc",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0320-007","F0320","SDM-Q-Doc (Dutch)","SDM-Q-Doc (Dutch)",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0320-008","F0320","SDM-Q-Doc (Spanish)","SDM-Q-Doc (Spanish)",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0322-001","F0322","ELNS","ELNS",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0323-001","F0323","SMDOA","SMDOA",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0324-001","F0324","DLQI-Chinese","DLQI-Chinese",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0336-001","F0336","FreBAQ (Spanish)","FreBAQ",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0360-001","F0360","Clarity of Professional Identity","CPI",0,"","","indeterminate","indeterminate","indeterminate","indeterminate",,FALSE
+"F0360-002","F0360","MCPIS","MCPIS",0,"","","indeterminate","indeterminate","indeterminate","indeterminate",,FALSE
+"F0360-003","F0360","Nurse Self Concept Questionnaire","NSCQ",0,"","","indeterminate","indeterminate","indeterminate","indeterminate",,FALSE
+"F0360-004","F0360","Nurse Self Concept Questionnaire (Nigerian)","NSCQ",1,"","","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0360-005","F0360","Nurse Self Concept Questionnaire (Chinese)","NSCQ",1,"","","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0360-006","F0360","NPVS-R","NPVS-R",1,"","","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0360-007","F0360","NPVS-R","NPVS-R",0,"","","indeterminate","indeterminate","indeterminate","indeterminate",,FALSE
+"F0360-008","F0360","Professional Identity Five Factor Scale","PIFFS",1,"","","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0360-009","F0360","The Values Survey","Values Survey",0,"","","indeterminate","indeterminate","indeterminate","indeterminate",,FALSE
+"F0365-001","F0365","MEBS","MEBS",1,"","","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0365-002","F0365","TOS","TOS",2,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0365-003","F0365","ORTO-R","ORTO-R",2,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0365-004","F0365","DOS","DOS",2,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0365-005","F0365","FMQ","FMQ",1,"","","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F0365-006","F0365","ORTO-15","ORTO-15",1,"","","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F0365-007","F0365","CFPQ","CFPQ",3,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0365-008","F0365","BES","BES",2,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0365-009","F0365","EDE-QS-P","EDE-QS-P",3,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0365-010","F0365","ORTO-R","ORTO-R",3,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0365-011","F0365","BES","BES",1,"","","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F0365-012","F0365","EAT-26","EAT-26",3,"","","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0365-013","F0365","EDE-Q (7-item)","EDE-Q (7-item)",2,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0407-001","F0407","WHOQOL-HIV-BREF","WHOQOL-HIV-BREF",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0407-002","F0407","WHOQOL-HIV-BREF Portuguese version","WHOQOL-HIV-BREF",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0407-003","F0407","WHOQOL-HIV-BREF Ethiopian version","WHOQOL-HIV-BREF",1,"+","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0407-004","F0407","WHOQOL-HIV-BREF Chinese version","WHOQOL-HIV-BREF",1,"+","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0407-005","F0407","WHOQOL-HIV-BREF Chinese version","WHOQOL-HIV-BREF",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0407-006","F0407","MOS-HIV Chinese version","MOS-HIV",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0407-007","F0407","MOS-HIV Korean version","MOS-HIV",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0407-008","F0407","WHOQOL-BREF","WHOQOL-BREF",1,"+","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0407-009","F0407","EUROHIS-QoL-8 Portuguese version","EUROHIS-QoL-8",1,"+","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0407-010","F0407","HAQ-DI","HAQ-DI",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0407-011","F0407","PozQoL","PozQoL",1,"+","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0407-012","F0407","SF-36v2 Brazilian-Portuguese version","SF-36",1,"+","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0432-001","F0432","SF-36","SF-36",4,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0432-002","F0432","WHOQOL-BREF","WHOQOL-BREF",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0432-003","F0432","WHOQOL-BREF","WHOQOL-BREF",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0432-004","F0432","MHQOL","MHQOL",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0432-005","F0432","ReQoL","ReQoL",0,"+","result","indeterminate","indeterminate","indeterminate","indeterminate",,FALSE
+"F0432-006","F0432","SQLS-R4","SQLS-R4",4,"-","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0432-007","F0432","SQLS-R4","SQLS-R4",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0433-001","F0433","QoL-ACC","QoL-ACC",1,"?","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0434-001","F0434","FGSIS (4 items)","FGSIS",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0434-002","F0434","FGSIS (7 items)","FGSIS",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0434-003","F0434","FGSIS (7 items)","FGSIS",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0434-004","F0434","FGSIS (7 items)","FGSIS",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0434-005","F0434","FGSIS (7 items)","FGSIS",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0434-006","F0434","FGSIS (7 items)","FGSIS",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0434-007","F0434","FGSIS (7 items)","FGSIS",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0434-008","F0434","MGSIS (5 items)","MGSIS",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0434-009","F0434","MGSIS (5 items)","MGSIS",2,"+","result","sufficient","sufficient","sufficient","indeterminate",FALSE,FALSE
+"F0434-010","F0434","MGSIS (7 items)","MGSIS",2,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0434-011","F0434","MGSIS (7 items)","MGSIS",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0434-012","F0434","MGSIS (7 items)","MGSIS",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0434-013","F0434","K-GIS","K-GIS",3,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0452-001","F0452","SDQ (parent)","SDQ (ADHD subscale)",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0452-002","F0452","SDQ (teacher)","SDQ (ADHD subscale)",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0452-003","F0452","SDQ","SDQ (ADHD subscale)",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0452-004","F0452","SDQ","SDQ (ADHD subscale)",3,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0452-005","F0452","CADBI (mothers)","CADBI",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0452-006","F0452","CADBI (fathers)","CADBI",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0452-007","F0452","CADBI","CADBI",3,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0452-008","F0452","FTF (parent)","FTF",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0452-009","F0452","FTF (teacher)","FTF",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0452-010","F0452","CBCL Attention Problems","CBCL Attention Problems",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0452-011","F0452","CABI","CABI",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0452-012","F0452","CABI","CABI",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0452-013","F0452","CABI (mothers, boys)","CABI",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0452-014","F0452","CABI (mothers, girls)","CABI",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0452-015","F0452","CABI (fathers, boys)","CABI",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0452-016","F0452","CABI (fathers, girls)","CABI",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0452-017","F0452","CABI (teachers, boys)","CABI",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0452-018","F0452","CABI (teachers, girls)","CABI",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0484-001","F0484","MSWS-12","MSWS-12",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0489-001","F0489","FES-I","FES-I",2,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0489-002","F0489","FFQ-R (German)","FFQ-R (German)",1,"","","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0490-001","F0490","AII (Persian)","AII Persian",2,"?","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0490-002","F0490","IdFAI (Chinese)","IdFAI Chinese",4,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0490-003","F0490","IdFAI (Persian)","IdFAI Persian",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0490-004","F0490","IdFAI (Spanish I)","IdFAI Spanish I",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0490-005","F0490","IdFAI (French)","IdFAI French",4,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0495-001","F0495","LYMQoL-Arm A (Turkish)","LYMQoL-Arm A",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0495-002","F0495","LYMQoL-Arm B (Turkish)","LYMQoL-Arm B",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0495-003","F0495","LLIS ver 1 (Turkish)","LLIS ver 1",3,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0495-004","F0495","LSIDS-A intensity scale","LSIDS-A",4,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0495-005","F0495","LSIDS-A distress scale","LSIDS-A",4,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0495-006","F0495","ULL27 (Turkish)","ULL27",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0539-001","F0539","EORTC QLQ-TC26","EORTC QLQ-TC26",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0545-001","F0545","Measure of Managerial Stigma towards Employee Depression","Managerial Stigma towards Employee Depression",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-001","F0556","APS","APS (Spanish)",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0556-002","F0556","CPCI","CPCI (Brazilian)",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0556-003","F0556","CPCI","CPCI (French)",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0556-005","F0556","CPCI-42","CPCI-42 (Chinese)",2,"?","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-006","F0556","CPCI-42","CPCI-42 (Spanish)",3,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0556-007","F0556","FABQ","FABQ (Chinese)",3,"-","result","sufficient","sufficient","indeterminate","insufficient",,TRUE
+"F0556-008","F0556","FABQ","FABQ (Swiss-German)",1,"-","result","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F0556-009","F0556","FABQ","FABQ (Gujarati)",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-010","F0556","FABQ","FABQ (Serbian)",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0556-011","F0556","NRP","NRP (English)",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0556-012","F0556","NRP","NRP (English)",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0556-013","F0556","PASS-20","PASS-20 (Chinese)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-014","F0556","PASS-20","PASS-20 (Korean)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-015","F0556","PIPS","PIPS (Greek)",3,"-","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0556-016","F0556","PIPS","PIPS (Swedish)",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0556-017","F0556","PIPS","PIPS (German)",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0556-018","F0556","PIPS","PIPS (Dutch)",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0556-019","F0556","PIPS","PIPS (Japanese)",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0556-020","F0556","TSK","TSK (Dutch)",2,"?","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-021","F0556","TSK","TSK (Dutch)",2,"?","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-022","F0556","TSK","TSK (English)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-023","F0556","TSK","TSK (Dutch)",2,"-","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0556-024","F0556","TSK","TSK (Dutch)",2,"-","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0556-025","F0556","TSK","TSK (Dutch)",2,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-026","F0556","TSK","TSK (Chinese)",2,"-","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0556-027","F0556","TSK","TSK (Chinese)",2,"-","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0556-028","F0556","TSK","TSK (Dutch)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-029","F0556","TSK-11","TSK-11 (German)",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0556-030","F0556","TSK-11","TSK-11 (English)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-031","F0556","TSK-11","TSK-11 (Swedish)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-032","F0556","TSK-11","TSK-11 (Dutch)",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0556-033","F0556","TSK-13","TSK-13 (English)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-034","F0556","TSK-13","TSK-13 (English)",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-035","F0556","TSK-13","TSK-13 (Dutch)",2,"?","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0556-036","F0556","TSK-13","TSK-13 (Dutch)",2,"?","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0556-037","F0556","TSK-13","TSK-13 (Dutch)",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0556-038","F0556","TSK-TMD","TSK-TMD (Spanish)",3,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0556-039","F0556","TSK-TMD","TSK-TMD (Brazilian)",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0556-040","F0556","TSK-TMD","TSK-TMD (Dutch)",2,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0559-001","F0559","PSQS-Turkish","PSQS-Turkish",2,"?","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0559-002","F0559","PGQ-Persian","PGQ-Persian",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0559-003","F0559","PDQ-English 4.0","PDQ (combined English)",3,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0559-004","F0559","PDQ-English 4.0","PDQ (combined English)",3,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0559-005","F0559","PDQ-English 4.0","PDQ (combined English)",3,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0559-006","F0559","PDQ-Spanish","PDQ-Spanish",2,"?","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0559-007","F0559","PDQ-Spanish","PDQ-Spanish",2,"?","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0559-008","F0559","PDQ-Spanish","PDQ-Spanish",2,"?","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0559-009","F0559","PDQ-Spanish","PDQ-Spanish",2,"?","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0559-010","F0559","Short version PGS-Chinese","SVPGS-Chinese",2,"?","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0559-011","F0559","Short version PGS-Czech","SVPGS-Czech",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0559-012","F0559","Short version PGS-Czech","SVPGS-Czech",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0559-013","F0559","Short version PGS-Czech","SVPGS-Czech",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0559-014","F0559","HPSS-English","HPSS-English",3,"?","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0574-001","F0574","Modified cognitive mapping task (VR)","Modified cognitive mapping task (VR)",3,"","","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0598-001","F0598","IBMSSP-EFAPD","IBMSSP-EFAPD",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0598-002","F0598","Qualiveen (Persian)","Qualiveen",3,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0598-003","F0598","Qualiveen-SF (Greek)","Qualiveen",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0598-004","F0598","SCI-QOL Pressure ulcers","SCI-QOL Pressure ulcers",3,"-","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0598-005","F0598","SCI-QOL Anxiety","SCI-QOL Anxiety",2,"-","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0598-006","F0598","SCI-QOL Economic","SCI-QOL Economic",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0598-008","F0598","SCI-QOL Depression","SCI-QOL Depression",2,"-","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0598-009","F0598","SCI-QOL Stigma","SCI-QOL Stigma",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0598-010","F0598","SCI-QOL PAWB","SCI-QOL PAWB",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0598-011","F0598","SCI-QOL APSSRA","SCI-QOL APSSRA",2,"-","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0598-012","F0598","SCI-QOL Self-esteem","SCI-QOL Self-esteem",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0598-013","F0598","SCI-QOL Grief and Loss","SCI-QOL Grief and Loss",2,"-","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0598-014","F0598","SCI-QOL Psychological Trauma","SCI-QOL Psychological Trauma",2,"-","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0598-015","F0598","SCI-QOL Resilience","SCI-QOL Resilience",2,"-","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0598-016","F0598","SCI-QOL Bladder Management Difficulties","SCI-QOL Bladder Management Difficulties",2,"-","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0598-017","F0598","SCI-QOL Bowel Management Difficulties","SCI-QOL Bowel Management Difficulties",2,"-","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0598-018","F0598","SCI-QOL Bladder Complications","SCI-QOL Bladder Complications",2,"-","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0598-019","F0598","SOSGOQ 2.0","SOSGOQ 2.0",3,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0598-020","F0598","WHOQOL-DIS","WHOQOL-DIS",2,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0601-001","F0601","DFS-SF dependence/daily life","DFS-SF dependence/daily life",3,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0601-002","F0601","DFS-SF Spanish dependence/daily life","DFS-SF dependence/daily life",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0601-003","F0601","PRO-DM-Thai physical function","PRO-DM-Thai physical function",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0601-004","F0601","Diabetes-39 Taiwan energy and mobility","Diabetes-39 energy and mobility (15)",3,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0601-005","F0601","Diabetes-39 SF Chinese energy and mobility","Diabetes-39 SF energy and mobility (5)",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0604-001","F0604","BIS","BIS",3,"-","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0604-002","F0604","BIS","BIS",1,"+","result","sufficient","sufficient","insufficient","indeterminate",,FALSE
+"F0604-003","F0604","BIS","BIS",2,"+","result","sufficient","sufficient","sufficient","sufficient",,FALSE
+"F0641-001","F0641","CSI","CSI",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0641-002","F0641","CSI","CSI",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0641-003","F0641","CSI","CSI",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0641-004","F0641","CSI","CSI",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0641-005","F0641","CSI","CSI",3,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0641-006","F0641","CSI","CSI",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0641-007","F0641","CSI","CSI",1,"+","result","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F0641-008","F0641","CSI","CSI",2,"+","result","sufficient","sufficient","sufficient","indeterminate",FALSE,TRUE
+"F0641-009","F0641","CSI","CSI",2,"+","result","sufficient","sufficient","sufficient","indeterminate",FALSE,TRUE
+"F0641-010","F0641","CSI","CSI",2,"+","result","sufficient","sufficient","sufficient","indeterminate",FALSE,FALSE
+"F0643-003","F0643","SF-36","SF-36",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0649-001","F0649","SFQ","SFQ",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0649-002","F0649","SFQ","SFQ",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0649-003","F0649","SDI-2 (Spanish)","SDI-2",2,"","","sufficient","sufficient","sufficient","indeterminate",FALSE,FALSE
+"F0649-004","F0649","CSDS (Portuguese)","CSDS",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0653-001","F0653","PSQ-3","PSQ-3",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0653-002","F0653","PSQ-3","PSQ-3",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0653-005","F0653","ISI-4","ISI-4",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0653-006","F0653","ISI-7","ISI-4",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0653-007","F0653","ISI-7","ISI-4",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0653-008","F0653","ISI-7","ISI-4",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0653-009","F0653","AIS-8","AIS-8",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0653-010","F0653","AIS-8","AIS-8",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0653-011","F0653","AIS-5","AIS-5",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0653-012","F0653","PSQI (RA)","PSQI",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0653-013","F0653","PSQI (RA)","PSQI",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0653-014","F0653","PSQI (RA)","PSQI",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0653-015","F0653","PSQI (TMD)","PSQI",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0653-016","F0653","CPSI","CPSI",3,"+","pooled","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0653-017","F0653","CPSI","CPSI",3,"+","pooled","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0653-018","F0653","CPSI","CPSI",3,"+","pooled","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0705-001","F0705","VOL","VOL",1,"+","pooled","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0705-002","F0705","Thai Elders Psychological Well-Being measure","Thai Elders Psychological Well-Being measure",3,"+","pooled","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0705-003","F0705","LSITA","LSITA",1,"+","pooled","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0705-005","F0705","GSWS","GSWS",2,"-","pooled","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0705-006","F0705","LSS-C","LSS-C",2,"+","pooled","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0705-007","F0705","TSWBATECI","TSWBATECI",3,"+","pooled","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0705-008","F0705","WTL","WTL",3,"+","pooled","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0705-009","F0705","WTL","WTL",3,"+","pooled","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0705-010","F0705","WTL","WTL",3,"+","pooled","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0705-011","F0705","MLS","MLS",4,"+","pooled","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0718-001","F0718","PWMILS","PWMILS",2,"-","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0718-002","F0718","20-item MedLitRxSE","20-item MedLitRxSE",4,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0723-001","F0723","CBCL","CBCL",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0723-002","F0723","TRF","TRF",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0723-003","F0723","CATS","CATS",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0723-004","F0723","IES","IES",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0723-005","F0723","CRIES-8","CRIES-8",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0723-006","F0723","PHQ-A","PHQ-A",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0723-007","F0723","CPDS (Burundi)","CPDS (Burundi)",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0723-008","F0723","CPDS (Indonesia)","CPDS (Indonesia)",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0723-009","F0723","CPDS (Sri Lanka)","CPDS (Sri Lanka)",1,"+","result","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F0724-001","F0724","CSHQ (Chinese version)","CSHQ",3,"+","result","sufficient","sufficient","indeterminate","insufficient",,TRUE
+"F0738-001","F0738","SCLS","SCLS",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0739-001","F0739","FACIT-Sp","FACIT-Sp",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0739-002","F0739","WHOQOL-OLD","WHOQOL-OLD",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0739-003","F0739","Positive VOL (Portuguese)","Positive VOL (Portuguese)",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0739-004","F0739","Positive VOL (Japanese model)","Positive VOL (Japanese model)",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0739-005","F0739","PGCMS (Turkish)","PGCMS (Turkish)",2,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0739-006","F0739","Herth Hope Index","Herth Hope Index",2,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0739-007","F0739","SF-36","SF-36",3,"","","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0739-008","F0739","SF-36","SF-36",3,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0739-009","F0739","SF-36","SF-36",2,"","","sufficient","sufficient","indeterminate","insufficient",,TRUE
+"F0739-010","F0739","SF-36","SF-36",2,"","","sufficient","sufficient","indeterminate","insufficient",,TRUE
+"F0739-011","F0739","SF-36","SF-36",2,"","","sufficient","sufficient","indeterminate","insufficient",,TRUE
+"F0739-012","F0739","SF-36","SF-36",2,"","","sufficient","sufficient","indeterminate","insufficient",,TRUE
+"F0739-013","F0739","Flourishing Scale (Russian)","Flourishing Scale (Russian)",3,"","","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0739-014","F0739","NHAS (Chinese)","NHAS (Chinese)",3,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0739-015","F0739","CASP-19","CASP-19",1,"","","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F0740-001","F0740","WeeFIM","WeeFIM",3,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0744-001","F0744","FB-seq (false-belief sequencing)","FB-seq",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0744-002","F0744","MS (mentalizing stories)","MS",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0748-001","F0748","ORCA","ORCA",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0749-001","F0749","SMBM (Hebrew)","SMBM",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0749-002","F0749","SMBM (Hebrew)","SMBM",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0749-003","F0749","SMBM (French)","SMBM",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0749-004","F0749","SMBM (Chinese)","SMBM",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0749-005","F0749","SMBM (Chinese)","SMBM",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0749-006","F0749","SMBM (Chinese)","SMBM",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0749-007","F0749","SMBM (Swedish)","SMBM",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0749-008","F0749","SMBM (Swedish)","SMBM",2,"?","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0770-001","F0770","Adolescent social capital instrument (Carrillo-Álvarez 2019 [29])","Adolescent social capital instrument (Carrillo-Álvarez 2019 [29])",1,"","","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0770-002","F0770","Adolescent social capital instrument (Cordova 2019 [30])","Adolescent social capital instrument (Cordova 2019 [30])",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0770-003","F0770","Adolescent social capital instrument (Ergün 2018 [32])","Adolescent social capital instrument (Ergün 2018 [32])",2,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0770-004","F0770","Adolescent social capital instrument (Geraee 2019 [33])","Adolescent social capital instrument (Geraee 2019 [33])",2,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0770-005","F0770","Adolescent social capital instrument (Magson 2014 [38])","Adolescent social capital instrument (Magson 2014 [38])",2,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0770-006","F0770","Adolescent social capital instrument (Paiva 2014 [40])","Adolescent social capital instrument (Paiva 2014 [40])",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0770-007","F0770","Adolescent social capital instrument (Ryan & Junker 2019 [42])","Adolescent social capital instrument (Ryan & Junker 2019 [42])",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0770-008","F0770","Adolescent social capital instrument (Ryan & Junker 2019 [42])","Adolescent social capital instrument (Ryan & Junker 2019 [42])",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0791-001","F0791","MSSM scale-revised","MSSM scale-revised",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0791-002","F0791","MSSM scale-revised","MSSM scale-revised",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0791-003","F0791","MSSM-2 scale","MSSM-2 scale",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0797-001","F0797","CDAQ-B","CDAQ-B",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0797-002","F0797","CDAQ-B","CDAQ-B",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0797-003","F0797","CDAQ-B","CDAQ-B",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0797-004","F0797","CDAQ-B","CDAQ-B",1,"?","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0797-005","F0797","CARPA","CARPA",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0797-006","F0797","ECVPA","ECVPA",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0797-007","F0797","CDAQ-C","CDAQ-C",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0797-008","F0797","CPAS","CPAS",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0797-009","F0797","TCDVI","TCDVI",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0797-010","F0797","E-VPA","E-VPA",1,"?","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0797-011","F0797","CQ_AS","CQ_AS",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0797-012","F0797","EDA","EDA",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0797-013","F0797","PDCAS","PDCAS",1,"?","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0824-001","F0824","AS","AS",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0824-002","F0824","ASQ-SF","ASQ-SF",1,"+","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0824-003","F0824","ANQ mother","ANQ",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0824-004","F0824","ANQ father","ANQ",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0824-005","F0824","ANQ romantic partner","ANQ",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0824-006","F0824","BAAC","BAAC",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0824-007","F0824","CAMIR","CAMIR",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0824-008","F0824","CAMIR","CAMIR",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0824-009","F0824","CAMIR-R","CAMIR-R",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0824-010","F0824","CATS (Greek)","CATS",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0824-011","F0824","PAS maternal","PAS",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0824-012","F0824","PAS paternal","PAS",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0824-013","F0824","PAS maternal","PAS",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0824-014","F0824","PAS paternal","PAS",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0824-015","F0824","PTI-ASS","PTI-ASS",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0824-016","F0824","RSQ (Danish)","RSQ",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0824-017","F0824","RSQ (Danish)","RSQ",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0824-018","F0824","RSQ","RSQ",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0824-019","F0824","RSQ","RSQ",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0824-020","F0824","RSQ","RSQ",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0824-021","F0824","RSQ","RSQ",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0832-001","F0832","CCVUQ (Chinese)","CCVUQ (Chinese)",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0849-001","F0849","MMSE (Swahili)","MMSE",3,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0849-002","F0849","MoCA (Swahili)","MoCA",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0852-002","F0852","Hospital work-environment instrument (Friedberg, Rodriguez [57])","Hospital work-environment instrument (Friedberg, Rodriguez [57])",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0852-003","F0852","Hospital work-environment instrument (Gagnon, Paquet [58])","Hospital work-environment instrument (Gagnon, Paquet [58])",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0852-004","F0852","Hospital work-environment instrument (Kalisch, Lee [46])","Hospital work-environment instrument (Kalisch, Lee [46])",2,"-","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0852-005","F0852","Hospital work-environment instrument (Kennerly, Yap [47])","Hospital work-environment instrument (Kennerly, Yap [47])",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0852-006","F0852","Hospital work-environment instrument (Pena-Suarez, Muniz [64])","Hospital work-environment instrument (Pena-Suarez, Muniz [64])",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0852-007","F0852","Hospital work-environment instrument (Reid, Courtney [52])","Hospital work-environment instrument (Reid, Courtney [52])",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0852-009","F0852","Hospital work-environment instrument (Upenieks, Lee [69])","Hospital work-environment instrument (Upenieks, Lee [69])",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0894-001","F0894","Fidelity measure (Berkel 2018)","Berkel 2018 measure",3,"-","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0894-002","F0894","Fidelity measure (Giannotta 2019)","Giannotta 2019 measure",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0898-001","F0898","TCAQ-23","TCAQ",2,"","","sufficient","sufficient","insufficient","insufficient",FALSE,TRUE
+"F0898-002","F0898","TCAQ-25","TCAQ",2,"","","sufficient","sufficient","insufficient","insufficient",FALSE,TRUE
+"F0898-003","F0898","TCAQ-20","TCAQ",2,"","","sufficient","sufficient","insufficient","insufficient",FALSE,TRUE
+"F0911-001","F0911","MIQ-R","MIQ-RS",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0911-002","F0911","MIQ-R","MIQ-RS",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0911-003","F0911","MIQ-RS","MIQ-RS",2,"-","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0911-004","F0911","MIQ-RS (French)","MIQ-RS",3,"-","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0911-005","F0911","MIQ-3","MIQ-3",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0911-006","F0911","MIQ-3 (Polish)","MIQ-3",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0911-007","F0911","MIQ-3 (Slovenian)","MIQ-3",4,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0911-008","F0911","MIQ-3 (Turkish)","MIQ-3",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0911-009","F0911","MIQ-3 (French)","MIQ-3",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0911-010","F0911","MIQ-3 (Spanish)","MIQ-3",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0911-011","F0911","MIQ-C","MIQ-C",4,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0911-012","F0911","VMIQ-2","VMIQ-2",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0911-013","F0911","VMIQ-2","VMIQ-2",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0911-014","F0911","VMIQ-2 (German)","VMIQ-2",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0911-015","F0911","AIS (Spanish)","AIS (Spanish)",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0911-016","F0911","AIQ","AIQ",2,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0911-017","F0911","AIQ","AIQ",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0911-018","F0911","AIQ (Spanish)","AIQ (Spanish)",4,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0911-019","F0911","Psi-Q","Psi-Q",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0911-020","F0911","Psi-Q (Spanish)","Psi-Q (Spanish)",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0911-021","F0911","SIAQ precursor (Watt 2003)","SIAQ",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0911-022","F0911","SIAQ","SIAQ",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0911-023","F0911","SIAQ","SIAQ",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0911-024","F0911","SIAQ","SIAQ",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0911-025","F0911","VOSI","VOSI",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0911-026","F0911","OSIVQ","OSIVQ",2,"?","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0911-027","F0911","CAPIQ","CAPIQ",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0911-028","F0911","CAPIQ (Persian)","CAPIQ",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0911-029","F0911","EIQ","EIQ",2,"+","result","sufficient","sufficient","indeterminate","indeterminate",,TRUE
+"F0911-030","F0911","EIQ","EIQ",2,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F0911-031","F0911","EIQ (Spanish)","EIQ",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0911-032","F0911","SIQ (Turkish)","SIQ",4,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0911-033","F0911","SIQ (Spanish)","SIQ",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0911-034","F0911","SIQ-C","SIQ",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0911-035","F0911","SIQ-C","SIQ",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0911-036","F0911","SUIS","SUIS",3,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0911-037","F0911","SUIS","SUIS",3,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0911-038","F0911","SUIS (German)","SUIS",3,"-","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F0911-039","F0911","SUIS 17-item (German)","SUIS",3,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0911-040","F0911","SUIS (Japanese)","SUIS",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0943-001","F0943","BCIS","BCIS",2,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0943-002","F0943","SUMD (abbreviated, 9-item)","SUMD",2,"","","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0943-003","F0943","BIS","BIS",2,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0948-001","F0948","Q-LES-Q-SF","Q-LES-Q-SF",3,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0948-002","F0948","WHOQOL-BREF","WHOQOL-BREF",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0948-003","F0948","SF-36","SF-36",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0948-004","F0948","ALQoL-9","ALQoL-9",4,"","","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0948-005","F0948","ALQoL-9","ALQoL-9",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F0968-001","F0968","AS-HC","AS",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0968-002","F0968","AS-S","AS",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0983-001","F0983","Cognitive Functional Composite","CFC",3,"+","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F0983-002","F0983","ECog (Korean)","ECog Korean",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0989-001","F0989","EBPAS-36","EBPAS-36",1,"+/-","pooled","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0989-002","F0989","EBPAS-36","EBPAS-36",1,"+/-","pooled","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F0989-003","F0989","EBPP-S","EBPP-S",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F0989-004","F0989","MPAS (US)","MPAS",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0989-005","F0989","EBPPAS","EBPPAS",1,"+/-","pooled","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0989-006","F0989","EBPPAS-s","EBPPAS-s",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F0989-007","F0989","SE-EBP","SE-EBP",1,"+/-","pooled","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0989-008","F0989","HEAT","HEAT",1,"+","result","sufficient","sufficient","indeterminate","indeterminate",,FALSE
+"F0989-009","F0989","EBP-KABQ","EBP-KABQ",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0989-011","F0989","HS-EBP","HS-EBP",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F0989-012","F0989","EBPRS","EBPRS",3,"+","result","sufficient","sufficient","sufficient","sufficient",,FALSE
+"F0989-013","F0989","EBP2","EBP2",1,"+/-","pooled","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0989-014","F0989","ISP-D","ISP-D",1,"+","result","sufficient","sufficient","indeterminate","indeterminate",,FALSE
+"F0989-015","F0989","EBP-COQ Prof","EBP-COQ Prof",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0989-016","F0989","EBP-COQ Prof","EBP-COQ Prof",1,"-","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F0989-017","F0989","EBP-CBFRI","EBP-CBFRI",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F0997-001","F0997","MDF-Fibro-17","MDF-Fibro-17",2,"","","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F1000-001","F1000","MOS-SSS English 18-item","MOS-SSS English 18-item",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F1006-001","F1006","Flow in HCI","Flow in HCI",1,"","","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F1006-002","F1006","FSS","FSS",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F1006-003","F1006","FSS","FSS",3,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F1006-004","F1006","FSS","FSS",3,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F1006-005","F1006","FSS","FSS",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F1006-006","F1006","FSS","FSS",3,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F1006-007","F1006","FSS","FSS",3,"","","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F1006-008","F1006","FSS","FSS",4,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F1006-009","F1006","FSS","FSS",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F1006-010","F1006","FSS","FSS",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F1006-011","F1006","FSS Greek","FSS Greek [55]",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F1006-012","F1006","FSS Greek","FSS Greek [56]",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F1006-013","F1006","FSS Greek","FSS Greek [56]",4,"","","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F1006-014","F1006","FSS Spanish","FSS Spanish",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F1006-015","F1006","FSS Spanish","FSS Spanish",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F1006-016","F1006","SFS","SFS",4,"","","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F1006-017","F1006","SFS","SFS",4,"","","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F1006-018","F1006","SFS","SFS",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F1006-019","F1006","CFS","CFS",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F1006-020","F1006","CFS","CFS",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F1006-021","F1006","CFS","CFS",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F1006-022","F1006","CFS","CFS",4,"","","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F1006-023","F1006","FSSOT","FSSOT",3,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F1023-001","F1023","SAQ","SAQ",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F1023-002","F1023","SAQ","SAQ",2,"","","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F1086-001","F1086","SCNS-SF (French)","SCNS-SF",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F1086-002","F1086","NEQ (Italian)","NEQ",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F1086-003","F1086","NEQ (Italian)","NEQ",3,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F1097-001","F1097","A-IADL-Q-SV (German)","A-IADL-Q-SV",2,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F1097-002","F1097","Lawton IADL Scale (Sinhala)","Lawton IADL [70]",2,"+","result","sufficient","sufficient","sufficient","sufficient",,FALSE
+"F1124-001","F1124","DQOL","DQOL",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F1124-002","F1124","ISE","ISE",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F1124-003","F1124","LSNS-R","LSNS-R",2,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F1124-004","F1124","Nursing Home Care-Related Quality of Life Scale","Nursing Home Care-Related Quality of Life Scale",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F1124-005","F1124","RISE","RISE",3,"+","result","sufficient","sufficient","sufficient","insufficient",FALSE,TRUE
+"F1124-006","F1124","RISE","RISE",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F1124-007","F1124","Time Use (MDS)","Time Use (MDS)",0,"-","result","indeterminate","indeterminate","indeterminate","indeterminate",,FALSE
+"F1126-001","F1126","MMCL","MMCL",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F1126-002","F1126","WHO-5","WHO-5",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F1126-003","F1126","EPDS","EPDS",1,"+","result","sufficient","indeterminate","sufficient","indeterminate",TRUE,FALSE
+"F1126-004","F1126","CBTS","CBTS",2,"+","result","sufficient","sufficient","sufficient","indeterminate",FALSE,TRUE
+"F1126-005","F1126","CBTS","CBTS",1,"?","result","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F1126-006","F1126","CBTS","CBTS",1,"?","result","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F1126-007","F1126","CBTS","CBTS",1,"?","result","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F1126-008","F1126","MSPSS","MSPSS",2,"-","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F1126-009","F1126","PQOL","PQOL",4,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,TRUE
+"F1126-010","F1126","13-PAFS","13-PAFS",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F1126-011","F1126","IFSAC","IFSAC",1,"-","result","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F1126-012","F1126","PDSS","PDSS",3,"-","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F1126-013","F1126","PDSS (Spanish)","PDSS",3,"-","result","sufficient","sufficient","indeterminate","insufficient",FALSE,TRUE
+"F1126-014","F1126","PDPSI","PDPSI",1,"+","result","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F1126-016","F1126","Barkin Index (BIMF)","Barkin Index of Maternal Functioning",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE
+"F1126-017","F1126","Barkin Index (BIMF)","Barkin Index of Maternal Functioning",2,"+","result","sufficient","insufficient","sufficient","insufficient",TRUE,TRUE
+"F1126-018","F1126","PDS","PDS",1,"?","result","insufficient","indeterminate","insufficient","indeterminate",FALSE,TRUE
+"F1126-019","F1126","PBQ","PBQ",2,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F1126-020","F1126","PBQ","PBQ",1,"+","result","insufficient","insufficient","insufficient","indeterminate",,TRUE
+"F1126-021","F1126","PBQ","PBQ",1,"+","result","sufficient","sufficient","sufficient","indeterminate",,FALSE
+"F1126-022","F1126","MOS-SSS","MOS-SSS",2,"+","result","insufficient","insufficient","insufficient","insufficient",FALSE,TRUE
+"F1126-023","F1126","PPSS-S","PPSS-S",2,"+","result","sufficient","sufficient","sufficient","sufficient",FALSE,FALSE

@@ -1,0 +1,12 @@
+source,stage,n
+PubMed search,records identified,1216
+COSMIN database export,records identified,388
+both sources,duplicates removed,213
+both sources,records screened on title and abstract,1391
+title and abstract,excluded: published before 2018,167
+title and abstract,excluded: not a systematic review,26
+title and abstract,excluded: measurement properties not evaluated,20
+title and abstract,excluded: retracted,1
+title and abstract,records passed to the sampling frame,1177
+frame,removed: publication year before 2018 found from DOI or URL,57
+frame,records in the sampling frame,1120

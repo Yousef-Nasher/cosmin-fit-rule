@@ -1,0 +1,7 @@
+Exploratory (not registered): reviews that state the criterion, by publication period
+Stated = wording coded disjunctive, conjunctive or mixed; Wilson 95% CI
+
+  2018-2024  22/67 = 32.8% (95% CI 22.8% to 44.7%)
+  2025-2026   9/30 = 30.0% (95% CI 16.7% to 47.9%)
+
+  Fisher's exact test: p = 0.82

@@ -1,0 +1,12 @@
+ml_cont         N= 100  false-fail  1.9  false-pass 48.9  RMSEA-changes 229
+ml_cont         N= 200  false-fail  0.0  false-pass 61.5  RMSEA-changes 0
+ml_cont         N= 500  false-fail  0.0  false-pass 68.8  RMSEA-changes 0
+ml_cont         N=1000  false-fail  0.0  false-pass 71.8  RMSEA-changes 0
+ml_ord_as_cont  N= 100  false-fail  2.5  false-pass 54.6  RMSEA-changes 312
+ml_ord_as_cont  N= 200  false-fail  0.0  false-pass 70.3  RMSEA-changes 0
+ml_ord_as_cont  N= 500  false-fail  0.0  false-pass 79.5  RMSEA-changes 0
+ml_ord_as_cont  N=1000  false-fail  0.0  false-pass 81.3  RMSEA-changes 0
+wlsmv_ord       N= 100  false-fail  5.2  false-pass 50.5  RMSEA-changes 870
+wlsmv_ord       N= 200  false-fail  0.0  false-pass 63.0  RMSEA-changes 0
+wlsmv_ord       N= 500  false-fail  0.0  false-pass 67.5  RMSEA-changes 0
+wlsmv_ord       N=1000  false-fail  0.0  false-pass 69.1  RMSEA-changes 0

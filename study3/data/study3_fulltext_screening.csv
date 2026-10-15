@@ -1,0 +1,1121 @@
+frame_id,year_stratum,draw_list,rank,fulltext_status,reason
+F0881,2018,drawn,1,excluded,no numeric CFA fit index in main text or supplementary files
+F0828,2018,drawn,2,excluded,no numeric CFA fit index in main text or supplementary files
+F0731,2018,drawn,3,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0458,2018,drawn,4,excluded,no confirmatory factor analysis or structural validity results
+F0463,2018,drawn,5,excluded,no numeric CFA fit index in main text or supplementary files
+F0993,2018,drawn,6,excluded,no confirmatory factor analysis or structural validity results
+F0992,2018,replacement queue,1,excluded,no confirmatory factor analysis or structural validity results
+F0882,2018,replacement queue,2,excluded,no numeric CFA fit index in main text or supplementary files
+F0835,2018,replacement queue,3,excluded,structural validity assessed by exploratory analysis only
+F0107,2018,replacement queue,4,full text not obtained,
+F0425,2018,replacement queue,5,full text not obtained,
+F0388,2018,replacement queue,6,excluded,no confirmatory factor analysis or structural validity results
+F0505,2018,replacement queue,7,excluded,no confirmatory factor analysis or structural validity results
+F0064,2018,replacement queue,8,excluded,no numeric CFA fit index in main text or supplementary files
+F1173,2018,replacement queue,9,excluded,COSMIN criteria not applied to rate measurement properties
+F0970,2018,replacement queue,10,excluded,no numeric CFA fit index in main text or supplementary files
+F1078,2018,replacement queue,11,excluded,COSMIN criteria not applied to rate measurement properties
+F0709,2018,replacement queue,12,excluded,no confirmatory factor analysis or structural validity results
+F0484,2018,replacement queue,13,included,
+F1141,2018,replacement queue,14,excluded,no numeric CFA fit index in main text or supplementary files
+F0871,2018,replacement queue,15,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0459,2018,replacement queue,16,excluded,no numeric CFA fit index in main text or supplementary files
+F0761,2018,replacement queue,17,full text not obtained,
+F1117,2018,replacement queue,18,excluded,COSMIN criteria not applied to rate measurement properties
+F0299,2018,replacement queue,19,excluded,no numeric CFA fit index in main text or supplementary files
+F0235,2018,replacement queue,20,full text not obtained,
+F1149,2018,replacement queue,21,excluded,no numeric CFA fit index in main text or supplementary files
+F1156,2018,replacement queue,22,excluded,COSMIN criteria not applied to rate measurement properties
+F0125,2018,replacement queue,23,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0144,2018,replacement queue,24,full text not obtained,
+F0961,2018,replacement queue,25,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0554,2018,replacement queue,26,full text not obtained,
+F0390,2018,replacement queue,27,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0555,2018,replacement queue,28,excluded,no numeric CFA fit index in main text or supplementary files
+F0604,2018,replacement queue,29,included,
+F0169,2018,replacement queue,30,excluded,no confirmatory factor analysis or structural validity results
+F0138,2018,replacement queue,31,full text not obtained,
+F0320,2018,replacement queue,32,included,
+F0309,2018,replacement queue,33,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0520,2018,replacement queue,34,full text not obtained,
+F0639,2018,replacement queue,35,excluded,published before 2018 (outside the frame)
+F0410,2018,replacement queue,36,excluded,no confirmatory factor analysis or structural validity results
+F0640,2018,replacement queue,37,full text not obtained,
+F0821,2018,replacement queue,38,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F1072,2018,replacement queue,39,full text not obtained,
+F0483,2018,replacement queue,40,excluded,no numeric CFA fit index in main text or supplementary files
+F0971,2018,replacement queue,41,full text not obtained,
+F0464,2018,replacement queue,42,full text not obtained,
+F0130,2018,replacement queue,43,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0846,2018,replacement queue,44,excluded,no numeric CFA fit index in main text or supplementary files
+F0338,2018,replacement queue,45,excluded,no numeric CFA fit index in main text or supplementary files
+F0793,2018,replacement queue,46,full text not obtained,
+F0384,2018,replacement queue,47,excluded,no confirmatory factor analysis or structural validity results
+F0649,2018,replacement queue,48,included,
+F0784,2018,replacement queue,49,full text not obtained,
+F0090,2018,replacement queue,50,excluded,no numeric CFA fit index in main text or supplementary files
+F0290,2018,replacement queue,51,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0406,2018,replacement queue,52,excluded,no numeric CFA fit index in main text or supplementary files
+F0033,2018,replacement queue,53,excluded,no confirmatory factor analysis or structural validity results
+F0568,2018,replacement queue,54,excluded,no numeric CFA fit index in main text or supplementary files
+F0063,2018,replacement queue,55,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0093,2018,replacement queue,56,full text not obtained,
+F0707,2018,replacement queue,57,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0973,2018,replacement queue,58,full text not obtained,
+F0656,2018,replacement queue,59,full text not obtained,
+F0664,2019,drawn,7,excluded,no confirmatory factor analysis or structural validity results
+F0820,2019,drawn,8,excluded,COSMIN criteria not applied to rate measurement properties
+F0542,2019,drawn,9,full text not obtained,
+F0178,2019,drawn,10,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0359,2019,drawn,11,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0079,2019,drawn,12,excluded,no numeric CFA fit index in main text or supplementary files
+F0006,2019,drawn,13,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F1131,2019,replacement queue,1,excluded,COSMIN criteria not applied to rate measurement properties
+F0210,2019,replacement queue,2,full text not obtained,
+F0553,2019,replacement queue,3,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0655,2019,replacement queue,4,excluded,no numeric CFA fit index in main text or supplementary files
+F0869,2019,replacement queue,5,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0969,2019,replacement queue,6,excluded,no confirmatory factor analysis or structural validity results
+F0773,2019,replacement queue,7,full text not obtained,
+F0898,2019,replacement queue,8,included,
+F0503,2019,replacement queue,9,excluded,no numeric CFA fit index in main text or supplementary files
+F0566,2019,replacement queue,10,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0095,2019,replacement queue,11,excluded,no confirmatory factor analysis or structural validity results
+F0750,2019,replacement queue,12,excluded,no confirmatory factor analysis or structural validity results
+F0899,2019,replacement queue,13,excluded,no confirmatory factor analysis or structural validity results
+F0546,2019,replacement queue,14,excluded,no confirmatory factor analysis or structural validity results
+F0399,2019,replacement queue,15,excluded,no numeric CFA fit index in main text or supplementary files
+F0238,2019,replacement queue,16,full text not obtained,
+F0191,2019,replacement queue,17,excluded,no confirmatory factor analysis or structural validity results
+F0959,2019,replacement queue,18,excluded,no confirmatory factor analysis or structural validity results
+F0502,2019,replacement queue,19,full text not obtained,
+F0198,2019,replacement queue,20,full text not obtained,
+F0037,2019,replacement queue,21,excluded,no numeric CFA fit index in main text or supplementary files
+F0311,2019,replacement queue,22,full text not obtained,
+F0058,2019,replacement queue,23,full text not obtained,
+F0856,2019,replacement queue,24,full text not obtained,
+F0693,2019,replacement queue,25,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0201,2019,replacement queue,26,full text not obtained,
+F0923,2019,replacement queue,27,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0504,2019,replacement queue,28,full text not obtained,
+F1053,2019,replacement queue,29,excluded,COSMIN criteria not applied to rate measurement properties
+F0545,2019,replacement queue,30,included,
+F1069,2019,replacement queue,31,excluded,COSMIN criteria not applied to rate measurement properties
+F0706,2019,replacement queue,32,excluded,no numeric CFA fit index in main text or supplementary files
+F0987,2019,replacement queue,33,excluded,no numeric CFA fit index in main text or supplementary files
+F0409,2019,replacement queue,34,excluded,structural validity assessed by exploratory analysis only
+F0329,2019,replacement queue,35,excluded,no confirmatory factor analysis or structural validity results
+F0924,2019,replacement queue,36,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0002,2019,replacement queue,37,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0845,2019,replacement queue,38,full text not obtained,
+F0360,2019,replacement queue,39,included,
+F1068,2019,replacement queue,40,excluded,COSMIN criteria not applied to rate measurement properties
+F0665,2019,replacement queue,41,excluded,no confirmatory factor analysis or structural validity results
+F0603,2019,replacement queue,42,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0029,2019,replacement queue,43,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0481,2019,replacement queue,44,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0154,2019,replacement queue,45,excluded,no numeric CFA fit index in main text or supplementary files
+F0073,2019,replacement queue,46,excluded,no numeric CFA fit index in main text or supplementary files
+F0648,2019,replacement queue,47,excluded,no confirmatory factor analysis or structural validity results
+F1115,2019,replacement queue,48,excluded,no numeric CFA fit index in main text or supplementary files
+F0543,2019,replacement queue,49,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F1100,2019,replacement queue,50,excluded,no numeric CFA fit index in main text or supplementary files
+F0800,2019,replacement queue,51,full text not obtained,
+F0342,2019,replacement queue,52,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0482,2019,replacement queue,53,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0960,2019,replacement queue,54,full text not obtained,
+F0708,2019,replacement queue,55,full text not obtained,
+F0811,2019,replacement queue,56,full text not obtained,
+F0897,2019,replacement queue,57,excluded,no numeric CFA fit index in main text or supplementary files
+F0518,2019,replacement queue,58,included,
+F1086,2019,replacement queue,59,included,
+F1065,2019,replacement queue,60,excluded,COSMIN criteria not applied to rate measurement properties
+F0528,2019,replacement queue,61,full text not obtained,
+F0767,2019,replacement queue,62,included,
+F0624,2019,replacement queue,63,excluded,no numeric CFA fit index in main text or supplementary files
+F0673,2019,replacement queue,64,excluded,no numeric CFA fit index in main text or supplementary files
+F0827,2019,replacement queue,65,excluded,no numeric CFA fit index in main text or supplementary files
+F0623,2019,replacement queue,66,excluded,no confirmatory factor analysis or structural validity results
+F0544,2019,replacement queue,67,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0567,2019,replacement queue,68,full text not obtained,
+F0344,2019,replacement queue,69,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0730,2019,replacement queue,70,full text not obtained,
+F0083,2019,replacement queue,71,full text not obtained,
+F0963,2019,replacement queue,72,full text not obtained,
+F0108,2020,drawn,14,full text not obtained,
+F0519,2020,drawn,15,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0635,2020,drawn,16,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0760,2020,drawn,17,excluded,no numeric CFA fit index in main text or supplementary files
+F0895,2020,drawn,18,excluded,no confirmatory factor analysis or structural validity results
+F0782,2020,drawn,19,excluded,no confirmatory factor analysis or structural validity results
+F1098,2020,replacement queue,1,excluded,no numeric CFA fit index in main text or supplementary files
+F0866,2020,replacement queue,2,full text not obtained,
+F1023,2020,replacement queue,3,included,
+F0218,2020,replacement queue,4,full text not obtained,
+F0913,2020,replacement queue,5,excluded,no numeric CFA fit index in main text or supplementary files
+F0799,2020,replacement queue,6,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0674,2020,replacement queue,7,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0541,2020,replacement queue,8,excluded,no confirmatory factor analysis or structural validity results
+F0564,2020,replacement queue,9,full text not obtained,
+F0059,2020,replacement queue,10,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0636,2020,replacement queue,11,excluded,no confirmatory factor analysis or structural validity results
+F0638,2020,replacement queue,12,full text not obtained,
+F0121,2020,replacement queue,13,included,
+F0405,2020,replacement queue,14,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F1066,2020,replacement queue,15,excluded,COSMIN criteria not applied to rate measurement properties
+F0152,2020,replacement queue,16,excluded,no numeric CFA fit index in main text or supplementary files
+F1013,2020,replacement queue,17,excluded,no confirmatory factor analysis or structural validity results
+F0864,2020,replacement queue,18,excluded,no numeric CFA fit index in main text or supplementary files
+F1119,2020,replacement queue,19,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0703,2020,replacement queue,20,excluded,COSMIN criteria not applied to rate measurement properties
+F0737,2020,replacement queue,21,excluded,no confirmatory factor analysis or structural validity results
+F0245,2020,replacement queue,22,excluded,structural validity assessed by exploratory analysis only
+F0501,2020,replacement queue,23,excluded,no numeric CFA fit index in main text or supplementary files
+F0729,2020,replacement queue,24,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0436,2020,replacement queue,25,full text not obtained,
+F0408,2020,replacement queue,26,excluded,COSMIN criteria not applied to rate measurement properties
+F0834,2020,replacement queue,27,excluded,no numeric CFA fit index in main text or supplementary files
+F0653,2020,replacement queue,28,included,
+F0395,2020,replacement queue,29,excluded,no numeric CFA fit index in main text or supplementary files
+F0691,2020,replacement queue,30,excluded,no numeric CFA fit index in main text or supplementary files
+F0580,2020,replacement queue,31,full text not obtained,
+F0637,2020,replacement queue,32,full text not obtained,
+F0654,2020,replacement queue,33,full text not obtained,
+F0936,2020,replacement queue,34,excluded,structural validity assessed by exploratory analysis only
+F0163,2020,replacement queue,35,excluded,no numeric CFA fit index in main text or supplementary files
+F0740,2020,replacement queue,36,included,
+F0061,2020,replacement queue,37,full text not obtained,
+F0419,2020,replacement queue,38,full text not obtained,
+F0766,2020,replacement queue,39,excluded,no confirmatory factor analysis or structural validity results
+F1088,2020,replacement queue,40,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0692,2020,replacement queue,41,excluded,COSMIN criteria not applied to rate measurement properties
+F0951,2020,replacement queue,42,excluded,no confirmatory factor analysis or structural validity results
+F0672,2020,replacement queue,43,full text not obtained,
+F1062,2020,replacement queue,44,full text not obtained,
+F0480,2020,replacement queue,45,excluded,no numeric CFA fit index in main text or supplementary files
+F1144,2020,replacement queue,46,excluded,no numeric CFA fit index in main text or supplementary files
+F1070,2020,replacement queue,47,excluded,COSMIN criteria not applied to rate measurement properties
+F1090,2020,replacement queue,48,excluded,COSMIN criteria not applied to rate measurement properties
+F0040,2020,replacement queue,49,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0704,2020,replacement queue,50,excluded,no numeric CFA fit index in main text or supplementary files
+F0852,2020,replacement queue,51,included,
+F0500,2020,replacement queue,52,full text not obtained,
+F0739,2020,replacement queue,53,included,
+F0685,2020,replacement queue,54,not reached,
+F0034,2020,replacement queue,55,not reached,
+F0565,2020,replacement queue,56,not reached,
+F0854,2020,replacement queue,57,not reached,
+F0683,2020,replacement queue,58,not reached,
+F0251,2020,replacement queue,59,not reached,
+F0517,2020,replacement queue,60,not reached,
+F0293,2020,replacement queue,61,not reached,
+F1047,2020,replacement queue,62,not reached,
+F0663,2020,replacement queue,63,not reached,
+F0853,2020,replacement queue,64,not reached,
+F0025,2020,replacement queue,65,not reached,
+F0229,2020,replacement queue,66,not reached,
+F1052,2021,drawn,20,full text not obtained,
+F0705,2021,drawn,21,included,
+F0323,2021,drawn,22,included,
+F0479,2021,drawn,23,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0802,2021,drawn,24,full text not obtained,
+F0577,2021,drawn,25,excluded,no confirmatory factor analysis or structural validity results
+F0046,2021,drawn,26,excluded,no numeric CFA fit index in main text or supplementary files
+F0718,2021,drawn,27,included,
+F0810,2021,drawn,28,excluded,no confirmatory factor analysis or structural validity results
+F0383,2021,drawn,29,excluded,no numeric CFA fit index in main text or supplementary files
+F0217,2021,drawn,30,full text not obtained,
+F0744,2021,drawn,31,included,
+F0069,2021,replacement queue,1,excluded,no numeric CFA fit index in main text or supplementary files
+F0140,2021,replacement queue,2,full text not obtained,
+F1138,2021,replacement queue,3,full text not obtained,
+F0307,2021,replacement queue,4,included,
+F0578,2021,replacement queue,5,excluded,no confirmatory factor analysis or structural validity results
+F1006,2021,replacement queue,6,included,
+F0808,2021,replacement queue,7,full text not obtained,
+F0538,2021,replacement queue,8,full text not obtained,
+F1080,2021,replacement queue,9,full text not obtained,
+F0777,2021,replacement queue,10,full text not obtained,
+F0880,2021,replacement queue,11,full text not obtained,
+F1008,2021,replacement queue,12,full text not obtained,
+F1111,2021,replacement queue,13,excluded,no numeric CFA fit index in main text or supplementary files
+F0615,2021,replacement queue,14,full text not obtained,
+F0894,2021,replacement queue,15,included,
+F0019,2021,replacement queue,16,full text not obtained,
+F1120,2021,replacement queue,17,excluded,COSMIN criteria not applied to rate measurement properties
+F1150,2021,replacement queue,18,excluded,COSMIN criteria not applied to rate measurement properties
+F0662,2021,replacement queue,19,excluded,no confirmatory factor analysis or structural validity results
+F1172,2021,replacement queue,20,excluded,COSMIN criteria not applied to rate measurement properties
+F0417,2021,replacement queue,21,full text not obtained,
+F0499,2021,replacement queue,22,full text not obtained,
+F0164,2021,replacement queue,23,included,
+F1118,2021,replacement queue,24,excluded,structural validity assessed by exploratory analysis only
+F0009,2021,replacement queue,25,full text not obtained,
+F0004,2021,replacement queue,26,excluded,no confirmatory factor analysis or structural validity results
+F0306,2021,replacement queue,27,included,
+F0165,2021,replacement queue,28,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0324,2021,replacement queue,29,included,
+F0690,2021,replacement queue,30,excluded,no numeric CFA fit index in main text or supplementary files
+F0331,2021,replacement queue,31,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F1159,2021,replacement queue,32,excluded,no numeric CFA fit index in main text or supplementary files
+F0115,2021,replacement queue,33,excluded,no numeric CFA fit index in main text or supplementary files
+F1166,2021,replacement queue,34,excluded,no numeric CFA fit index in main text or supplementary files
+F0001,2021,replacement queue,35,full text not obtained,
+F0392,2021,replacement queue,36,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0588,2021,replacement queue,37,excluded,no numeric CFA fit index in main text or supplementary files
+F0863,2021,replacement queue,38,excluded,structural validity assessed by exploratory analysis only
+F0825,2021,replacement queue,39,excluded,no confirmatory factor analysis or structural validity results
+F0348,2021,replacement queue,40,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0968,2021,replacement queue,41,included,
+F0912,2021,replacement queue,42,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0591,2021,replacement queue,43,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0364,2021,replacement queue,44,excluded,no numeric CFA fit index in main text or supplementary files
+F0269,2021,replacement queue,45,excluded,structural validity assessed by exploratory analysis only
+F0622,2021,replacement queue,46,excluded,no confirmatory factor analysis or structural validity results
+F0149,2021,replacement queue,47,full text not obtained,
+F0647,2021,replacement queue,48,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0182,2021,replacement queue,49,excluded,no numeric CFA fit index in main text or supplementary files
+F1129,2021,replacement queue,50,full text not obtained,
+F0539,2021,replacement queue,51,included,
+F0160,2021,replacement queue,52,not reached,
+F0819,2021,replacement queue,53,not reached,
+F0702,2021,replacement queue,54,not reached,
+F0771,2021,replacement queue,55,not reached,
+F0246,2021,replacement queue,56,not reached,
+F0295,2021,replacement queue,57,not reached,
+F0220,2021,replacement queue,58,not reached,
+F0031,2021,replacement queue,59,not reached,
+F0579,2021,replacement queue,60,not reached,
+F0086,2021,replacement queue,61,not reached,
+F0155,2021,replacement queue,62,not reached,
+F0056,2021,replacement queue,63,not reached,
+F0634,2021,replacement queue,64,not reached,
+F0196,2021,replacement queue,65,not reached,
+F0478,2021,replacement queue,66,not reached,
+F0809,2021,replacement queue,67,not reached,
+F0621,2021,replacement queue,68,not reached,
+F0792,2021,replacement queue,69,not reached,
+F1143,2021,replacement queue,70,not reached,
+F0356,2021,replacement queue,71,not reached,
+F0173,2021,replacement queue,72,not reached,
+F0589,2021,replacement queue,73,not reached,
+F0590,2021,replacement queue,74,not reached,
+F0335,2021,replacement queue,75,not reached,
+F0806,2021,replacement queue,76,not reached,
+F0868,2021,replacement queue,77,not reached,
+F1058,2021,replacement queue,78,not reached,
+F0260,2021,replacement queue,79,not reached,
+F0728,2021,replacement queue,80,not reached,
+F0332,2021,replacement queue,81,not reached,
+F0457,2021,replacement queue,82,not reached,
+F0684,2021,replacement queue,83,not reached,
+F0326,2021,replacement queue,84,not reached,
+F0172,2021,replacement queue,85,not reached,
+F0187,2021,replacement queue,86,not reached,
+F0826,2021,replacement queue,87,not reached,
+F0088,2021,replacement queue,88,not reached,
+F0118,2021,replacement queue,89,not reached,
+F1127,2021,replacement queue,90,not reached,
+F1029,2021,replacement queue,91,not reached,
+F0772,2021,replacement queue,92,not reached,
+F0717,2021,replacement queue,93,not reached,
+F0106,2021,replacement queue,94,not reached,
+F0896,2021,replacement queue,95,not reached,
+F1125,2021,replacement queue,96,not reached,
+F0477,2021,replacement queue,97,not reached,
+F0225,2021,replacement queue,98,not reached,
+F0855,2021,replacement queue,99,not reached,
+F0171,2021,replacement queue,100,not reached,
+F0330,2021,replacement queue,101,not reached,
+F0612,2021,replacement queue,102,not reached,
+F1075,2021,replacement queue,103,not reached,
+F0620,2021,replacement queue,104,not reached,
+F0942,2021,replacement queue,105,not reached,
+F0177,2021,replacement queue,106,not reached,
+F0967,2021,replacement queue,107,not reached,
+F1076,2021,replacement queue,108,not reached,
+F0151,2021,replacement queue,109,not reached,
+F0613,2021,replacement queue,110,not reached,
+F0230,2021,replacement queue,111,not reached,
+F0200,2021,replacement queue,112,not reached,
+F0091,2021,replacement queue,113,not reached,
+F0129,2021,replacement queue,114,not reached,
+F0867,2021,replacement queue,115,not reached,
+F0798,2021,replacement queue,116,not reached,
+F1001,2021,replacement queue,117,not reached,
+F0011,2021,replacement queue,118,not reached,
+F0870,2021,replacement queue,119,not reached,
+F0540,2021,replacement queue,120,not reached,
+F1007,2021,replacement queue,121,not reached,
+F1126,2022,drawn,32,included,
+F0753,2022,drawn,33,excluded,no numeric CFA fit index in main text or supplementary files
+F0986,2022,drawn,34,excluded,no confirmatory factor analysis or structural validity results
+F1163,2022,drawn,35,excluded,COSMIN criteria not applied to rate measurement properties
+F0759,2022,drawn,36,excluded,no numeric CFA fit index in main text or supplementary files
+F0600,2022,drawn,37,excluded,no numeric CFA fit index in main text or supplementary files
+F0455,2022,drawn,38,full text not obtained,
+F1148,2022,drawn,39,excluded,no numeric CFA fit index in main text or supplementary files
+F0602,2022,drawn,40,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0415,2022,drawn,41,excluded,no confirmatory factor analysis or structural validity results
+F0334,2022,drawn,42,excluded,no numeric CFA fit index in main text or supplementary files
+F0174,2022,drawn,43,excluded,no numeric CFA fit index in main text or supplementary files
+F0652,2022,drawn,44,full text not obtained,
+F0407,2022,replacement queue,1,included,
+F0911,2022,replacement queue,2,included,
+F0068,2022,replacement queue,3,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0587,2022,replacement queue,4,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0026,2022,replacement queue,5,excluded,no numeric CFA fit index in main text or supplementary files
+F0865,2022,replacement queue,6,full text not obtained,
+F0791,2022,replacement queue,7,included,
+F0204,2022,replacement queue,8,full text not obtained,
+F0935,2022,replacement queue,9,full text not obtained,
+F0411,2022,replacement queue,10,full text not obtained,
+F0101,2022,replacement queue,11,excluded,no numeric CFA fit index in main text or supplementary files
+F0724,2022,replacement queue,12,included,
+F0536,2022,replacement queue,13,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0207,2022,replacement queue,14,full text not obtained,
+F0700,2022,replacement queue,15,excluded,no confirmatory factor analysis or structural validity results
+F0041,2022,replacement queue,16,full text not obtained,
+F0727,2022,replacement queue,17,full text not obtained,
+F0110,2022,replacement queue,18,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0377,2022,replacement queue,19,full text not obtained,
+F0473,2022,replacement queue,20,excluded,no numeric CFA fit index in main text or supplementary files
+F1147,2022,replacement queue,21,full text not obtained,
+F0283,2022,replacement queue,22,excluded,structural validity assessed by exploratory analysis only
+F0301,2022,replacement queue,23,full text not obtained,
+F0475,2022,replacement queue,24,excluded,no numeric CFA fit index in main text or supplementary files
+F1099,2022,replacement queue,25,full text not obtained,
+F0186,2022,replacement queue,26,full text not obtained,
+F0929,2022,replacement queue,27,excluded,no numeric CFA fit index in main text or supplementary files
+F0742,2022,replacement queue,28,full text not obtained,
+F0891,2022,replacement queue,29,full text not obtained,
+F0930,2022,replacement queue,30,excluded,no confirmatory factor analysis or structural validity results
+F0851,2022,replacement queue,31,full text not obtained,
+F0646,2022,replacement queue,32,full text not obtained,
+F0758,2022,replacement queue,33,excluded,no confirmatory factor analysis or structural validity results
+F0179,2022,replacement queue,34,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0738,2022,replacement queue,35,included,
+F0363,2022,replacement queue,36,excluded,COSMIN criteria not applied to rate measurement properties
+F0934,2022,replacement queue,37,excluded,no confirmatory factor analysis or structural validity results
+F0922,2022,replacement queue,38,excluded,no numeric CFA fit index in main text or supplementary files
+F0807,2022,replacement queue,39,excluded,no confirmatory factor analysis or structural validity results
+F0734,2022,replacement queue,40,excluded,no numeric CFA fit index in main text or supplementary files
+F0122,2022,replacement queue,41,full text not obtained,
+F1165,2022,replacement queue,42,excluded,COSMIN criteria not applied to rate measurement properties
+F0349,2022,replacement queue,43,excluded,no numeric CFA fit index in main text or supplementary files
+F0723,2022,replacement queue,44,included,
+F0394,2022,replacement queue,45,full text not obtained,
+F0497,2022,replacement queue,46,full text not obtained,
+F0576,2022,replacement queue,47,excluded,no numeric CFA fit index in main text or supplementary files
+F0688,2022,replacement queue,48,excluded,no numeric CFA fit index in main text or supplementary files
+F0797,2022,replacement queue,49,included,
+F0601,2022,replacement queue,50,included,
+F0379,2022,replacement queue,51,excluded,no confirmatory factor analysis or structural validity results
+F1027,2022,replacement queue,52,full text not obtained,
+F0153,2022,replacement queue,53,full text not obtained,
+F0045,2022,replacement queue,54,full text not obtained,
+F0380,2022,replacement queue,55,full text not obtained,
+F0561,2022,replacement queue,56,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F1174,2022,replacement queue,57,excluded,no numeric CFA fit index in main text or supplementary files
+F0611,2022,replacement queue,58,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0496,2022,replacement queue,59,full text not obtained,
+F0474,2022,replacement queue,60,excluded,structural validity assessed by exploratory analysis only
+F0563,2022,replacement queue,61,excluded,no numeric CFA fit index in main text or supplementary files
+F0614,2022,replacement queue,62,full text not obtained,
+F0844,2022,replacement queue,63,full text not obtained,
+F1039,2022,replacement queue,64,excluded,COSMIN criteria not applied to rate measurement properties
+F0398,2022,replacement queue,65,full text not obtained,
+F0170,2022,replacement queue,66,full text not obtained,
+F0862,2022,replacement queue,67,full text not obtained,
+F1167,2022,replacement queue,68,excluded,no numeric CFA fit index in main text or supplementary files
+F1064,2022,replacement queue,69,excluded,structural validity assessed by exploratory analysis only
+F0109,2022,replacement queue,70,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0850,2022,replacement queue,71,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0513,2022,replacement queue,72,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0495,2022,replacement queue,73,included,
+F0560,2022,replacement queue,74,excluded,no confirmatory factor analysis or structural validity results
+F0770,2022,replacement queue,75,included,
+F0552,2022,replacement queue,76,full text not obtained,
+F0833,2022,replacement queue,77,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0893,2022,replacement queue,78,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0494,2022,replacement queue,79,full text not obtained,
+F1084,2022,replacement queue,80,full text not obtained,
+F0124,2022,replacement queue,81,full text not obtained,
+F1042,2022,replacement queue,82,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0516,2022,replacement queue,83,excluded,no confirmatory factor analysis or structural validity results
+F0493,2022,replacement queue,84,full text not obtained,
+F1025,2022,replacement queue,85,excluded,no confirmatory factor analysis or structural validity results
+F0892,2022,replacement queue,86,excluded,no confirmatory factor analysis or structural validity results
+F0188,2022,replacement queue,87,excluded,no numeric CFA fit index in main text or supplementary files
+F0252,2022,replacement queue,88,full text not obtained,
+F0515,2022,replacement queue,89,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0991,2022,replacement queue,90,excluded,no numeric CFA fit index in main text or supplementary files
+F0689,2022,replacement queue,91,excluded,no confirmatory factor analysis or structural validity results
+F1106,2022,replacement queue,92,full text not obtained,
+F0776,2022,replacement queue,93,full text not obtained,
+F0131,2022,replacement queue,94,full text not obtained,
+F0537,2022,replacement queue,95,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0832,2022,replacement queue,96,included,
+F0161,2022,replacement queue,97,full text not obtained,
+F0842,2022,replacement queue,98,excluded,no confirmatory factor analysis or structural validity results
+F1046,2022,replacement queue,99,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0841,2022,replacement queue,100,full text not obtained,
+F0341,2022,replacement queue,101,full text not obtained,
+F0476,2022,replacement queue,102,full text not obtained,
+F0687,2022,replacement queue,103,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0824,2022,replacement queue,104,included,
+F0087,2022,replacement queue,105,not reached,
+F1018,2022,replacement queue,106,not reached,
+F0509,2022,replacement queue,107,not reached,
+F0522,2022,replacement queue,108,not reached,
+F0843,2022,replacement queue,109,not reached,
+F0166,2022,replacement queue,110,not reached,
+F0645,2022,replacement queue,111,not reached,
+F0277,2022,replacement queue,112,not reached,
+F0682,2022,replacement queue,113,not reached,
+F0456,2022,replacement queue,114,not reached,
+F0619,2022,replacement queue,115,not reached,
+F0314,2022,replacement queue,116,not reached,
+F0498,2022,replacement queue,117,not reached,
+F0373,2022,replacement queue,118,not reached,
+F0950,2022,replacement queue,119,not reached,
+F0265,2022,replacement queue,120,not reached,
+F0050,2022,replacement queue,121,not reached,
+F0276,2022,replacement queue,122,not reached,
+F0089,2022,replacement queue,123,not reached,
+F0378,2022,replacement queue,124,not reached,
+F0990,2022,replacement queue,125,not reached,
+F0462,2022,replacement queue,126,not reached,
+F0181,2022,replacement queue,127,not reached,
+F1113,2022,replacement queue,128,not reached,
+F1040,2022,replacement queue,129,not reached,
+F0321,2022,replacement queue,130,not reached,
+F1140,2023,drawn,45,excluded,no numeric CFA fit index in main text or supplementary files
+F0167,2023,drawn,46,excluded,no numeric CFA fit index in main text or supplementary files
+F0312,2023,drawn,47,full text not obtained,
+F0081,2023,drawn,48,excluded,no numeric CFA fit index in main text or supplementary files
+F1000,2023,drawn,49,included,
+F0618,2023,drawn,50,full text not obtained,
+F0559,2023,drawn,51,included,
+F0028,2023,drawn,52,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0339,2023,drawn,53,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0078,2023,drawn,54,full text not obtained,
+F0491,2023,drawn,55,excluded,structural validity assessed by exploratory analysis only
+F0111,2023,drawn,56,full text not obtained,
+F0818,2023,drawn,57,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0023,2023,replacement queue,1,excluded,no confirmatory factor analysis or structural validity results
+F0889,2023,replacement queue,2,full text not obtained,
+F0221,2023,replacement queue,3,included,
+F0104,2023,replacement queue,4,excluded,no numeric CFA fit index in main text or supplementary files
+F0287,2023,replacement queue,5,full text not obtained,
+F0962,2023,replacement queue,6,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0921,2023,replacement queue,7,excluded,no confirmatory factor analysis or structural validity results
+F0145,2023,replacement queue,8,full text not obtained,
+F0681,2023,replacement queue,9,excluded,no confirmatory factor analysis or structural validity results
+F0879,2023,replacement queue,10,excluded,no confirmatory factor analysis or structural validity results
+F0527,2023,replacement queue,11,full text not obtained,
+F0958,2023,replacement queue,12,excluded,no confirmatory factor analysis or structural validity results
+F1089,2023,replacement queue,13,full text not obtained,
+F0861,2023,replacement queue,14,excluded,no confirmatory factor analysis or structural validity results
+F0698,2023,replacement queue,15,excluded,no confirmatory factor analysis or structural validity results
+F0213,2023,replacement queue,16,full text not obtained,
+F0671,2023,replacement queue,17,full text not obtained,
+F0514,2023,replacement queue,18,excluded,no numeric CFA fit index in main text or supplementary files
+F0736,2023,replacement queue,19,full text not obtained,
+F0374,2023,replacement queue,20,excluded,no numeric CFA fit index in main text or supplementary files
+F0932,2023,replacement queue,21,excluded,no confirmatory factor analysis or structural validity results
+F0489,2023,replacement queue,22,included,
+F0263,2023,replacement queue,23,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0632,2023,replacement queue,24,full text not obtained,
+F0267,2023,replacement queue,25,excluded,no confirmatory factor analysis or structural validity results
+F0024,2023,replacement queue,26,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0669,2023,replacement queue,27,full text not obtained,
+F1036,2023,replacement queue,28,full text not obtained,
+F0817,2023,replacement queue,29,full text not obtained,
+F0192,2023,replacement queue,30,excluded,structural validity assessed by exploratory analysis only
+F0977,2023,replacement queue,31,excluded,no confirmatory factor analysis or structural validity results
+F0255,2023,replacement queue,32,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0989,2023,replacement queue,33,included,
+F0752,2023,replacement queue,34,excluded,no confirmatory factor analysis or structural validity results
+F0043,2023,replacement queue,35,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0084,2023,replacement queue,36,full text not obtained,
+F0907,2023,replacement queue,37,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0132,2023,replacement queue,38,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0206,2023,replacement queue,39,excluded,no confirmatory factor analysis or structural validity results
+F0135,2023,replacement queue,40,full text not obtained,
+F0699,2023,replacement queue,41,full text not obtained,
+F0271,2023,replacement queue,42,full text not obtained,
+F0296,2023,replacement queue,43,full text not obtained,
+F0492,2023,replacement queue,44,excluded,no confirmatory factor analysis or structural validity results
+F0790,2023,replacement queue,45,excluded,no numeric CFA fit index in main text or supplementary files
+F0586,2023,replacement queue,46,full text not obtained,
+F0805,2023,replacement queue,47,full text not obtained,
+F0014,2023,replacement queue,48,full text not obtained,
+F0713,2023,replacement queue,49,excluded,no confirmatory factor analysis or structural validity results
+F0461,2023,replacement queue,50,full text not obtained,
+F0085,2023,replacement queue,51,included,
+F0067,2023,replacement queue,52,included,
+F0947,2023,replacement queue,53,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0278,2023,replacement queue,54,excluded,no numeric CFA fit index in main text or supplementary files
+F0156,2023,replacement queue,55,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F1121,2023,replacement queue,56,included,
+F0670,2023,replacement queue,57,full text not obtained,
+F0840,2023,replacement queue,58,excluded,no numeric CFA fit index in main text or supplementary files
+F0957,2023,replacement queue,59,excluded,no numeric CFA fit index in main text or supplementary files
+F0176,2023,replacement queue,60,included,
+F0070,2023,replacement queue,61,full text not obtained,
+F1005,2023,replacement queue,62,full text not obtained,
+F0948,2023,replacement queue,63,included,
+F0103,2023,replacement queue,64,full text not obtained,
+F0985,2023,replacement queue,65,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0816,2023,replacement queue,66,excluded,no confirmatory factor analysis or structural validity results
+F1012,2023,replacement queue,67,full text not obtained,
+F0610,2023,replacement queue,68,excluded,no confirmatory factor analysis or structural validity results
+F0113,2023,replacement queue,69,included,
+F0071,2023,replacement queue,70,excluded,no confirmatory factor analysis or structural validity results
+F0120,2023,replacement queue,71,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0253,2023,replacement queue,72,full text not obtained,
+F1022,2023,replacement queue,73,excluded,no numeric CFA fit index in main text or supplementary files
+F0231,2023,replacement queue,74,included,
+F0716,2023,replacement queue,75,full text not obtained,
+F0933,2023,replacement queue,76,excluded,no confirmatory factor analysis or structural validity results
+F0027,2023,replacement queue,77,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0680,2023,replacement queue,78,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0582,2023,replacement queue,79,full text not obtained,
+F0512,2023,replacement queue,80,full text not obtained,
+F0012,2023,replacement queue,81,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0949,2023,replacement queue,82,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0599,2023,replacement queue,83,excluded,no confirmatory factor analysis or structural validity results
+F0668,2023,replacement queue,84,excluded,no confirmatory factor analysis or structural validity results
+F0890,2023,replacement queue,85,full text not obtained,
+F0032,2023,replacement queue,86,full text not obtained,
+F0319,2023,replacement queue,87,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F1063,2023,replacement queue,88,full text not obtained,
+F0535,2023,replacement queue,89,full text not obtained,
+F0877,2023,replacement queue,90,full text not obtained,
+F0302,2023,replacement queue,91,excluded,no numeric CFA fit index in main text or supplementary files
+F0839,2023,replacement queue,92,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0018,2023,replacement queue,93,excluded,no confirmatory factor analysis or structural validity results
+F0831,2023,replacement queue,94,full text not obtained,
+F0928,2023,replacement queue,95,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0123,2023,replacement queue,96,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0490,2023,replacement queue,97,included,
+F0510,2023,replacement queue,98,not reached,
+F0077,2023,replacement queue,99,not reached,
+F0597,2023,replacement queue,100,not reached,
+F0044,2023,replacement queue,101,not reached,
+F0910,2023,replacement queue,102,not reached,
+F0022,2023,replacement queue,103,not reached,
+F0327,2023,replacement queue,104,not reached,
+F1116,2023,replacement queue,105,not reached,
+F0208,2023,replacement queue,106,not reached,
+F0371,2023,replacement queue,107,not reached,
+F0534,2023,replacement queue,108,not reached,
+F0021,2023,replacement queue,109,not reached,
+F0072,2023,replacement queue,110,not reached,
+F0781,2023,replacement queue,111,not reached,
+F1161,2023,replacement queue,112,not reached,
+F0765,2023,replacement queue,113,not reached,
+F0575,2023,replacement queue,114,not reached,
+F0488,2023,replacement queue,115,not reached,
+F0074,2023,replacement queue,116,not reached,
+F0020,2023,replacement queue,117,not reached,
+F0052,2023,replacement queue,118,not reached,
+F0051,2023,replacement queue,119,not reached,
+F0038,2023,replacement queue,120,not reached,
+F0353,2023,replacement queue,121,not reached,
+F0240,2023,replacement queue,122,not reached,
+F0098,2023,replacement queue,123,not reached,
+F0003,2023,replacement queue,124,not reached,
+F0562,2023,replacement queue,125,not reached,
+F0159,2023,replacement queue,126,not reached,
+F0764,2023,replacement queue,127,not reached,
+F0878,2023,replacement queue,128,not reached,
+F0075,2023,replacement queue,129,not reached,
+F0789,2023,replacement queue,130,not reached,
+F0796,2023,replacement queue,131,not reached,
+F0701,2023,replacement queue,132,not reached,
+F0667,2024,drawn,58,excluded,no numeric CFA fit index in main text or supplementary files
+F0585,2024,drawn,59,full text not obtained,
+F0354,2024,drawn,60,excluded,no numeric CFA fit index in main text or supplementary files
+F0608,2024,drawn,61,excluded,no confirmatory factor analysis or structural validity results
+F0508,2024,drawn,62,excluded,COSMIN criteria not applied to rate measurement properties
+F0606,2024,drawn,63,full text not obtained,
+F0630,2024,drawn,64,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0471,2024,drawn,65,full text not obtained,
+F0136,2024,drawn,66,excluded,no confirmatory factor analysis or structural validity results
+F0112,2024,drawn,67,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0053,2024,drawn,68,excluded,no numeric CFA fit index in main text or supplementary files
+F0651,2024,drawn,69,full text not obtained,
+F0660,2024,drawn,70,full text not obtained,
+F0511,2024,replacement queue,1,full text not obtained,
+F0100,2024,replacement queue,2,excluded,no numeric CFA fit index in main text or supplementary files
+F0751,2024,replacement queue,3,excluded,no numeric CFA fit index in main text or supplementary files
+F0550,2024,replacement queue,4,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0035,2024,replacement queue,5,included,
+F0015,2024,replacement queue,6,full text not obtained,
+F0381,2024,replacement queue,7,excluded,structural validity assessed by exploratory analysis only
+F0815,2024,replacement queue,8,full text not obtained,
+F0054,2024,replacement queue,9,excluded,no confirmatory factor analysis or structural validity results
+F0906,2024,replacement queue,10,full text not obtained,
+F0414,2024,replacement queue,11,full text not obtained,
+F0941,2024,replacement queue,12,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0804,2024,replacement queue,13,full text not obtained,
+F0887,2024,replacement queue,14,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0838,2024,replacement queue,15,excluded,no confirmatory factor analysis or structural validity results
+F1087,2024,replacement queue,16,excluded,no numeric CFA fit index in main text or supplementary files
+F0748,2024,replacement queue,17,included,
+F0633,2024,replacement queue,18,full text not obtained,
+F0097,2024,replacement queue,19,included,
+F0158,2024,replacement queue,20,full text not obtained,
+F0697,2024,replacement queue,21,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0966,2024,replacement queue,22,excluded,no numeric CFA fit index in main text or supplementary files
+F0711,2024,replacement queue,23,full text not obtained,
+F0678,2024,replacement queue,24,excluded,no confirmatory factor analysis or structural validity results
+F0391,2024,replacement queue,25,full text not obtained,
+F1011,2024,replacement queue,26,excluded,no confirmatory factor analysis or structural validity results
+F0609,2024,replacement queue,27,included,
+F0532,2024,replacement queue,28,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0223,2024,replacement queue,29,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F1124,2024,replacement queue,30,included,
+F0357,2024,replacement queue,31,full text not obtained,
+F0234,2024,replacement queue,32,included,
+F0946,2024,replacement queue,33,full text not obtained,
+F0749,2024,replacement queue,34,included,
+F0976,2024,replacement queue,35,excluded,no numeric CFA fit index in main text or supplementary files
+F0143,2024,replacement queue,36,excluded,no numeric CFA fit index in main text or supplementary files
+F0358,2024,replacement queue,37,full text not obtained,
+F0128,2024,replacement queue,38,included,
+F0345,2024,replacement queue,39,excluded,no numeric CFA fit index in main text or supplementary files
+F0048,2024,replacement queue,40,excluded,no numeric CFA fit index in main text or supplementary files
+F0190,2024,replacement queue,41,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0558,2024,replacement queue,42,excluded,no confirmatory factor analysis or structural validity results
+F0814,2024,replacement queue,43,excluded,no confirmatory factor analysis or structural validity results
+F0168,2024,replacement queue,44,full text not obtained,
+F0596,2024,replacement queue,45,excluded,no confirmatory factor analysis or structural validity results
+F0757,2024,replacement queue,46,full text not obtained,
+F0147,2024,replacement queue,47,full text not obtained,
+F0272,2024,replacement queue,48,full text not obtained,
+F0400,2024,replacement queue,49,full text not obtained,
+F0142,2024,replacement queue,50,excluded,no confirmatory factor analysis or structural validity results
+F0268,2024,replacement queue,51,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0127,2024,replacement queue,52,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0282,2024,replacement queue,53,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0598,2024,replacement queue,54,included,
+F0313,2024,replacement queue,55,full text not obtained,
+F0146,2024,replacement queue,56,excluded,no numeric CFA fit index in main text or supplementary files
+F0487,2024,replacement queue,57,full text not obtained,
+F0352,2024,replacement queue,58,excluded,no numeric CFA fit index in main text or supplementary files
+F0920,2024,replacement queue,59,full text not obtained,
+F0445,2024,replacement queue,60,full text not obtained,
+F0013,2024,replacement queue,61,full text not obtained,
+F0257,2024,replacement queue,62,included,
+F0722,2024,replacement queue,63,excluded,COSMIN criteria not applied to rate measurement properties
+F0594,2024,replacement queue,64,full text not obtained,
+F0017,2024,replacement queue,65,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0036,2024,replacement queue,66,excluded,no numeric CFA fit index in main text or supplementary files
+F0644,2024,replacement queue,67,full text not obtained,
+F0042,2024,replacement queue,68,included,
+F1021,2024,replacement queue,69,excluded,no confirmatory factor analysis or structural validity results
+F0274,2024,replacement queue,70,full text not obtained,
+F0062,2024,replacement queue,71,included,
+F0370,2024,replacement queue,72,full text not obtained,
+F0557,2024,replacement queue,73,full text not obtained,
+F0261,2024,replacement queue,74,excluded,no numeric CFA fit index in main text or supplementary files
+F0919,2024,replacement queue,75,full text not obtained,
+F1114,2024,replacement queue,76,full text not obtained,
+F0259,2024,replacement queue,77,full text not obtained,
+F0162,2024,replacement queue,78,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0837,2024,replacement queue,79,full text not obtained,
+F0918,2024,replacement queue,80,excluded,COSMIN criteria not applied to rate measurement properties
+F0057,2024,replacement queue,81,included,
+F1082,2024,replacement queue,82,not reached,
+F0429,2024,replacement queue,83,not reached,
+F0317,2024,replacement queue,84,not reached,
+F0984,2024,replacement queue,85,not reached,
+F1112,2024,replacement queue,86,not reached,
+F0965,2024,replacement queue,87,not reached,
+F0060,2024,replacement queue,88,not reached,
+F0775,2024,replacement queue,89,not reached,
+F0860,2024,replacement queue,90,not reached,
+F0905,2024,replacement queue,91,not reached,
+F0055,2024,replacement queue,92,not reached,
+F0412,2024,replacement queue,93,not reached,
+F0533,2024,replacement queue,94,not reached,
+F1139,2024,replacement queue,95,not reached,
+F0876,2024,replacement queue,96,not reached,
+F0216,2024,replacement queue,97,not reached,
+F0258,2024,replacement queue,98,not reached,
+F0105,2024,replacement queue,99,not reached,
+F0679,2024,replacement queue,100,not reached,
+F0347,2024,replacement queue,101,not reached,
+F0629,2024,replacement queue,102,not reached,
+F0847,2024,replacement queue,103,not reached,
+F0250,2024,replacement queue,104,not reached,
+F0631,2024,replacement queue,105,not reached,
+F0376,2024,replacement queue,106,not reached,
+F0904,2024,replacement queue,107,not reached,
+F0119,2024,replacement queue,108,not reached,
+F0389,2024,replacement queue,109,not reached,
+F0007,2024,replacement queue,110,not reached,
+F0094,2024,replacement queue,111,not reached,
+F0909,2024,replacement queue,112,not reached,
+F0214,2024,replacement queue,113,not reached,
+F0830,2024,replacement queue,114,not reached,
+F0888,2024,replacement queue,115,not reached,
+F0248,2024,replacement queue,116,not reached,
+F0595,2024,replacement queue,117,not reached,
+F1051,2024,replacement queue,118,not reached,
+F0372,2024,replacement queue,119,not reached,
+F0732,2024,replacement queue,120,not reached,
+F0927,2024,replacement queue,121,not reached,
+F0661,2024,replacement queue,122,not reached,
+F0999,2024,replacement queue,123,not reached,
+F0047,2024,replacement queue,124,not reached,
+F0733,2024,replacement queue,125,not reached,
+F0607,2024,replacement queue,126,not reached,
+F0303,2024,replacement queue,127,not reached,
+F0092,2024,replacement queue,128,not reached,
+F0126,2024,replacement queue,129,not reached,
+F0328,2024,replacement queue,130,not reached,
+F0256,2024,replacement queue,131,not reached,
+F0346,2024,replacement queue,132,not reached,
+F0472,2024,replacement queue,133,not reached,
+F0065,2024,replacement queue,134,not reached,
+F0975,2024,replacement queue,135,not reached,
+F0719,2025,drawn,71,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0030,2025,drawn,72,included,
+F1102,2025,drawn,73,included,
+F0507,2025,drawn,74,excluded,no numeric CFA fit index in main text or supplementary files
+F0952,2025,drawn,75,excluded,no numeric CFA fit index in main text or supplementary files
+F0926,2025,drawn,76,excluded,no numeric CFA fit index in main text or supplementary files
+F0288,2025,drawn,77,excluded,structural validity assessed by exploratory analysis only
+F0523,2025,drawn,78,excluded,no numeric CFA fit index in main text or supplementary files
+F0099,2025,drawn,79,included,
+F0983,2025,drawn,80,included,
+F0428,2025,drawn,81,excluded,no confirmatory factor analysis or structural validity results
+F0795,2025,drawn,82,excluded,no numeric CFA fit index in main text or supplementary files
+F0526,2025,drawn,83,full text not obtained,
+F0592,2025,drawn,84,excluded,no numeric CFA fit index in main text or supplementary files
+F1157,2025,drawn,85,excluded,no numeric CFA fit index in main text or supplementary files
+F0114,2025,drawn,86,included,
+F0219,2025,replacement queue,1,full text not obtained,
+F0531,2025,replacement queue,2,excluded,no confirmatory factor analysis or structural validity results
+F0102,2025,replacement queue,3,excluded,no numeric CFA fit index in main text or supplementary files
+F0849,2025,replacement queue,4,included,
+F0823,2025,replacement queue,5,excluded,no confirmatory factor analysis or structural validity results
+F0695,2025,replacement queue,6,excluded,no numeric CFA fit index in main text or supplementary files
+F1151,2025,replacement queue,7,excluded,no numeric CFA fit index in main text or supplementary files
+F0872,2025,replacement queue,8,excluded,no numeric CFA fit index in main text or supplementary files
+F0195,2025,replacement queue,9,excluded,no numeric CFA fit index in main text or supplementary files
+F0413,2025,replacement queue,10,full text not obtained,
+F0997,2025,replacement queue,11,included,
+F0982,2025,replacement queue,12,excluded,no numeric CFA fit index in main text or supplementary files
+F1145,2025,replacement queue,13,full text not obtained,
+F0551,2025,replacement queue,14,full text not obtained,
+F0010,2025,replacement queue,15,excluded,no numeric CFA fit index in main text or supplementary files
+F0369,2025,replacement queue,16,full text not obtained,
+F0721,2025,replacement queue,17,excluded,no confirmatory factor analysis or structural validity results
+F0117,2025,replacement queue,18,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0743,2025,replacement queue,19,full text not obtained,
+F0726,2025,replacement queue,20,full text not obtained,
+F0247,2025,replacement queue,21,included,
+F1153,2025,replacement queue,22,full text not obtained,
+F0980,2025,replacement queue,23,excluded,no numeric CFA fit index in main text or supplementary files
+F0666,2025,replacement queue,24,excluded,no confirmatory factor analysis or structural validity results
+F0243,2025,replacement queue,25,full text not obtained,
+F0801,2025,replacement queue,26,full text not obtained,
+F0569,2025,replacement queue,27,excluded,no confirmatory factor analysis or structural validity results
+F0981,2025,replacement queue,28,excluded,no numeric CFA fit index in main text or supplementary files
+F1105,2025,replacement queue,29,excluded,COSMIN criteria not applied to rate measurement properties
+F0943,2025,replacement queue,30,included,
+F0836,2025,replacement queue,31,full text not obtained,
+F0524,2025,replacement queue,32,full text not obtained,
+F0953,2025,replacement queue,33,excluded,no confirmatory factor analysis or structural validity results
+F0746,2025,replacement queue,34,full text not obtained,
+F0741,2025,replacement queue,35,full text not obtained,
+F0273,2025,replacement queue,36,excluded,no confirmatory factor analysis or structural validity results
+F0285,2025,replacement queue,37,full text not obtained,
+F1097,2025,replacement queue,38,included,
+F0529,2025,replacement queue,39,full text not obtained,
+F0404,2025,replacement queue,40,full text not obtained,
+F0298,2025,replacement queue,41,full text not obtained,
+F0387,2025,replacement queue,42,full text not obtained,
+F0859,2025,replacement queue,43,excluded,no confirmatory factor analysis or structural validity results
+F0336,2025,replacement queue,44,included,
+F0715,2025,replacement queue,45,full text not obtained,
+F1003,2025,replacement queue,46,excluded,no confirmatory factor analysis or structural validity results
+F0486,2025,replacement queue,47,full text not obtained,
+F0694,2025,replacement queue,48,full text not obtained,
+F0297,2025,replacement queue,49,full text not obtained,
+F0212,2025,replacement queue,50,excluded,no numeric CFA fit index in main text or supplementary files
+F0696,2025,replacement queue,51,excluded,no confirmatory factor analysis or structural validity results
+F1024,2025,replacement queue,52,excluded,COSMIN criteria not applied to rate measurement properties
+F0617,2025,replacement queue,53,excluded,no numeric CFA fit index in main text or supplementary files
+F0368,2025,replacement queue,54,excluded,no numeric CFA fit index in main text or supplementary files
+F0008,2025,replacement queue,55,included,
+F0641,2025,replacement queue,56,included,
+F0955,2025,replacement queue,57,excluded,no confirmatory factor analysis or structural validity results
+F0203,2025,replacement queue,58,full text not obtained,
+F0627,2025,replacement queue,59,excluded,no numeric CFA fit index in main text or supplementary files
+F1107,2025,replacement queue,60,excluded,no numeric CFA fit index in main text or supplementary files
+F0988,2025,replacement queue,61,excluded,no confirmatory factor analysis or structural validity results
+F0677,2025,replacement queue,62,full text not obtained,
+F1015,2025,replacement queue,63,excluded,no numeric CFA fit index in main text or supplementary files
+F0241,2025,replacement queue,64,full text not obtained,
+F0783,2025,replacement queue,65,excluded,no confirmatory factor analysis or structural validity results
+F0574,2025,replacement queue,66,included,
+F0228,2025,replacement queue,67,full text not obtained,
+F0199,2025,replacement queue,68,excluded,no numeric CFA fit index in main text or supplementary files
+F0628,2025,replacement queue,69,full text not obtained,
+F0548,2025,replacement queue,70,full text not obtained,
+F0572,2025,replacement queue,71,excluded,no numeric CFA fit index in main text or supplementary files
+F0444,2025,replacement queue,72,full text not obtained,
+F0945,2025,replacement queue,73,excluded,no numeric CFA fit index in main text or supplementary files
+F0402,2025,replacement queue,74,full text not obtained,
+F0549,2025,replacement queue,75,full text not obtained,
+F0183,2025,replacement queue,76,full text not obtained,
+F0571,2025,replacement queue,77,full text not obtained,
+F0133,2025,replacement queue,78,full text not obtained,
+F0886,2025,replacement queue,79,full text not obtained,
+F0157,2025,replacement queue,80,full text not obtained,
+F0325,2025,replacement queue,81,full text not obtained,
+F0249,2025,replacement queue,82,full text not obtained,
+F1176,2025,replacement queue,83,excluded,COSMIN criteria not applied to rate measurement properties
+F0643,2025,replacement queue,84,included,
+F0996,2025,replacement queue,85,full text not obtained,
+F0385,2025,replacement queue,86,excluded,no confirmatory factor analysis or structural validity results
+F0209,2025,replacement queue,87,excluded,no numeric CFA fit index in main text or supplementary files
+F0080,2025,replacement queue,88,excluded,no numeric CFA fit index in main text or supplementary files
+F1028,2025,replacement queue,89,excluded,COSMIN criteria not applied to rate measurement properties
+F0439,2025,replacement queue,90,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0803,2025,replacement queue,91,full text not obtained,
+F0954,2025,replacement queue,92,excluded,no confirmatory factor analysis or structural validity results
+F0735,2025,replacement queue,93,full text not obtained,
+F0460,2025,replacement queue,94,full text not obtained,
+F0275,2025,replacement queue,95,included,
+F0427,2025,replacement queue,96,not reached,
+F0148,2025,replacement queue,97,not reached,
+F1096,2025,replacement queue,98,not reached,
+F0714,2025,replacement queue,99,not reached,
+F0998,2025,replacement queue,100,not reached,
+F0403,2025,replacement queue,101,not reached,
+F0137,2025,replacement queue,102,not reached,
+F0570,2025,replacement queue,103,not reached,
+F0903,2025,replacement queue,104,not reached,
+F0788,2025,replacement queue,105,not reached,
+F0763,2025,replacement queue,106,not reached,
+F0625,2025,replacement queue,107,not reached,
+F0175,2025,replacement queue,108,not reached,
+F0226,2025,replacement queue,109,not reached,
+F0470,2025,replacement queue,110,not reached,
+F0584,2025,replacement queue,111,not reached,
+F0205,2025,replacement queue,112,not reached,
+F0116,2025,replacement queue,113,not reached,
+F0242,2025,replacement queue,114,not reached,
+F0780,2025,replacement queue,115,not reached,
+F0593,2025,replacement queue,116,not reached,
+F0468,2025,replacement queue,117,not reached,
+F0382,2025,replacement queue,118,not reached,
+F0441,2025,replacement queue,119,not reached,
+F1128,2025,replacement queue,120,not reached,
+F0848,2025,replacement queue,121,not reached,
+F1094,2025,replacement queue,122,not reached,
+F0642,2025,replacement queue,123,not reached,
+F0650,2025,replacement queue,124,not reached,
+F1032,2025,replacement queue,125,not reached,
+F0396,2025,replacement queue,126,not reached,
+F0755,2025,replacement queue,127,not reached,
+F0016,2025,replacement queue,128,not reached,
+F0426,2025,replacement queue,129,not reached,
+F0430,2025,replacement queue,130,not reached,
+F1002,2025,replacement queue,131,not reached,
+F0438,2025,replacement queue,132,not reached,
+F0076,2025,replacement queue,133,not reached,
+F0931,2025,replacement queue,134,not reached,
+F0573,2025,replacement queue,135,not reached,
+F0039,2025,replacement queue,136,not reached,
+F0421,2025,replacement queue,137,not reached,
+F0658,2025,replacement queue,138,not reached,
+F0956,2025,replacement queue,139,not reached,
+F0885,2025,replacement queue,140,not reached,
+F0925,2025,replacement queue,141,not reached,
+F1031,2025,replacement queue,142,not reached,
+F0422,2025,replacement queue,143,not reached,
+F0756,2025,replacement queue,144,not reached,
+F1004,2025,replacement queue,145,not reached,
+F1130,2025,replacement queue,146,not reached,
+F0096,2025,replacement queue,147,not reached,
+F0139,2025,replacement queue,148,not reached,
+F0469,2025,replacement queue,149,not reached,
+F0902,2025,replacement queue,150,not reached,
+F0262,2025,replacement queue,151,not reached,
+F0185,2025,replacement queue,152,not reached,
+F0416,2025,replacement queue,153,not reached,
+F0720,2025,replacement queue,154,not reached,
+F0420,2025,replacement queue,155,not reached,
+F1093,2025,replacement queue,156,not reached,
+F1103,2025,replacement queue,157,not reached,
+F0393,2025,replacement queue,158,not reached,
+F0082,2025,replacement queue,159,not reached,
+F0525,2025,replacement queue,160,not reached,
+F0813,2026,drawn,87,excluded,no numeric CFA fit index in main text or supplementary files
+F0423,2026,drawn,88,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F1009,2026,drawn,89,excluded,COSMIN criteria not applied to rate measurement properties
+F0222,2026,drawn,90,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0857,2026,drawn,91,full text not obtained,
+F0449,2026,drawn,92,excluded,no numeric CFA fit index in main text or supplementary files
+F0556,2026,drawn,93,included,
+F0305,2026,drawn,94,full text not obtained,
+F0279,2026,drawn,95,excluded,no numeric CFA fit index in main text or supplementary files
+F0435,2026,drawn,96,excluded,no numeric CFA fit index in main text or supplementary files
+F0940,2026,drawn,97,included,
+F0315,2026,drawn,98,full text not obtained,
+F0762,2026,drawn,99,excluded,no confirmatory factor analysis or structural validity results
+F0233,2026,drawn,100,full text not obtained,
+F0944,2026,replacement queue,1,full text not obtained,
+F0434,2026,replacement queue,2,included,
+F0450,2026,replacement queue,3,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0712,2026,replacement queue,4,excluded,no confirmatory factor analysis or structural validity results
+F0908,2026,replacement queue,5,full text not obtained,
+F1054,2026,replacement queue,6,full text not obtained,
+F0322,2026,replacement queue,7,included,
+F0974,2026,replacement queue,8,excluded,structural validity assessed by exploratory analysis only
+F0785,2026,replacement queue,9,included,
+F0442,2026,replacement queue,10,excluded,no confirmatory factor analysis or structural validity results
+F0433,2026,replacement queue,11,included,
+F0521,2026,replacement queue,12,full text not obtained,
+F0467,2026,replacement queue,13,full text not obtained,
+F0829,2026,replacement queue,14,excluded,no confirmatory factor analysis or structural validity results
+F0900,2026,replacement queue,15,excluded,no confirmatory factor analysis or structural validity results
+F0141,2026,replacement queue,16,full text not obtained,
+F0979,2026,replacement queue,17,full text not obtained,
+F0454,2026,replacement queue,18,full text not obtained,
+F0340,2026,replacement queue,19,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0193,2026,replacement queue,20,included,
+F0583,2026,replacement queue,21,excluded,no numeric CFA fit index in main text or supplementary files
+F0239,2026,replacement queue,22,full text not obtained,
+F0874,2026,replacement queue,23,excluded,no confirmatory factor analysis or structural validity results
+F0858,2026,replacement queue,24,full text not obtained,
+F0547,2026,replacement queue,25,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0361,2026,replacement queue,26,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0812,2026,replacement queue,27,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0915,2026,replacement queue,28,full text not obtained,
+F0337,2026,replacement queue,29,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0657,2026,replacement queue,30,excluded,no numeric CFA fit index in main text or supplementary files
+F0451,2026,replacement queue,31,excluded,no confirmatory factor analysis or structural validity results
+F0351,2026,replacement queue,32,excluded,COSMIN criteria not applied to rate measurement properties
+F0227,2026,replacement queue,33,excluded,no confirmatory factor analysis or structural validity results
+F0134,2026,replacement queue,34,excluded,no numeric CFA fit index in main text or supplementary files
+F0994,2026,replacement queue,35,excluded,COSMIN criteria not applied to rate measurement properties
+F0366,2026,replacement queue,36,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0964,2026,replacement queue,37,excluded,no confirmatory factor analysis or structural validity results
+F0308,2026,replacement queue,38,excluded,no numeric CFA fit index in main text or supplementary files
+F0254,2026,replacement queue,39,full text not obtained,
+F1014,2026,replacement queue,40,excluded,no numeric CFA fit index in main text or supplementary files
+F0294,2026,replacement queue,41,full text not obtained,
+F0901,2026,replacement queue,42,full text not obtained,
+F0875,2026,replacement queue,43,full text not obtained,
+F0202,2026,replacement queue,44,full text not obtained,
+F0316,2026,replacement queue,45,full text not obtained,
+F0675,2026,replacement queue,46,full text not obtained,
+F0453,2026,replacement queue,47,full text not obtained,
+F0284,2026,replacement queue,48,full text not obtained,
+F0289,2026,replacement queue,49,included,
+F0365,2026,replacement queue,50,included,
+F0530,2026,replacement queue,51,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0180,2026,replacement queue,52,full text not obtained,
+F0418,2026,replacement queue,53,full text not obtained,
+F0779,2026,replacement queue,54,excluded,structural validity assessed by exploratory analysis only
+F1030,2026,replacement queue,55,excluded,COSMIN criteria not applied to rate measurement properties
+F0215,2026,replacement queue,56,included,
+F0883,2026,replacement queue,57,excluded,no confirmatory factor analysis or structural validity results
+F0424,2026,replacement queue,58,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0211,2026,replacement queue,59,full text not obtained,
+F1010,2026,replacement queue,60,excluded,no numeric CFA fit index in main text or supplementary files
+F0768,2026,replacement queue,61,full text not obtained,
+F0318,2026,replacement queue,62,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0745,2026,replacement queue,63,excluded,no numeric CFA fit index in main text; supplementary files could not be obtained
+F0386,2026,replacement queue,64,excluded,structural validity assessed by exploratory analysis only
+F0937,2026,replacement queue,65,excluded,no confirmatory factor analysis or structural validity results
+F0686,2026,replacement queue,66,excluded,no confirmatory factor analysis or structural validity results
+F0432,2026,replacement queue,67,included,
+F0343,2026,replacement queue,68,full text not obtained,
+F0917,2026,replacement queue,69,excluded,no numeric CFA fit index in main text; no supplementary files exist
+F0972,2026,replacement queue,70,excluded,COSMIN criteria not applied to rate measurement properties
+F0452,2026,replacement queue,71,included,
+F0397,2026,replacement queue,72,full text not obtained,
+F0005,2026,replacement queue,73,full text not obtained,
+F0431,2026,replacement queue,74,full text not obtained,
+F0264,2026,replacement queue,75,included,
+F0150,2026,replacement queue,76,excluded,no numeric CFA fit index in main text or supplementary files
+F0754,2026,replacement queue,77,full text not obtained,
+F0281,2026,replacement queue,78,full text not obtained,
+F0184,2026,replacement queue,79,excluded,no numeric CFA fit index in main text or supplementary files
+F0189,2026,replacement queue,80,excluded,no numeric CFA fit index in main text or supplementary files
+F0270,2026,replacement queue,81,included,
+F0747,2026,replacement queue,82,not reached,
+F0355,2026,replacement queue,83,not reached,
+F0939,2026,replacement queue,84,not reached,
+F0291,2026,replacement queue,85,not reached,
+F0710,2026,replacement queue,86,not reached,
+F0978,2026,replacement queue,87,not reached,
+F0446,2026,replacement queue,88,not reached,
+F0437,2026,replacement queue,89,not reached,
+F0362,2026,replacement queue,90,not reached,
+F0300,2026,replacement queue,91,not reached,
+F0786,2026,replacement queue,92,not reached,
+F0367,2026,replacement queue,93,not reached,
+F0787,2026,replacement queue,94,not reached,
+F0605,2026,replacement queue,95,not reached,
+F0506,2026,replacement queue,96,not reached,
+F0280,2026,replacement queue,97,not reached,
+F0938,2026,replacement queue,98,not reached,
+F1019,2026,replacement queue,99,not reached,
+F0350,2026,replacement queue,100,not reached,
+F0440,2026,replacement queue,101,not reached,
+F0292,2026,replacement queue,102,not reached,
+F0914,2026,replacement queue,103,not reached,
+F0443,2026,replacement queue,104,not reached,
+F0447,2026,replacement queue,105,not reached,
+F0916,2026,replacement queue,106,not reached,
+F1071,2026,replacement queue,107,not reached,
+F0375,2026,replacement queue,108,not reached,
+F1020,2026,replacement queue,109,not reached,
+F0401,2026,replacement queue,110,not reached,
+F0194,2026,replacement queue,111,not reached,
+F0049,2026,replacement queue,112,not reached,
+F0197,2026,replacement queue,113,not reached,
+F0659,2026,replacement queue,114,not reached,
+F0995,2026,replacement queue,115,not reached,
+F0244,2026,replacement queue,116,not reached,
+F0236,2026,replacement queue,117,not reached,
+F0266,2026,replacement queue,118,not reached,
+F0465,2026,replacement queue,119,not reached,
+F0774,2026,replacement queue,120,not reached,
+F0778,2026,replacement queue,121,not reached,
+F0581,2026,replacement queue,122,not reached,
+F0616,2026,replacement queue,123,not reached,
+F0232,2026,replacement queue,124,not reached,
+F0448,2026,replacement queue,125,not reached,
+F0310,2026,replacement queue,126,not reached,
+F0304,2026,replacement queue,127,not reached,
+F0485,2026,replacement queue,128,not reached,
+F0224,2026,replacement queue,129,not reached,
+F0822,2026,replacement queue,130,not reached,
+F0286,2026,replacement queue,131,not reached,
+F0333,2026,replacement queue,132,not reached,
+F1017,2026,replacement queue,133,not reached,
+F0794,2026,replacement queue,134,not reached,
+F1016,2026,replacement queue,135,not reached,
+F1026,2026,replacement queue,136,not reached,
+F0626,2026,replacement queue,137,not reached,
+F0769,2026,replacement queue,138,not reached,
+F0873,2026,replacement queue,139,not reached,
+F0066,2026,replacement queue,140,not reached,
+F0884,2026,replacement queue,141,not reached,
+F0676,2026,replacement queue,142,not reached,
+F0237,2026,replacement queue,143,not reached,
+F0466,2026,replacement queue,144,not reached,
+F0725,2026,replacement queue,145,not reached,

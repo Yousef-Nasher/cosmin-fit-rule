@@ -1,0 +1,28 @@
+Package: cosminfit
+Type: Package
+Title: Rate Confirmatory Factor Analysis Fit Against the COSMIN Criterion
+Version: 0.1.0
+Authors@R: c(
+    person("Yousef M.", "Nasher", email = "yousefnasher76@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0001-3704-3149")),
+    person("Marwan", "Alqumbaey", role = "aut", comment = c(ORCID = "0009-0004-8688-9556")),
+    person("Fareed", "AL-Mekhlafi", role = "aut", comment = c(ORCID = "0009-0004-7300-347X")),
+    person("Suhaib", "Nasr", role = "aut", comment = c(ORCID = "0009-0005-8146-6172")),
+    person("Hael Saeed Hassan", "Ali", role = "aut", comment = c(ORCID = "0009-0004-7650-9011")),
+    person("Abdulaleem", "Badi", role = "aut", comment = c(ORCID = "0009-0000-3153-832X")),
+    person("Zaid", "Al-hayas", role = "aut", comment = c(ORCID = "0009-0009-5412-6307")),
+    person("Ammar", "AL-Hadidah", email = "ammar5mohammads5@gmail.com", role = "aut",
+           comment = c(ORCID = "0009-0002-8712-7196")))
+Description: Rates confirmatory factor analysis (CFA) fit indices against the
+    COSMIN structural validity criterion "CFI or TLI or comparable measure
+    > 0.95 OR RMSEA < 0.06 OR SRMR < 0.08" (Prinsen et al. 2018
+    <doi:10.1007/s11136-018-1798-3>; Mokkink et al. 2024) and against
+    alternative rules. Handles indices that a study did not report, gives the
+    population relation between SRMR and RMSEA, and provides simple
+    confidence intervals for proportions of ratings.
+License: MIT + file LICENSE
+Depends: R (>= 4.0)
+Imports: stats, utils
+Suggests: lavaan
+URL: https://github.com/Yousef-Nasher/cosmin-fit-rule
+BugReports: https://github.com/Yousef-Nasher/cosmin-fit-rule/issues

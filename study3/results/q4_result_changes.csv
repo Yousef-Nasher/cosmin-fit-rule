@@ -1,0 +1,4 @@
+"rule","n_sufficient_as_written","to_insufficient","to_indeterminate","lower","upper","insufficient_to_sufficient"
+"no_rmsea",422,52,21,0.0822604500475402,0.162166224340573,0
+"srmr_df",422,4,57,0,0.028169014084507,0
+"two_of_three",422,175,78,0.335746680855377,0.484914063853752,0

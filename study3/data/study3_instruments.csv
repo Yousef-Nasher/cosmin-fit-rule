@@ -1,0 +1,332 @@
+review_id,instrument_group,sv_printed,sv,sv_quality,ic_printed,ic,ic_quality,recommendation_printed,recommendation
+F0008,PANSS-6,+,+,high,?,?,low,B,B
+F0030,SF-36,+,+,moderate,+,+,moderate,A,A
+F0030,EQ-5D,+,+,moderate,+,+,very low,,
+F0030,WHOQOL-BREF,−,-,moderate,?,?,,B,B
+F0030,PROMIS-29,+,+,high,+,+,high,B,B
+F0035,GOHAI,Inconsistent,+/-,,,,,,
+F0042,CAS-CIPN,+,+,,+,+,,B,B
+F0042,CIPNAT,−,-,,+,+,,A,A
+F0057,PAH-SYMPACT,,,,+,+,low,A,A
+F0062,TSK-11 (cross-cultural versions),,,,,,,,
+F0067,NOTSS,Inconsistent,+/-,moderate,Indeterminate,,,,
+F0085,BPPS,+,+,,−,-,,,
+F0085,IGDPB,+,+,,+,+,,,
+F0085,ERI,+,+,,?,?,,,
+F0085,LDPT,+,+,,+,+,,,
+F0085,PPDTS,+,+,,+,+,,,
+F0085,ERS,+,+,,+,+,,,
+F0097,EAT-10,−,-,,,,,,
+F0097,EORTC QLQ-H&N43,−,-,,,,,,
+F0097,GTQ,−,-,,,,,,
+F0099,ACE-III-S,+,+,high,,,,B,B
+F0099,AV-MoCA,+,+,high,+,+,high,A,A
+F0099,MoCA-J,+,+,high,+,+,high,B,B
+F0113,PSI-VSF-ID,+,+,high,,,,B (most promising),B
+F0164,SPADI translated versions,"? (two-factor, inconsistent)",?,moderate,+,+,moderate,,
+F0176,NSCI,,,,+,+,,A,A
+F0176,NSCQ,,,,+,+,,A,A
+F0193,LGBT Minority Stress Measure,−,-,high,?,?,,C,C
+F0193,LGIS,−,-,moderate,?,?,,B,B
+F0215,Academic burnout scale,+,+,high,,,,,
+F0215,ASBI,±,+/-,high,,,,,
+F0215,BAT-C student,+,+,high,,,,,
+F0215,CBI-S,−,-,moderate,,,,,
+F0215,ESSBS,−,-,high,,,,,
+F0215,FS-BAT,+,+,high,,,,,
+F0215,MBI-EFL-SS,+,+,high,,,,,
+F0215,MBI-GS revised,−,-,very low,,,,,
+F0215,MBI-SS (Bresó Dutch/Spanish),−,-,high,,,,,
+F0215,MBI-SS Dutch,+,+,high,,,,,
+F0215,MBI-SS Spanish,+,+,high,,,,,
+F0215,MBI-SSi,−,-,high,,,,,
+F0215,MBI-SuS,+,+,high,,,,,
+F0215,OLBI-N,+,+,high,,,,,
+F0215,OLBI-S,±,+/-,,,,,,
+F0215,S-BAT,+,+,high,,,,,
+F0215,SBI,+,+,low,,,,,
+F0215,SBI-8,+,+,high,,,,,
+F0215,SBI-U,+,+,high,,,,,
+F0215,BAT-C short,+,+,high,,,,,
+F0215,SSBS,+,+,high,,,,,
+F0215,ULB scale,+,+,high,,,,,
+F0215,UW-ESBS,+,+,high,,,,,
+F0221,FOPQ-C,?,?,low,,,,,
+F0221,FOPQ-SF,+,+,moderate,,,,,
+F0221,PCS-C,?,?,moderate,,,,,
+F0221,PCS-P,±,+/-,moderate,,,,,
+F0221,PCQ,?,?,low,,,,,
+F0221,PCQ-SF,−,-,low,,,,,
+F0234,SANS,+,+,,,,,B,B
+F0247,PMDD scale,Insufficient,-,,Sufficient,+,,,
+F0247,PSQ,Sufficient,+,,Sufficient,+,,,
+F0247,PSQ-S,Sufficient,+,,Sufficient,+,,,
+F0247,PSMS,Insufficient,-,,Sufficient,+,,,
+F0247,PMS-8,Insufficient,-,,Insufficient,-,,,
+F0247,DRSP-J,Inconsistent,+/-,,Sufficient,+,high,,
+F0247,J-DRSP,Insufficient,-,,Inconsistent,+/-,,,
+F0247,J-DRSP (SF),Sufficient,+,,Sufficient,+,,,
+F0257,DFS,+,+,high,+,+,high,B,B
+F0257,Slade FCQ,+,+,high,+,+,high,A,A
+F0257,CFQ,?,?,very low,+,+,high,B,B
+F0264,CAOPA,I/?/NI,?,,VG/+/H,+,high,“B”,B
+F0264,CASP-19,VG/+/H,+,high,VG/+/H,+,high,“A”,A
+F0264,EAAS,VG/+/H,+,high,VG/+/H,+,high,“B”,B
+F0264,NR_Kim,VG/+/H,+,high,VG/+/H,+,high,“B”,B
+F0275,BIPM,+,+,high,+,+,,,
+F0275,PMS,?,?,low,,,,,
+F0289,STSS-SM,−,-,moderate,+,+,moderate,,
+F0289,EMC-STS,+,+,moderate,+,+,moderate,,
+F0306,MOQ-T,+,+,,,,,,
+F0306,MABC-2 Checklist,±,+/-,,,,,,
+F0306,Child RMP,−,-,,,,,,
+F0306,DESSA,+,+,,,,,,
+F0306,ERC,+,+,,,,,,
+F0306,MASCS,+,+,,,,,,
+F0306,SEARS-T,±,+/-,,,,,,
+F0306,SSIS SEL RF Teacher,−,-,,,,,,
+F0306,Harter's TRS,+,+,,,,,,
+F0306,QACSE-P-SF,+,+,,,,,,
+F0307,PQOL,S,+,high,S,+,high,A,A
+F0307,RPQOL,S,+,moderate,S,+,moderate,B,B
+F0320,COMRADE,--,-,,?,?,,,
+F0320,SDM-Q-9 (Spanish),+++,+,,+++,+,,,
+F0320,SDM-Q-9 (Dutch),+++,+,,+++,+,,,
+F0320,SDM-Q-9 Psy (Hebrew),++,+,,++,+,,,
+F0320,SDM-Q-Doc,+++,+,,+++,+,,,
+F0320,SDM-Q-Doc (Dutch),+++,+,,+++,+,,,
+F0320,SDM-Q-Doc (Spanish),?,?,,?,?,,,
+F0322,ELNS,,,,,,,,
+F0323,SMDOA,+,+,moderate,0,?,,B,B
+F0324,DLQI-Chinese,,,,,,,B,B
+F0336,FreBAQ,−,-,low,,,,,
+F0360,NSCQ,,,,,,,,
+F0360,NPVS-R,,,,,,,,
+F0360,MCPIS,,,,,,,,
+F0360,CPI,,,,,,,,
+F0360,PIFFS,,,,,,,,
+F0360,Values Survey,,,,,,,,
+F0407,WHOQOL-HIV-BREF,,,,,,,Strongly recommended,
+F0407,MOS-HIV,,,,,,,Strongly recommended,
+F0407,SF-36,,,,,,,Strongly recommended,
+F0407,WHOQOL-BREF,,,,,,,Weakly recommended,
+F0407,EUROHIS-QoL-8,,,,,,,Weakly recommended,
+F0407,HAQ-DI,,,,,,,Weakly recommended,
+F0407,PozQoL,,,,,,,Weakly recommended,
+F0432,SF-36,+,+,,,,,,
+F0432,WHOQOL-BREF,+,+,,,,,,
+F0432,MHQOL,+,+,,+,+,,,
+F0432,ReQoL,+,+,,+,+,,,
+F0432,SQLS-R4,±,+/-,,,,,,
+F0433,QoL-ACC,?,?,moderate,?,?,moderate,,
+F0434,FGSIS,±,+/-,,,,,potentially recommended (FGSIS-7),
+F0434,MGSIS,+,+,,,,,no conclusion,
+F0434,K-GIS,+,+,,,,,no conclusion,
+F0452,SDQ (ADHD subscale),+,+,moderate,+,+,moderate,,
+F0452,CADBI,+,+,high,+,+,moderate,,
+F0452,FTF,+,+,moderate,+,+,moderate,,
+F0452,CABI,+,+,,,,,,
+F0489,FES-I,±,+/-,moderate,+,+,high,B,B
+F0489,FFQ-R (German),+,+,high,+,+,high,B,B
+F0490,AII Persian,?,?,,+,+,,,
+F0490,IdFAI Chinese,+,+,,+,+,,,
+F0490,IdFAI Persian,−,-,,+,+,,,
+F0490,IdFAI Spanish I,+,+,,+,+,,,
+F0490,IdFAI French,−,-,,−,-,,,
+F0495,LYMQoL-Arm A,+ (4 factors with acceptable loadings),+,moderate,+,+,high,B,B
+F0495,LYMQoL-Arm B,−,-,very low,?,?,,B,B
+F0495,LLIS ver 1,+,+,moderate,+,+,,A,A
+F0495,LSIDS-A,+,+,moderate,,,,C,C
+F0495,ULL27,+,+,moderate,+,+,high,C,C
+F0518,VSQ,+,+,high,,,,,
+F0518,DIVA,+,+,moderate,,,,,
+F0539,EORTC QLQ-TC26,+,+,,,,,,
+F0545,Managerial Stigma towards Employee Depression,,,,,,,,
+F0556,APS (Spanish),+,+,high,±,+/-,,B,B
+F0556,CPCI (Brazilian),+,+,high,+,+,,A,A
+F0556,CPCI (French),+,+,high,+,+,,B,B
+F0556,CPCI-42 (Chinese),?,?,moderate,?,?,,B,B
+F0556,CPCI-42 (Italian),+,+,moderate,+,+,,A,A
+F0556,CPCI-42 (Spanish),,,,,,,,
+F0556,FABQ (Chinese),−,-,high,?,?,,C,C
+F0556,FABQ (Gujarati),−,-,high,?,?,,C,C
+F0556,FABQ (Serbian),+,+,high,+,+,,B,B
+F0556,FABQ (Swiss-German),−,-,high,?,?,,C,C
+F0556,NRP (English),+,+,high,+,+,,B,B
+F0556,PASS-20 (Chinese),−,-,high,?,?,,C,C
+F0556,PASS-20 (Korean),−,-,very low,?,?,,B,B
+F0556,PIPS (Dutch),+,+,high,+,+,,B,B
+F0556,PIPS (German),+,+,high,+,+,,B,B
+F0556,PIPS (Greek),−,-,high,?,?,,C,C
+F0556,PIPS (Japanese),+,+,high,+,+,,B,B
+F0556,PIPS (Swedish),+,+,high,+,+,,B,B
+F0556,TSK (Chinese),−,-,high,?,?,,C,C
+F0556,TSK (Dutch),−,-,high,−,-,,C,C
+F0556,TSK (English),±,+/-,high,?,?,,B,B
+F0556,TSK-11 (Dutch),+,+,high,−,-,,C,C
+F0556,TSK-11 (English),−,-,high,?,?,,C,C
+F0556,TSK-11 (German),+,+,high,−,-,,C,C
+F0556,TSK-11 (Swedish),−,-,high,?,?,,C,C
+F0556,TSK-13 (Dutch),+,+,moderate,+,+,,B,B
+F0556,TSK-13 (English),−,-,high,?,?,,C,C
+F0556,TSK-TMD (Brazilian),+,+,high,+,+,,B,B
+F0556,TSK-TMD (Dutch),+,+,high,±,+/-,,B,B
+F0556,TSK-TMD (Spanish),+,+,high,+,+,,B,B
+F0559,PDQ (combined English),+,+,high,,,,,
+F0559,PGQ-Persian,+,+,very low,,,,,
+F0559,PSQS-Turkish,+,+,very low,,,,,
+F0559,PDQ-Spanish,?,?,,,,,,
+F0559,SVPGS-Chinese,?,?,,,,,,
+F0559,SVPGS-Czech,−,-,,,,,,
+F0559,HPSS-English,?,?,,,,,,
+F0574,Modified cognitive mapping task (VR),,,,,,,,
+F0598,SCI-QOL item banks,− (most banks),-,,,,,,
+F0598,Qualiveen,,,,,,,B,B
+F0598,SOSGOQ 2.0,+,+,,,,,B,B
+F0598,WHOQOL-DIS,+,+,,,,,B,B
+F0598,SCI-QOL APSSRA,,,,,,,C,C
+F0598,SCI-QOL Anxiety,,,,,,,C,C
+F0598,SCI-QOL Bladder Complications,,,,,,,C,C
+F0598,SCI-QOL Bladder Management Difficulties,,,,,,,C,C
+F0598,SCI-QOL Bowel Management Difficulties,,,,,,,C,C
+F0598,SCI-QOL Depression,,,,,,,C,C
+F0598,SCI-QOL Economic,,,,,,,C,C
+F0598,SCI-QOL Grief and Loss,,,,,,,C,C
+F0598,SCI-QOL PAWB,,,,,,,C,C
+F0598,SCI-QOL Pressure ulcers,,,,,,,C,C
+F0598,SCI-QOL Psychological Trauma,,,,,,,C,C
+F0598,SCI-QOL Resilience,,,,,,,C,C
+F0598,SCI-QOL Self-esteem,,,,,,,C,C
+F0598,SCI-QOL Stigma,,,,,,,C,C
+F0598,IBMSSP-EFAPD,,,,,,,B,B
+F0601,DFS-SF dependence/daily life,+,+,high,+,+,high,,
+F0601,PRO-DM-Thai physical function,+,+,high,+,+,high,,
+F0601,Diabetes-39 energy and mobility (15),+,+,high,+,+,high,,
+F0601,Diabetes-39 SF energy and mobility (5),+,+,high,,,,,
+F0604,BIS,+,+,moderate,+,+,moderate,,
+F0609,LATCH,+,+,,+,+,,,
+F0641,CSI,Acceptable factor loading (+),+,,(+),+,high,,
+F0643,PDQ-39,+ (15 VG studies),+,,+,+,,A,A
+F0643,PDQ-8,+ (7 VG studies),+,,+,+,,A,A
+F0643,SF-36,+ (1 VG study),+,,+,+,,B,B
+F0649,SFQ,,,,,,,,
+F0649,SDI-2,,,,,,,,
+F0649,CSDS,,,,,,,,
+F0653,PSQ-3,"± (printed '(+), (−)')",+/-,,+,+,,,
+F0653,MOS-SS,−,-,,,,,,
+F0653,ISI-4,"± (printed '(+), (−)')",+/-,,,,,,
+F0653,AIS-5,+,+,,+,+,,,
+F0653,AIS-8,"± (printed '(−), (+)' for AIS-5 & 8)",+/-,,+,+,,,
+F0653,PSQI,±,+/-,,,,,,
+F0653,CPSI,+,+,,+,+,,,
+F0705,VOL,+,+,,+,+,,,
+F0705,Thai Elders Psychological Well-Being measure,+,+,,+,+,,,
+F0705,LSITA,+,+,,+,+,,,
+F0705,CAWP,+,+,,+,+,,,
+F0705,GSWS,blank (negative sign lost),-,,+,+,,,
+F0705,LSS-C,+,+,,+,+,,,
+F0705,TSWBATECI,+,+,,+,+,,,
+F0705,WTL,+,+,,+,+,,,
+F0705,MLS,+,+,,+,+,,,
+F0718,PWMILS,±,+/-,,,,,,
+F0718,20-item MedLitRxSE,+,+,high,?,?,,,
+F0718,14-item MedLitRxSE,+,+,low,+,+,high,,
+F0724,CSHQ,+ Moderate,+,moderate,– High,-,high,,
+F0738,SCLS,,,,,,,,
+F0744,FB-seq,,,,,,,,
+F0744,MS,,,,α .80–.84,,,,
+F0748,ORCA,,,,,,,,
+F0749,SMBM,,,,? (alpha >.7 but SV not sufficient),?,,,
+F0767,NFI,−,-,high,,,,,
+F0767,NPI,?,?,high,,,,,
+F0785,SSQHS,+,+,moderate,+,+,moderate,,
+F0791,MSSM scale-revised,Inconsistent,+/-,,,,,Category B (unrecommended for use),C
+F0791,MSSM-2 scale,Sufficient,+,high,Insufficient,-,high,Category B (unrecommended for use),C
+F0797,CARPA,+,+,,+,+,,,
+F0797,ECVPA,+,+,,+,+,,,
+F0797,CDAQ-C,+,+,,+,+,,,
+F0797,CPAS,+,+,,+,+,,,
+F0797,TCDVI,+,+,,+,+,,,
+F0797,CQ_AS,+,+,,+,+,,,
+F0797,EDA,+,+,,+,+,,,
+F0797,PDCAS,?,?,,+,+,,,
+F0824,AS,−,-,,,,,,
+F0824,ASQ-SF,+,+,,,,,,
+F0824,ANQ,mixed by version,+/-,,,,,,
+F0824,BAAC,+,+,,,,,,
+F0824,CAMIR,+,+,,,,,,
+F0824,CAMIR-R,+,+,,,,,,
+F0824,CATS,± (inconsistent),+/-,,,,,,
+F0824,PAS,−,-,,,,,,
+F0824,PTI-ASS,+,+,,,,,,
+F0824,RSQ,−,-,,,,,,
+F0832,CCVUQ (Chinese),+,+,moderate,+,+,high,B,B
+F0849,MMSE,+,+,high,-,-,high,,
+F0849,MoCA,+,+,moderate,+,+,high,,
+F0894,Berkel 2018 measure,,,,,,,,
+F0894,Giannotta 2019 measure,,,,,,,,
+F0898,TCAQ,,,,,,,,
+F0911,MIQ-RS,,,,,,,,
+F0911,MIQ-3,,,,,,,,
+F0911,VMIQ-2,,,,,,,,
+F0911,SIAQ,,,,,,,,
+F0911,SIQ,,,,,,,,
+F0911,SUIS,,,,,,,,
+F0911,EIQ,,,,,,,,
+F0911,CAPIQ,,,,,,,,
+F0940,VABS (Chinese),+,+,high,+,+,,,
+F0943,BCIS,,,,,,,,
+F0943,SUMD,,,,,,,,
+F0943,BIS,,,,,,,,
+F0968,AS,+/- (High),+/-,high,?,?,,,
+F0983,CFC,,,,,,,,
+F0983,ECog Korean,,,,+,+,,,
+F0989,EBPAS,+,+,moderate,,,,,
+F0989,EBPAS-36,±,+/-,,,,,,
+F0989,EBPQ,+,+,moderate,,,,,
+F0989,MPAS,+,+,high,,,,,
+F0989,HS-EBP,+,+,high,,,,,
+F0997,MDF-Fibro-17,,,,,,,,
+F1000,MOS-SSS English 18-item,±,+/-,,,,,B,B
+F1006,Flow in HCI,+,+,moderate,,,,,
+F1006,FSS,+,+,high,,,,,
+F1006,FSS Greek [55],−,-,moderate,,,,,
+F1006,FSS Greek [56],−,-,high,,,,,
+F1006,FSS Spanish,−,-,high,,,,,
+F1006,SFS,−,-,high,,,,,
+F1006,CFS,−,-,high,,,,,
+F1006,FSSOT,+,+,high,,,,,
+F1023,SAQ,,,,,,,,
+F1086,SCNS-SF,strong evidence (+++),+,,,,,,
+F1086,NEQ,,,,,,,,
+F1097,A-IADL-Q-SV,+,+,,?,?,,,
+F1097,Lawton IADL [70],+,+,,+,+,,,
+F1102,BAQ,−,-,low,,,,,
+F1102,BPQ-SF,±,+/-,moderate,,,,,
+F1102,MAIA,±,+/-,moderate,,,,,
+F1102,MAIA-2,±,+/-,moderate,,,,,
+F1102,PBE-QAG,−,-,low,,,,,
+F1102,SBC,±,+/-,very low,,,,,
+F1121,PPASC (Arabic),+,+,,+,+,,,
+F1124,DQOL,+,+,low,−,-,high,C,C
+F1124,ISE,+,+,low,+,+,high,B,B
+F1124,LSNS-R,+,+,high,+,+,high,B,B
+F1124,Nursing Home Care-Related Quality of Life Scale,+,+,high,−,-,high,C,C
+F1124,RISE,+,+,high,+,+,high,B,B
+F1124,Time Use (MDS),−,-,low,?,?,high,B,B
+F1126,MMCL,+,+,low,+,+,low,A,A
+F1126,WHO-5,+,+,moderate,+,+,moderate,A,A
+F1126,EPDS,+,+,moderate,+,+,moderate,A,A
+F1126,CBTS,+,+,very low,+,+,high,A,A
+F1126,MSPSS,−,-,moderate,+,+,moderate,A,A
+F1126,PQOL,+,+,high,+,+,high,A,A
+F1126,13-PAFS,+,+,moderate,−,-,moderate,B,B
+F1126,IFSAC,? (not assessed),?,very low,−,-,very low,B,B
+F1126,PDSS,−,-,moderate,+,+,moderate,A,A
+F1126,PDPSI,+,+,moderate,+,+,moderate,A,A
+F1126,FAS,+,+,moderate,+,+,moderate,C,C
+F1126,Barkin Index of Maternal Functioning,+,+,moderate,+,+,moderate,A,A
+F1126,PDS,?,?,low,+,+,low,A,A
+F1126,PBQ,? (not assessed),?,very low,+,+,low,A,A
+F1126,MOS-SSS,+,+,very low,+,+,very low,C,C
+F1126,PPSS-S,+,+,moderate,+,+,moderate,A,A
