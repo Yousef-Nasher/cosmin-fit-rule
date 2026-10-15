@@ -38,5 +38,10 @@ authors:
     orcid: "https://orcid.org/0009-0002-8712-7196"
     email: "ammar5mohammads5@gmail.com"
 version: 0.1.0
+doi: 10.5281/zenodo.23405152
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23405152
+    description: "Archived release of this repository on Zenodo"
 license: MIT
 repository-code: "https://github.com/Yousef-Nasher/cosmin-fit-rule"

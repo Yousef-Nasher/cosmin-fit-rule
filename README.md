@@ -1,5 +1,7 @@
 # cosmin-fit-rule
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23405152.svg)](https://doi.org/10.5281/zenodo.23405152)
+
 Code, data and software for a study of the COSMIN criterion for structural validity.
 
 COSMIN rates the structural validity of an outcome measurement instrument as sufficient when a confirmatory factor analysis (CFA) gives "CFI or TLI or comparable measure > 0.95 OR RMSEA < 0.06 OR SRMR < 0.08" (Prinsen et al. 2018; Mokkink et al. 2024). This repository holds everything needed to check what that rule allows, how it behaves in simulated data, and how published reviews apply it.
@@ -80,7 +82,13 @@ Code is released under the MIT licence (see `LICENSE`). Data and text are releas
 
 ## Citation
 
-See `CITATION.cff`.
+If you use this code or data, please cite the archived release:
+
+Nasher YM, Alqumbaey M, AL-Mekhlafi F, Nasr S, Ali HSH, Badi A, Al-hayas Z, AL-Hadidah A. cosmin-fit-rule: code, data and software for a study of the COSMIN criterion for structural validity (version 0.1.0). Zenodo; 2026. https://doi.org/10.5281/zenodo.23405152
+
+The accompanying manuscript is: Nasher YM, Alqumbaey M, AL-Mekhlafi F, Nasr S, Ali HSH, Badi A, Al-hayas Z, AL-Hadidah A. One passing index is enough: the COSMIN criterion for structural validity in theory, simulation and practice. 2026 (manuscript).
+
+Machine-readable citation details are in `CITATION.cff`.
 
 ## References
 

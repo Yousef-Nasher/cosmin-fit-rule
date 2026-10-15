@@ -70,3 +70,7 @@ python -m unittest -v           # or: pytest
 ## License
 
 MIT
+
+## Citation
+
+Please cite the archived release: Nasher YM, Alqumbaey M, AL-Mekhlafi F, Nasr S, Ali HSH, Badi A, Al-hayas Z, AL-Hadidah A. cosmin-fit-rule: code, data and software for a study of the COSMIN criterion for structural validity (version 0.1.0). Zenodo; 2026. https://doi.org/10.5281/zenodo.23405152

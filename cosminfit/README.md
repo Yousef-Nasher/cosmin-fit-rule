@@ -43,7 +43,9 @@ and gives a rating only when it does not depend on the missing values. See
 
 ## Citation
 
-Nasher YM, Alqumbaey M, AL-Mekhlafi F, Nasr S, Ali HSH, Badi A, Al-hayas Z, AL-Hadidah A. The COSMIN criterion for structural validity: what it allows and how systematic reviews apply it. 2026 (manuscript). See
+Nasher YM, Alqumbaey M, AL-Mekhlafi F, Nasr S, Ali HSH, Badi A, Al-hayas Z, AL-Hadidah A. One passing index is enough: the COSMIN criterion for structural validity in theory, simulation and practice. 2026 (manuscript).
+
+Software archive: https://doi.org/10.5281/zenodo.23405152. See
 `citation("cosminfit")`.
 
 ## License

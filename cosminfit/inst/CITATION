@@ -1,6 +1,6 @@
 bibentry(
   bibtype = "Unpublished",
-  title = "The COSMIN criterion for structural validity: what it allows and how systematic reviews apply it",
+  title = "One passing index is enough: the COSMIN criterion for structural validity in theory, simulation and practice",
   author = c(person("Yousef M.", "Nasher"),
              person("Marwan", "Alqumbaey"),
              person("Fareed", "AL-Mekhlafi"),
@@ -11,5 +11,24 @@ bibentry(
              person("Ammar", "AL-Hadidah")),
   year = "2026",
   note = "Manuscript",
-  textVersion = "Nasher YM, Alqumbaey M, AL-Mekhlafi F, Nasr S, Ali HSH, Badi A, Al-hayas Z, AL-Hadidah A. The COSMIN criterion for structural validity: what it allows and how systematic reviews apply it. 2026 (manuscript)."
+  textVersion = "Nasher YM, Alqumbaey M, AL-Mekhlafi F, Nasr S, Ali HSH, Badi A, Al-hayas Z, AL-Hadidah A. One passing index is enough: the COSMIN criterion for structural validity in theory, simulation and practice. 2026 (manuscript)."
+)
+
+bibentry(
+  bibtype = "Manual",
+  title = "cosmin-fit-rule: code, data and software for a study of the COSMIN criterion for structural validity",
+  author = c(person("Yousef M.", "Nasher"),
+             person("Marwan", "Alqumbaey"),
+             person("Fareed", "AL-Mekhlafi"),
+             person("Suhaib", "Nasr"),
+             person("Hael Saeed Hassan", "Ali"),
+             person("Abdulaleem", "Badi"),
+             person("Zaid", "Al-hayas"),
+             person("Ammar", "AL-Hadidah")),
+  year = "2026",
+  note = "Version 0.1.0",
+  publisher = "Zenodo",
+  doi = "10.5281/zenodo.23405152",
+  url = "https://doi.org/10.5281/zenodo.23405152",
+  textVersion = "Nasher YM, Alqumbaey M, AL-Mekhlafi F, Nasr S, Ali HSH, Badi A, Al-hayas Z, AL-Hadidah A. cosmin-fit-rule: code, data and software for a study of the COSMIN criterion for structural validity (version 0.1.0). Zenodo; 2026. https://doi.org/10.5281/zenodo.23405152"
 )
