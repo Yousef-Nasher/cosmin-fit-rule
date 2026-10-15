@@ -11,7 +11,7 @@ This study asks how systematic reviews that use COSMIN state and apply the struc
 
 ## Sample
 
-We searched PubMed with `(COSMIN[tiab]) AND (systematic review[pt] OR systematic review[tiab]) AND ("2018"[dp] : "2026"[dp])` and exported the COSMIN database of systematic reviews. Both were run on 7 October 2026, and the counts for each step are in `data/study3_search_counts.csv`.
+We searched PubMed with `(COSMIN[tiab]) AND (systematic review[pt] OR systematic review[tiab]) AND ("2018"[dp] : "2026"[dp])` and searched the COSMIN database of systematic reviews with the terms "CFA", "structural validity", "factor analysis", "confirmatory factor", "factorial validity", "measurement model", "model fit" and "confirmatory factor analysis". Both were run on 7 October 2026, and the counts for each step are in `data/study3_search_counts.csv`.
 
 The sampling frame (`data/study3_frame.csv`) holds the reviews published from 2018 to 2026 that passed title and abstract screening. Records removed because their publication year was before 2018 are listed in `data/study3_frame_outside_years.csv`.
 
